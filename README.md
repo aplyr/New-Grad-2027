@@ -2,24 +2,18 @@
 
 New grad 2027 software, data, AI, product, quant and hardware roles in the U.S. Updated daily, closed roles marked.
 
-Full-time new grad roles in the U.S. for the class of 2027 (and recent grads), newest first: software engineering, data and AI, product management, quant and hardware. The table is regenerated every day from Aplyr's job index, which pulls postings straight from each company's own careers site. Closed roles move to the "Recently closed" section.
+Full-time new grad roles in the U.S. for the class of 2027 and recent grads, newest first.
 
-We filter out titles that clearly aren't entry level (Senior, Staff, Lead) even when a posting is mis-tagged, and we hide anything older than 90 days.
+## How to use this list
 
-## Reading the tables
-
-- Each section is sorted by posting date, newest first. Applying in the first week a role is up gives you the best odds.
-- **Apply** opens the role on Aplyr with the full description, the pay range when the employer lists one, and a direct link to the employer's application.
-- **Pay** is shown only when the posting itself lists it.
+- **Apply** opens the role on Aplyr, with the full description and a link to the employer's application.
 - 🆕 added in the last 48 hours
 - `Sponsors visas` the company has sponsored H-1B visas before
 - `No sponsorship` the posting says it can’t sponsor a visa
 - `U.S. citizens` needs U.S. citizenship or a security clearance
-- Sponsorship is tracked per company. `Sponsors visas` means the employer has sponsored before, not that this role will, so ask the recruiter early.
-- When a role closes it moves to **Recently closed** for 14 days, then drops off.
-- Star the repo to find it again. It's rebuilt every day.
+- Closed roles move to **Recently closed** for 14 days.
 
-Spotted a closed role, a duplicate, or something that doesn't belong? Open an issue (see [CONTRIBUTING.md](CONTRIBUTING.md)). We read every one.
+Found a closed role or a mistake? [Open an issue](CONTRIBUTING.md).
 
 <!-- APLYR:LISTINGS:START -->
 <!-- Generated daily by scripts/generate.mjs. Edits inside these markers are overwritten. -->
@@ -123,4 +117,4 @@ _Nothing open in this section right now. New postings show up here within a day.
 
 ---
 
-Listings come from [Aplyr](https://aplyr.ai/l/new-grad-2027-tech-jobs?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=readme)'s job index, which reads postings directly from employers' own careers sites and re-checks them every day. This repo isn't affiliated with or endorsed by the companies listed.
+Listings come from [Aplyr](https://aplyr.ai/l/new-grad-2027-tech-jobs?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=readme), straight from employers' own careers sites. Not affiliated with the companies listed.
