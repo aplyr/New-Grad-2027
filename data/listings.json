@@ -2,37 +2,20 @@
  "version": 1,
  "slug": "new-grad-2027",
  "open": {
-  "affirm.com::software engineer early career sf": {
-   "id": "21b8bda55856",
-   "company": "Affirm",
-   "companyUrl": "https://aplyr.ai/companies/affirm?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, Early Career (SF)",
+  "kgroupcompanies.com::field service technicain entry level": {
+   "id": "be8976d9e176",
+   "company": "K Group",
+   "companyUrl": "https://aplyr.ai/companies/kgroupcompanies?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Field Service Technicain (Entry Level)",
    "locations": [
-    "San Francisco, California"
+    "Grand Rapids, Michigan",
+    "Michigan"
    ],
    "section": "swe",
    "posted": "2026-10-16",
-   "added": "2026-10-07T05:01:06.000Z",
-   "pay": "$130k–180k/yr",
-   "url": "https://aplyr.ai/jobs/21b8bda55856/software-engineer-early-career-sf?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "affirm.com::software engineer early career nyc": {
-   "id": "c5ab286b5a69",
-   "company": "Affirm",
-   "companyUrl": "https://aplyr.ai/companies/affirm?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, Early Career (NYC)",
-   "locations": [
-    "New York, New York"
-   ],
-   "section": "swe",
-   "posted": "2026-10-16",
-   "added": "2026-10-07T05:01:06.000Z",
-   "pay": "$130k–180k/yr",
-   "url": "https://aplyr.ai/jobs/c5ab286b5a69/software-engineer-early-career-nyc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
+   "added": "2026-10-18T09:17:03.000Z",
+   "url": "https://aplyr.ai/jobs/be8976d9e176/field-service-technicain-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
   },
   "together.ai::hardware security engineer new grad 2027": {
    "id": "1dc32dff6d66",
@@ -42,122 +25,43 @@
    "locations": [
     "San Francisco"
    ],
-   "remote": true,
-   "section": "swe",
+   "section": "hw",
    "posted": "2026-10-16",
    "added": "2026-10-17T09:04:24.000Z",
    "pay": "$140k–150k/yr",
    "url": "https://aplyr.ai/jobs/1dc32dff6d66/hardware-security-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
-  "freeform.co::fpga engineer new grad summer 2027": {
-   "id": "4ba2f4f6ab68",
-   "company": "Freeform",
-   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "FPGA Engineer (New Grad Summer 2027)",
+  "nc.gov::database administrator i ehra early career": {
+   "id": "5ffc0b95cae4",
+   "company": "State of North Carolina",
+   "companyUrl": "https://aplyr.ai/companies/nc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Database Administrator I - EHRA - Early Career",
    "locations": [
-    "Los Angeles, CA (On-site)"
+    "Wake County, NC"
+   ],
+   "section": "data",
+   "posted": "2026-10-16",
+   "added": "2026-10-17T22:43:12.000Z",
+   "pay": "$82k–122k/yr",
+   "url": "https://aplyr.ai/jobs/5ffc0b95cae4/database-administrator-i-ehra-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "globalfoundries.com::silicon photonics test development engineer 2027 new college graduate": {
+   "id": "6ae2625e14f2",
+   "company": "GlobalFoundries",
+   "companyUrl": "https://aplyr.ai/companies/globalfoundries?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Silicon Photonics Test Development Engineer (2027 New College Graduate)",
+   "locations": [
+    "USA - Vermont - Essex Junction"
    ],
    "section": "hw",
    "posted": "2026-10-16",
-   "added": "2026-10-08T06:01:11.000Z",
-   "pay": "$125k–150k/yr",
-   "url": "https://aplyr.ai/jobs/4ba2f4f6ab68/fpga-engineer-new-grad-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "freeform.co::software engineer new grad summer 2027": {
-   "id": "ca9ea3781a68",
-   "company": "Freeform",
-   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer (New Grad Summer 2027)",
-   "locations": [
-    "Los Angeles, CA (On-site)"
-   ],
-   "section": "swe",
-   "posted": "2026-10-16",
-   "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$125k–150k/yr",
-   "url": "https://aplyr.ai/jobs/ca9ea3781a68/software-engineer-new-grad-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "freeform.co::software engineer new grad december 2026": {
-   "id": "796e66e07e9e",
-   "company": "Freeform",
-   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer (New Grad December 2026)",
-   "locations": [
-    "Los Angeles, CA (On-site)"
-   ],
-   "section": "swe",
-   "posted": "2026-10-16",
-   "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$125k–150k/yr",
-   "url": "https://aplyr.ai/jobs/796e66e07e9e/software-engineer-new-grad-december-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "freeform.co::electrical engineer new grad summer 2027": {
-   "id": "cc65810af08c",
-   "company": "Freeform",
-   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineer (New Grad Summer 2027)",
-   "locations": [
-    "Los Angeles, CA (On-site)"
-   ],
-   "section": "hw",
-   "posted": "2026-10-16",
-   "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$105k–120k/yr",
-   "url": "https://aplyr.ai/jobs/cc65810af08c/electrical-engineer-new-grad-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "freeform.co::electrical engineer new grad december 2026": {
-   "id": "3ae4a15a12ac",
-   "company": "Freeform",
-   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineer (New Grad December 2026)",
-   "locations": [
-    "Los Angeles, CA (On-site)"
-   ],
-   "section": "hw",
-   "posted": "2026-10-16",
-   "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$110k–125k/yr",
-   "url": "https://aplyr.ai/jobs/3ae4a15a12ac/electrical-engineer-new-grad-december-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "id.me::software engineer ii developer portal new grad early career": {
-   "id": "f96eaf04b6ab",
-   "company": "ID.me",
-   "companyUrl": "https://aplyr.ai/companies/id?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
-   "locations": [
-    "Mountain View, California"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-10-14",
-   "added": "2026-10-06T06:15:41.000Z",
-   "pay": "$122k–157k/yr",
-   "url": "https://aplyr.ai/jobs/f96eaf04b6ab/software-engineer-ii-developer-portal-new-grad-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "added": "2026-10-17T22:29:18.000Z",
+   "pay": "$58k–101k/yr",
+   "url": "https://aplyr.ai/jobs/6ae2625e14f2/silicon-photonics-test-development-engineer-2027-new-college-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "id.me::software development engineer ii life hub super app new grad early career": {
-   "id": "898e703781d5",
-   "company": "ID.me",
-   "companyUrl": "https://aplyr.ai/companies/id?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Development Engineer II – Life Hub (Super App) (New Grad / Early Career)",
-   "locations": [
-    "Mountain View, California"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-10-14",
-   "added": "2026-10-06T06:15:41.000Z",
-   "pay": "$67k–83k/yr",
-   "url": "https://aplyr.ai/jobs/898e703781d5/software-development-engineer-ii-life-hub-super-app-new-grad-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
+   "firstSeen": "2026-10-18"
   },
   "boeing.com::entry level software engineer developer development": {
    "id": "c8444c8cf70f",
@@ -190,89 +94,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "ixl.com::software engineer new grad": {
-   "id": "30711dfa6410",
-   "company": "IXL Learning",
-   "companyUrl": "https://aplyr.ai/companies/ixl?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, New Grad",
-   "locations": [
-    "Raleigh, NC",
-    "San Mateo, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-03-29T05:45:56.000Z",
-   "pay": "$110k–135k/yr",
-   "url": "https://aplyr.ai/jobs/30711dfa6410/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "trueanomaly.space::software engineer i spacecraft simulation new grad": {
-   "id": "66fc7e1a1085",
-   "company": "True Anomaly",
-   "companyUrl": "https://aplyr.ai/companies/trueanomaly?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer I, Spacecraft Simulation (New Grad)",
-   "locations": [
-    "Denver, CO",
-    "Long Beach, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-09-17T07:45:53.000Z",
-   "url": "https://aplyr.ai/jobs/66fc7e1a1085/software-engineer-i-spacecraft-simulation-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-17"
-  },
-  "trueanomaly.space::software engineer i data science new grad": {
-   "id": "0eabab9df05a",
-   "company": "True Anomaly",
-   "companyUrl": "https://aplyr.ai/companies/trueanomaly?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer I, Data Science (New Grad)",
-   "locations": [
-    "Denver, CO",
-    "Long Beach, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-09-17T07:45:53.000Z",
-   "pay": "$75k–80k/yr",
-   "url": "https://aplyr.ai/jobs/0eabab9df05a/software-engineer-i-data-science-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-17"
-  },
-  "trueanomaly.space::software engineer i perception new grad": {
-   "id": "d8c80b1c7ccd",
-   "company": "True Anomaly",
-   "companyUrl": "https://aplyr.ai/companies/trueanomaly?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer I, Perception (New Grad)",
-   "locations": [
-    "Denver, CO",
-    "Long Beach, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-09-17T07:45:53.000Z",
-   "pay": "$75k–80k/yr",
-   "url": "https://aplyr.ai/jobs/d8c80b1c7ccd/software-engineer-i-perception-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-17"
-  },
-  "ixl.com::associate product manager new grad": {
-   "id": "e386b0cd3d31",
-   "company": "IXL Learning",
-   "companyUrl": "https://aplyr.ai/companies/ixl?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Associate Product Manager, New Grad",
-   "locations": [
-    "San Mateo, CA"
-   ],
-   "section": "pm",
-   "posted": "2026-10-13",
-   "added": "2026-03-29T05:45:56.000Z",
-   "pay": "$95k–120k/yr",
-   "url": "https://aplyr.ai/jobs/e386b0cd3d31/associate-product-manager-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
   "pditechnologies.com::product owner i entry level": {
    "id": "566896e6f7d8",
    "company": "PDI Technologies",
@@ -287,20 +108,20 @@
    "url": "https://aplyr.ai/jobs/566896e6f7d8/product-owner-i-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
-  "recidiviz.org::data analyst entry level": {
-   "id": "5a2da285c274",
-   "company": "Recidiviz",
-   "companyUrl": "https://aplyr.ai/companies/recidiviz?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Data Analyst (Entry-Level)",
+  "nvidia.com::software engineer dl kernel libraries new college grad 2027": {
+   "id": "b3462559e8db",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
    "locations": [
-    "Remote, New York City, or Oakland"
+    "US, CA, Santa Clara"
    ],
-   "remote": true,
-   "section": "data",
-   "posted": "2026-10-13",
-   "added": "2026-10-01T07:16:16.000Z",
-   "pay": "$85k/yr",
-   "url": "https://aplyr.ai/jobs/5a2da285c274/data-analyst-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "section": "swe",
+   "posted": "2026-10-12",
+   "added": "2026-10-12T05:15:32.000Z",
+   "pay": "$20–26/hr",
+   "url": "https://aplyr.ai/jobs/b3462559e8db/software-engineer-dl-kernel-libraries-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
   "gm.com::entry level ai machine learning researcher": {
@@ -393,75 +214,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "scale.com::software engineer public sector new grad": {
-   "id": "40663efabbb6",
-   "company": "Scale AI",
-   "companyUrl": "https://aplyr.ai/companies/scale?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, Public Sector - New Grad",
-   "locations": [
-    "San Francisco, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-12",
-   "added": "2026-09-24T07:16:05.000Z",
-   "pay": "$124k–162k/yr",
-   "url": "https://aplyr.ai/jobs/40663efabbb6/software-engineer-public-sector-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "scale.com::software engineer new grad": {
-   "id": "a60753cb60c1",
-   "company": "Scale AI",
-   "companyUrl": "https://aplyr.ai/companies/scale?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer - New Grad",
-   "locations": [
-    "San Francisco, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-12",
-   "added": "2026-09-17T07:15:43.000Z",
-   "pay": "$180k–225k/yr",
-   "url": "https://aplyr.ai/jobs/a60753cb60c1/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "doordash.com::software engineer i entry level graduation date fall 2026 summer 2027 us": {
-   "id": "0db19ea78bf7",
-   "company": "DoorDash",
-   "companyUrl": "https://aplyr.ai/companies/doordash?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
-   "locations": [
-    "Los Angeles, CA",
-    "New York, NY",
-    "San Francisco, CA",
-    "Sunnyvale, CA",
-    "Seattle, WA"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-10-12",
-   "added": "2026-09-17T05:46:19.000Z",
-   "pay": "$131k–192k/yr",
-   "url": "https://aplyr.ai/jobs/0db19ea78bf7/software-engineer-i-entry-level-graduation-date-fall-2026-summer-2027-us?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "nvidia.com::software engineer dl kernel libraries new college grad 2027": {
-   "id": "b3462559e8db",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "section": "swe",
-   "posted": "2026-10-12",
-   "added": "2026-10-12T05:15:32.000Z",
-   "pay": "$20–26/hr",
-   "url": "https://aplyr.ai/jobs/b3462559e8db/software-engineer-dl-kernel-libraries-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
   "gartner.com::associate data scientist spring 2027 master s level graduates": {
    "id": "d5d2f20e51b8",
    "company": "Gartner",
@@ -478,40 +230,35 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "trueanomaly.space::software engineer i full stack new grad": {
-   "id": "4250bc47d316",
-   "company": "True Anomaly",
-   "companyUrl": "https://aplyr.ai/companies/trueanomaly?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer I, Full Stack (New Grad)",
+  "altenusa.com::sap abap btp full stack developer entry level": {
+   "id": "6637db2af139",
+   "company": "ALTEN Technology USA",
+   "companyUrl": "https://aplyr.ai/companies/altenusa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "SAP ABAP & BTP Full Stack Developer (Entry-Level)",
    "locations": [
-    "Denver, CO",
-    "Long Beach, CA"
+    "Foster City, California"
    ],
-   "remote": true,
    "section": "swe",
-   "posted": "2026-10-10",
-   "added": "2026-09-17T07:45:53.000Z",
-   "pay": "$75k–80k/yr",
-   "url": "https://aplyr.ai/jobs/4250bc47d316/software-engineer-i-full-stack-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "noSponsorship": true,
+   "posted": "2026-10-09",
+   "added": "2026-10-10T05:01:10.000Z",
+   "pay": "$70k–80k/yr",
+   "url": "https://aplyr.ai/jobs/6637db2af139/sap-abap-btp-full-stack-developer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
-  "trueanomaly.space::software engineer i elixir new grad": {
-   "id": "e8e81be24332",
-   "company": "True Anomaly",
-   "companyUrl": "https://aplyr.ai/companies/trueanomaly?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer I, Elixir (New Grad)",
+  "aurelian.com::software engineer new grad": {
+   "id": "e4dda6e401c2",
+   "company": "Aurelian",
+   "companyUrl": "https://aplyr.ai/companies/aurelian?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer (New Grad)",
    "locations": [
-    "Denver, CO",
-    "Long Beach, CA"
+    "Seattle"
    ],
-   "remote": true,
    "section": "swe",
-   "posted": "2026-10-10",
-   "added": "2026-09-17T07:45:53.000Z",
-   "url": "https://aplyr.ai/jobs/e8e81be24332/software-engineer-i-elixir-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-17"
+   "posted": "2026-10-09",
+   "added": "2026-10-10T10:00:33.000Z",
+   "pay": "$100k–130k/yr",
+   "url": "https://aplyr.ai/jobs/e4dda6e401c2/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
   },
   "ciena.com::it leadership program new grads": {
    "id": "c8bdf4efc16a",
@@ -543,65 +290,20 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "altenusa.com::sap abap btp full stack developer entry level": {
-   "id": "6637db2af139",
-   "company": "ALTEN Technology USA",
-   "companyUrl": "https://aplyr.ai/companies/altenusa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "SAP ABAP & BTP Full Stack Developer (Entry-Level)",
+  "caci.com::entry level c# software engineer": {
+   "id": "848d7bb3c1cb",
+   "company": "CACI International",
+   "companyUrl": "https://aplyr.ai/companies/caci?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry Level C# Software Engineer",
    "locations": [
-    "Foster City, California"
+    "Virginia Beach, VA"
    ],
    "section": "swe",
-   "posted": "2026-10-09",
-   "added": "2026-10-10T05:01:10.000Z",
-   "pay": "$70k–80k/yr",
-   "url": "https://aplyr.ai/jobs/6637db2af139/sap-abap-btp-full-stack-developer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "nuro.ai::new grad software engineer product engineering": {
-   "id": "38ac333eb15f",
-   "company": "Nuro",
-   "companyUrl": "https://aplyr.ai/companies/nuro?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "New Grad Software Engineer, Product Engineering",
-   "locations": [
-    "Mountain View, California (HQ)"
-   ],
-   "section": "swe",
-   "posted": "2026-10-09",
-   "added": "2026-10-06T06:45:56.000Z",
-   "pay": "$132k–198k/yr",
-   "url": "https://aplyr.ai/jobs/38ac333eb15f/new-grad-software-engineer-product-engineering?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "nuro.ai::software engineer performance tooling and infrastructure new grad": {
-   "id": "1172675bbf98",
-   "company": "Nuro",
-   "companyUrl": "https://aplyr.ai/companies/nuro?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
-   "locations": [
-    "Mountain View, California (HQ)"
-   ],
-   "section": "swe",
-   "posted": "2026-10-09",
-   "added": "2026-09-24T06:45:38.000Z",
-   "pay": "$153k–175k/yr",
-   "url": "https://aplyr.ai/jobs/1172675bbf98/software-engineer-performance-tooling-and-infrastructure-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "nuro.ai::software engineer ai platform new grad": {
-   "id": "adea9eb2bbc8",
-   "company": "Nuro",
-   "companyUrl": "https://aplyr.ai/companies/nuro?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, AI Platform - New Grad",
-   "locations": [
-    "Mountain View, California (HQ)"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-10-09",
-   "added": "2026-03-27T07:00:56.000Z",
-   "pay": "$153k–176k/yr",
-   "url": "https://aplyr.ai/jobs/adea9eb2bbc8/software-engineer-ai-platform-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "posted": "2026-10-08",
+   "added": "2026-10-08T05:47:09.000Z",
+   "pay": "$58k–116k/yr",
+   "url": "https://aplyr.ai/jobs/848d7bb3c1cb/entry-level-c-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
   "leidos.com::entry level electrical hardware design engineer": {
@@ -619,49 +321,51 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "caci.com::entry level c# software engineer": {
-   "id": "848d7bb3c1cb",
-   "company": "CACI International",
-   "companyUrl": "https://aplyr.ai/companies/caci?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry Level C# Software Engineer",
+  "freeform.co::fpga engineer new grad summer 2027": {
+   "id": "4ba2f4f6ab68",
+   "company": "Freeform",
+   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "FPGA Engineer (New Grad Summer 2027)",
    "locations": [
-    "Virginia Beach, VA"
+    "Los Angeles, CA (On-site)"
    ],
-   "section": "swe",
-   "posted": "2026-10-08",
-   "added": "2026-10-08T05:47:09.000Z",
-   "pay": "$58k–116k/yr",
-   "url": "https://aplyr.ai/jobs/848d7bb3c1cb/entry-level-c-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
+   "section": "hw",
+   "posted": "2026-10-07",
+   "added": "2026-10-08T06:01:11.000Z",
+   "pay": "$125k–150k/yr",
+   "url": "https://aplyr.ai/jobs/4ba2f4f6ab68/fpga-engineer-new-grad-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
-  "stripe.com::software engineer new grad": {
-   "id": "6856a06fd0fd",
-   "company": "Stripe",
-   "companyUrl": "https://aplyr.ai/companies/stripe?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+  "ixl.com::software engineer new grad": {
+   "id": "30711dfa6410",
+   "company": "IXL Learning",
+   "companyUrl": "https://aplyr.ai/companies/ixl?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
    "title": "Software Engineer, New Grad",
    "locations": [
-    "San Francisco, Seattle, New York"
+    "Raleigh, NC",
+    "San Mateo, CA"
    ],
    "section": "swe",
    "posted": "2026-10-07",
-   "added": "2026-09-17T07:31:04.000Z",
-   "url": "https://aplyr.ai/jobs/6856a06fd0fd/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "added": "2026-03-29T05:45:56.000Z",
+   "pay": "$110k–135k/yr",
+   "url": "https://aplyr.ai/jobs/30711dfa6410/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "stripe.com::product manager new grad accelerator": {
-   "id": "529b5be42808",
-   "company": "Stripe",
-   "companyUrl": "https://aplyr.ai/companies/stripe?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Product Manager: New Grad Accelerator",
+  "ixl.com::associate product manager new grad": {
+   "id": "e386b0cd3d31",
+   "company": "IXL Learning",
+   "companyUrl": "https://aplyr.ai/companies/ixl?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Associate Product Manager, New Grad",
    "locations": [
-    "San Francisco, New York City, Seattle"
+    "San Mateo, CA"
    ],
    "section": "pm",
    "posted": "2026-10-07",
-   "added": "2026-09-17T07:31:04.000Z",
-   "url": "https://aplyr.ai/jobs/529b5be42808/product-manager-new-grad-accelerator?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "added": "2026-03-29T05:45:56.000Z",
+   "pay": "$95k–120k/yr",
+   "url": "https://aplyr.ai/jobs/e386b0cd3d31/associate-product-manager-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
@@ -685,48 +389,93 @@
    "companyUrl": "https://aplyr.ai/companies/shield?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
    "title": "Software Development Engineer - New Graduate",
    "locations": [
-    "San Diego, California"
+    "San Diego, California",
+    "Washington, D.C.",
+    "Boston, Massachusetts"
    ],
    "section": "swe",
    "posted": "2026-10-06",
    "added": "2026-10-07T05:01:20.000Z",
+   "pay": "$77k–211k/yr",
    "url": "https://aplyr.ai/jobs/1ca45eb62063/software-development-engineer-new-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
-  "c3.ai::platform full stack engineer new grad 2027": {
-   "id": "28a2cdbdb4f5",
-   "company": "C3 AI",
-   "companyUrl": "https://aplyr.ai/companies/c3?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Platform Full-Stack Engineer, New Grad 2027",
+  "id.me::software engineer ii developer portal new grad early career": {
+   "id": "f96eaf04b6ab",
+   "company": "ID.me",
+   "companyUrl": "https://aplyr.ai/companies/id?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer II, Developer Portal (New Grad / Early Career)",
    "locations": [
-    "Redwood City, California"
+    "Mountain View, California"
    ],
-   "remote": true,
    "section": "swe",
-   "posted": "2026-10-06",
-   "added": "2026-09-17T05:16:03.000Z",
-   "pay": "$120k–150k/yr",
-   "url": "https://aplyr.ai/jobs/28a2cdbdb4f5/platform-full-stack-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "posted": "2026-10-05",
+   "added": "2026-10-06T06:15:41.000Z",
+   "pay": "$122k–157k/yr",
+   "url": "https://aplyr.ai/jobs/f96eaf04b6ab/software-engineer-ii-developer-portal-new-grad-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "waymo.com::machine learning engineer perception llm vlm phd new grad": {
-   "id": "bc4fc2894c7a",
-   "company": "Waymo",
-   "companyUrl": "https://aplyr.ai/companies/waymo?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
+  "id.me::software development engineer ii life hub super app new grad early career": {
+   "id": "898e703781d5",
+   "company": "ID.me",
+   "companyUrl": "https://aplyr.ai/companies/id?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Development Engineer II – Life Hub (Super App) (New Grad / Early Career)",
    "locations": [
-    "Mountain View, CA USA",
-    "San Francisco, CA USA"
+    "Mountain View, California"
    ],
-   "remote": true,
-   "section": "data",
-   "posted": "2026-10-02",
-   "added": "2026-09-17T08:01:29.000Z",
-   "pay": "$170k–216k/yr",
-   "url": "https://aplyr.ai/jobs/bc4fc2894c7a/machine-learning-engineer-perception-llmvlm-phd-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "section": "swe",
+   "posted": "2026-10-05",
+   "added": "2026-10-06T06:15:41.000Z",
+   "pay": "$122k–157k/yr",
+   "url": "https://aplyr.ai/jobs/898e703781d5/software-development-engineer-ii-life-hub-super-app-new-grad-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
+  },
+  "nuro.ai::new grad software engineer product engineering": {
+   "id": "38ac333eb15f",
+   "company": "Nuro",
+   "companyUrl": "https://aplyr.ai/companies/nuro?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New Grad Software Engineer, Product Engineering",
+   "locations": [
+    "Mountain View, California (HQ)"
+   ],
+   "section": "swe",
+   "posted": "2026-10-05",
+   "added": "2026-10-06T06:45:56.000Z",
+   "pay": "$132k–198k/yr",
+   "url": "https://aplyr.ai/jobs/38ac333eb15f/new-grad-software-engineer-product-engineering?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "datalabusa.com::programmer analyst entry level data analyst data scientist marketing analytics": {
+   "id": "8328fd2aa9f3",
+   "company": "Datalab USA",
+   "companyUrl": "https://aplyr.ai/companies/datalabusa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Programmer Analyst - (entry-level data analyst/data scientist) Marketing Analytics",
+   "locations": [
+    "Germantown, MD"
+   ],
+   "section": "data",
+   "posted": "2026-10-05",
+   "added": "2026-10-06T09:01:37.000Z",
+   "pay": "$65k–75k/yr",
+   "url": "https://aplyr.ai/jobs/8328fd2aa9f3/programmer-analyst-entry-level-data-analystdata-scientist-marketing-analytics?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate atlanta ga": {
+   "id": "0b32741be751",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Atlanta, GA",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-05",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/0b32741be751/electrical-engineering-new-graduate-atlanta-ga?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
   },
   "harvey.ai::software engineer new grad 2027": {
    "id": "d11235f7c0e2",
@@ -744,19 +493,34 @@
    "url": "https://aplyr.ai/jobs/d11235f7c0e2/software-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
-  "muonspace.com::software engineer entry level": {
-   "id": "706ec3765c37",
-   "company": "Muon Space",
-   "companyUrl": "https://aplyr.ai/companies/muonspace?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, Entry-Level",
+  "imegcorp.com::electrical engineering new graduate designer raleigh nc": {
+   "id": "7ecb9363bb98",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate Designer | Raleigh, NC",
    "locations": [
-    "San Jose, CA"
+    "Raleigh, NC"
    ],
-   "section": "swe",
+   "section": "hw",
    "posted": "2026-10-01",
-   "added": "2026-09-17T06:46:01.000Z",
-   "pay": "$151k–172k/yr",
-   "url": "https://aplyr.ai/jobs/706ec3765c37/software-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/7ecb9363bb98/electrical-engineering-new-graduate-designer-raleigh-nc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "recidiviz.org::data analyst entry level": {
+   "id": "5a2da285c274",
+   "company": "Recidiviz",
+   "companyUrl": "https://aplyr.ai/companies/recidiviz?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Data Analyst (Entry-Level)",
+   "locations": [
+    "Remote, New York City, or Oakland"
+   ],
+   "remote": true,
+   "section": "data",
+   "posted": "2026-09-30",
+   "added": "2026-10-01T07:16:16.000Z",
+   "pay": "$85k/yr",
+   "url": "https://aplyr.ai/jobs/5a2da285c274/data-analyst-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
   "spacex.com::new graduate engineer software starfall": {
@@ -772,143 +536,6 @@
    "added": "2026-09-29T07:30:58.000Z",
    "pay": "$125k–160k/yr",
    "url": "https://aplyr.ai/jobs/ba563eed1372/new-graduate-engineer-software-starfall?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "spacex.com::new graduate engineer software starship": {
-   "id": "d3f55fb98761",
-   "company": "SpaceX",
-   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "New Graduate Engineer, Software (Starship)",
-   "locations": [
-    "Starbase, TX",
-    "Hawthorne, CA"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-09-29",
-   "added": "2026-09-17T07:31:04.000Z",
-   "url": "https://aplyr.ai/jobs/d3f55fb98761/new-graduate-engineer-software-starship?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "spacex.com::new graduate engineer software security 26 27 starlink": {
-   "id": "e37cd2da797b",
-   "company": "SpaceX",
-   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
-   "locations": [
-    "Palo Alto, CA",
-    "Hawthorne, CA",
-    "Redmond, WA",
-    "Bastrop, TX"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-09-29",
-   "added": "2026-09-17T07:31:04.000Z",
-   "pay": "$140k–210k/yr",
-   "url": "https://aplyr.ai/jobs/e37cd2da797b/new-graduate-engineer-software-security-2627-starlink?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "spacex.com::new graduate engineer software application software": {
-   "id": "f6512a507459",
-   "company": "SpaceX",
-   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "New Graduate Engineer, Software (Application Software)",
-   "locations": [
-    "Hawthorne, CA"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-09-29",
-   "added": "2026-09-17T07:31:04.000Z",
-   "pay": "$125k–195k/yr",
-   "url": "https://aplyr.ai/jobs/f6512a507459/new-graduate-engineer-software-application-software?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "spacex.com::new graduate engineer software 26 27 starlink": {
-   "id": "3a5d393f2862",
-   "company": "SpaceX",
-   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
-   "locations": [
-    "Palo Alto, CA",
-    "Redmond, WA",
-    "Bastrop, TX"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-09-29",
-   "added": "2026-09-17T07:31:04.000Z",
-   "pay": "$135k–210k/yr",
-   "url": "https://aplyr.ai/jobs/3a5d393f2862/new-graduate-engineer-software-2627-starlink?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "spacex.com::new graduate engineer security software starshield": {
-   "id": "41164f411e17",
-   "company": "SpaceX",
-   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "New Graduate Engineer, Security Software (Starshield)",
-   "locations": [
-    "Washington, DC",
-    "Hawthorne, CA"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-09-29",
-   "added": "2026-09-17T07:31:04.000Z",
-   "pay": "$130k–195k/yr",
-   "url": "https://aplyr.ai/jobs/41164f411e17/new-graduate-engineer-security-software-starshield?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "spacex.com::new graduate engineer software": {
-   "id": "96d10ff2c4fc",
-   "company": "SpaceX",
-   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "New Graduate Engineer, Software",
-   "locations": [
-    "Hawthorne, CA"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-09-29",
-   "added": "2026-03-27T07:00:56.000Z",
-   "pay": "$125k–145k/yr",
-   "url": "https://aplyr.ai/jobs/96d10ff2c4fc/new-graduate-engineer-software?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "botauto.com::algorithm engineer deep learning vision new grad": {
-   "id": "3f08c586aff9",
-   "company": "Bot Auto",
-   "companyUrl": "https://aplyr.ai/companies/botauto?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Algorithm Engineer, Deep Learning & Vision (New Grad)",
-   "locations": [
-    "Houston, TX"
-   ],
-   "section": "data",
-   "posted": "2026-09-25",
-   "added": "2026-09-17T05:16:03.000Z",
-   "url": "https://aplyr.ai/jobs/3f08c586aff9/algorithm-engineer-deep-learning-vision-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "singlestore.com::mit software engineer new grad helios": {
-   "id": "622aabd2bc66",
-   "company": "SingleStore",
-   "companyUrl": "https://aplyr.ai/companies/singlestore?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "MIT-Software Engineer-New Grad |Helios|",
-   "locations": [
-    "United States"
-   ],
-   "section": "swe",
-   "posted": "2026-09-25",
-   "added": "2026-09-22T07:30:52.000Z",
-   "url": "https://aplyr.ai/jobs/622aabd2bc66/mit-software-engineer-new-grad-helios?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
@@ -936,7 +563,6 @@
    "locations": [
     "New York, New York"
    ],
-   "remote": true,
    "section": "swe",
    "posted": "2026-09-23",
    "added": "2026-09-24T07:30:58.000Z",
@@ -945,69 +571,35 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "databricks.com::associate product manager new grad 2027 start": {
-   "id": "1b763bd1494f",
-   "company": "Databricks",
-   "companyUrl": "https://aplyr.ai/companies/databricks?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Associate Product Manager, New Grad (2027 Start)",
+  "nuro.ai::software engineer performance tooling and infrastructure new grad": {
+   "id": "1172675bbf98",
+   "company": "Nuro",
+   "companyUrl": "https://aplyr.ai/companies/nuro?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, Performance Tooling and Infrastructure New Grad",
    "locations": [
-    "Bellevue, Washington",
-    "Mountain View, California",
-    "San Francisco, California"
+    "Mountain View, California (HQ)"
    ],
-   "section": "pm",
-   "posted": "2026-09-23",
-   "added": "2026-09-17T05:46:19.000Z",
-   "pay": "$133k–150k/yr",
-   "url": "https://aplyr.ai/jobs/1b763bd1494f/associate-product-manager-new-grad-2027-start?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "dominodatalab.com::software engineer new grad 2027": {
-   "id": "9f0db6a309fc",
-   "company": "Domino Data Lab",
-   "companyUrl": "https://aplyr.ai/companies/dominodatalab?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer - New Grad, 2027",
-   "locations": [
-    "New York City, New York"
-   ],
-   "remote": true,
    "section": "swe",
    "posted": "2026-09-23",
-   "added": "2026-09-17T05:46:19.000Z",
-   "pay": "$150k–165k/yr",
-   "url": "https://aplyr.ai/jobs/9f0db6a309fc/software-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "added": "2026-09-24T06:45:38.000Z",
+   "pay": "$153k–175k/yr",
+   "url": "https://aplyr.ai/jobs/1172675bbf98/software-engineer-performance-tooling-and-infrastructure-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "scale.com::software engineer public sector new grad": {
+   "id": "40663efabbb6",
+   "company": "Scale AI",
+   "companyUrl": "https://aplyr.ai/companies/scale?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, Public Sector - New Grad",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-09-23",
+   "added": "2026-09-24T07:16:05.000Z",
+   "pay": "$124k–162k/yr",
+   "url": "https://aplyr.ai/jobs/40663efabbb6/software-engineer-public-sector-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "bgeinc.com::frisco electrical engineer power systems new grad": {
-   "id": "4541d94eb268",
-   "company": "BGE Inc",
-   "companyUrl": "https://aplyr.ai/companies/bgeinc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "FRISCO - Electrical Engineer-Power Systems, New Grad",
-   "locations": [
-    "10777 Westheimer Road, Suite 400, Houston, Texas 77042"
-   ],
-   "section": "hw",
-   "posted": "2026-09-23",
-   "added": "2026-09-17T05:16:03.000Z",
-   "url": "https://aplyr.ai/jobs/4541d94eb268/frisco-electrical-engineer-power-systems-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-17"
-  },
-  "bgeinc.com::austin electrical engineer power systems new grad": {
-   "id": "ac8e33688681",
-   "company": "BGE Inc",
-   "companyUrl": "https://aplyr.ai/companies/bgeinc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "AUSTIN - Electrical Engineer-Power Systems, New Grad",
-   "locations": [
-    "101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728"
-   ],
-   "section": "hw",
-   "posted": "2026-09-23",
-   "added": "2026-09-17T05:16:03.000Z",
-   "url": "https://aplyr.ai/jobs/ac8e33688681/austin-electrical-engineer-power-systems-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "noSponsorship": true,
    "firstSeen": "2026-10-17"
   },
   "hntb.com::new grad electrical engineering i 2027": {
@@ -1022,53 +614,6 @@
    "posted": "2026-09-22",
    "added": "2026-10-17T22:43:58.000Z",
    "url": "https://aplyr.ai/jobs/201e0f35afd5/new-grad-electrical-engineering-i-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "singlestore.com::mit software engineer new grad engine": {
-   "id": "2f0a60db4085",
-   "company": "SingleStore",
-   "companyUrl": "https://aplyr.ai/companies/singlestore?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "MIT-Software Engineer-New Grad |Engine|",
-   "locations": [
-    "United States"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-09-22",
-   "added": "2026-09-22T07:30:52.000Z",
-   "url": "https://aplyr.ai/jobs/2f0a60db4085/mit-software-engineer-new-grad-engine?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "singlestore.com::software engineer helios new grad 2027": {
-   "id": "8c31b859e420",
-   "company": "SingleStore",
-   "companyUrl": "https://aplyr.ai/companies/singlestore?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer-Helios-New Grad 2027",
-   "locations": [
-    "United States"
-   ],
-   "section": "swe",
-   "posted": "2026-09-22",
-   "added": "2026-09-17T07:31:04.000Z",
-   "url": "https://aplyr.ai/jobs/8c31b859e420/software-engineer-helios-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "singlestore.com::software engineer engine new grad 2027": {
-   "id": "512eace7a5ee",
-   "company": "SingleStore",
-   "companyUrl": "https://aplyr.ai/companies/singlestore?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer-Engine-New Grad 2027",
-   "locations": [
-    "United States"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-09-22",
-   "added": "2026-09-17T07:31:04.000Z",
-   "url": "https://aplyr.ai/jobs/512eace7a5ee/software-engineer-engine-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
@@ -1087,20 +632,267 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "ciena.com::wavelogic software developer new grad": {
-   "id": "e5d219ac68fc",
-   "company": "Ciena",
-   "companyUrl": "https://aplyr.ai/companies/ciena?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "WaveLogic Software Developer - New Grad",
+  "datalabusa.com::production programmer entry level sql developer": {
+   "id": "a8e361f3af4b",
+   "company": "Datalab USA",
+   "companyUrl": "https://aplyr.ai/companies/datalabusa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Production Programmer - Entry Level SQL Developer",
    "locations": [
-    "Atlanta"
+    "Westminster, CO",
+    "Germantown, MD"
    ],
    "section": "swe",
-   "posted": "2026-09-17",
-   "added": "2026-10-17T22:29:18.000Z",
-   "url": "https://aplyr.ai/jobs/e5d219ac68fc/wavelogic-software-developer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "posted": "2026-09-22",
+   "added": "2026-09-24T09:01:29.000Z",
+   "pay": "$75k/yr",
+   "url": "https://aplyr.ai/jobs/a8e361f3af4b/production-programmer-entry-level-sql-developer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-18"
+  },
+  "erg.com::entry level occupational safety and health data analyst": {
+   "id": "f4f576f45bcf",
+   "company": "Eastern Research Group",
+   "companyUrl": "https://aplyr.ai/companies/erg?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-Level Occupational Safety and Health Data Analyst",
+   "locations": [
+    "Fairfax, VA",
+    "Washington, DC",
+    "Arlington, VA",
+    "Alexandria, VA"
+   ],
+   "remote": true,
+   "section": "data",
+   "posted": "2026-09-22",
+   "added": "2026-09-24T09:01:29.000Z",
+   "pay": "$58k–70k/yr",
+   "url": "https://aplyr.ai/jobs/f4f576f45bcf/entry-level-occupational-safety-and-health-data-analyst?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "singlestore.com::mit software engineer new grad helios": {
+   "id": "622aabd2bc66",
+   "company": "SingleStore",
+   "companyUrl": "https://aplyr.ai/companies/singlestore?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "MIT-Software Engineer-New Grad |Helios|",
+   "locations": [
+    "United States"
+   ],
+   "section": "swe",
+   "posted": "2026-09-21",
+   "added": "2026-09-22T07:30:52.000Z",
+   "url": "https://aplyr.ai/jobs/622aabd2bc66/mit-software-engineer-new-grad-helios?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
+  },
+  "singlestore.com::mit software engineer new grad engine": {
+   "id": "2f0a60db4085",
+   "company": "SingleStore",
+   "companyUrl": "https://aplyr.ai/companies/singlestore?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "MIT-Software Engineer-New Grad |Engine|",
+   "locations": [
+    "United States"
+   ],
+   "section": "swe",
+   "posted": "2026-09-21",
+   "added": "2026-09-22T07:30:52.000Z",
+   "url": "https://aplyr.ai/jobs/2f0a60db4085/mit-software-engineer-new-grad-engine?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "imegcorp.com::electrical engineering new graduate anaheim ca": {
+   "id": "269b0c5d8e8b",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Anaheim, CA",
+   "locations": [
+    "Anaheim, CA"
+   ],
+   "section": "hw",
+   "posted": "2026-09-21",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/269b0c5d8e8b/electrical-engineering-new-graduate-anaheim-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "barr.com::electrical engineer entry level 2+ years hybrid": {
+   "id": "e2673d5af0e5",
+   "company": "Barr",
+   "companyUrl": "https://aplyr.ai/companies/barr?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineer – Entry Level – 2+ Years (Hybrid)",
+   "locations": [
+    "Minneapolis, MN"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:31:11.000Z",
+   "url": "https://aplyr.ai/jobs/e2673d5af0e5/electrical-engineer-entry-level-2-years-hybrid?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "barr.com::electrical engineer entry level hybrid": {
+   "id": "994d650943b1",
+   "company": "Barr",
+   "companyUrl": "https://aplyr.ai/companies/barr?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineer – Entry Level (Hybrid)",
+   "locations": [
+    "Bismarck, ND"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:31:11.000Z",
+   "url": "https://aplyr.ai/jobs/994d650943b1/electrical-engineer-entry-level-hybrid?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate jacksonville fl": {
+   "id": "2a24f3af4a5b",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Jacksonville, FL",
+   "locations": [
+    "Jacksonville, FL"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/2a24f3af4a5b/electrical-engineering-new-graduate-jacksonville-fl?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate rock island il": {
+   "id": "158bac99b252",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Rock Island, IL",
+   "locations": [
+    "Rock Island, IL"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/158bac99b252/electrical-engineering-new-graduate-rock-island-il?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate farmington hills mi": {
+   "id": "5ffba904fb1e",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Farmington Hills, MI",
+   "locations": [
+    "Detroit Metro, MI"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/5ffba904fb1e/electrical-engineering-new-graduate-farmington-hills-mi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate billings mt": {
+   "id": "c92b5597c8c5",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Billings, MT",
+   "locations": [
+    "Billings, MT"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/c92b5597c8c5/electrical-engineering-new-graduate-billings-mt?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate chicago il": {
+   "id": "182ec6e893af",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Chicago, IL",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/182ec6e893af/electrical-engineering-new-graduate-chicago-il?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate philadelphia pa": {
+   "id": "1f7e29d557a0",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Philadelphia, PA",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/1f7e29d557a0/electrical-engineering-new-graduate-philadelphia-pa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate broomall pa": {
+   "id": "5d6a2927a975",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Broomall, PA",
+   "locations": [
+    "Broomall, PA"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/5d6a2927a975/electrical-engineering-new-graduate-broomall-pa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate las vegas nv": {
+   "id": "e97dcaae9457",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Las Vegas, NV",
+   "locations": [
+    "Las Vegas, NV"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/e97dcaae9457/electrical-engineering-new-graduate-las-vegas-nv?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new grad san francisco ca": {
+   "id": "e6d2cc99c0b7",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Grad | San Francisco, CA",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/e6d2cc99c0b7/electrical-engineering-new-grad-san-francisco-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new grad ontario ca": {
+   "id": "e62aac662717",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Grad | Ontario, CA",
+   "locations": [
+    "Ontario, California"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/e62aac662717/electrical-engineering-new-grad-ontario-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate madison wi": {
+   "id": "693f7b890569",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Madison, WI",
+   "locations": [
+    "Madison, WI"
+   ],
+   "section": "hw",
+   "posted": "2026-09-18",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/693f7b890569/electrical-engineering-new-graduate-madison-wi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
   },
   "radiantindustries.com::2027 new graduate software engineer": {
    "id": "a36f1c0c4670",
@@ -1110,10 +902,10 @@
    "locations": [
     "El Segundo, CA"
    ],
-   "remote": true,
    "section": "swe",
    "posted": "2026-09-17",
    "added": "2026-09-18T05:30:19.000Z",
+   "pay": "$105k–130k/yr",
    "url": "https://aplyr.ai/jobs/a36f1c0c4670/2027-new-graduate-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -1125,11 +917,57 @@
    "locations": [
     "El Segundo, CA"
    ],
-   "remote": true,
    "section": "hw",
    "posted": "2026-09-17",
    "added": "2026-09-18T05:30:19.000Z",
+   "pay": "$105k–130k/yr",
    "url": "https://aplyr.ai/jobs/063550f9884f/2027-new-graduate-electrical-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "singlestore.com::software engineer engine new grad 2027": {
+   "id": "512eace7a5ee",
+   "company": "SingleStore",
+   "companyUrl": "https://aplyr.ai/companies/singlestore?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer-Engine-New Grad 2027",
+   "locations": [
+    "United States"
+   ],
+   "section": "swe",
+   "posted": "2026-09-15",
+   "added": "2026-09-17T07:31:04.000Z",
+   "url": "https://aplyr.ai/jobs/512eace7a5ee/software-engineer-engine-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "singlestore.com::software engineer helios new grad 2027": {
+   "id": "8c31b859e420",
+   "company": "SingleStore",
+   "companyUrl": "https://aplyr.ai/companies/singlestore?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer-Helios-New Grad 2027",
+   "locations": [
+    "United States"
+   ],
+   "section": "swe",
+   "posted": "2026-09-15",
+   "added": "2026-09-17T07:31:04.000Z",
+   "url": "https://aplyr.ai/jobs/8c31b859e420/software-engineer-helios-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "c3.ai::platform full stack engineer new grad 2027": {
+   "id": "28a2cdbdb4f5",
+   "company": "C3 AI",
+   "companyUrl": "https://aplyr.ai/companies/c3?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Platform Full-Stack Engineer, New Grad 2027",
+   "locations": [
+    "Redwood City, California"
+   ],
+   "section": "swe",
+   "posted": "2026-09-14",
+   "added": "2026-09-17T05:16:03.000Z",
+   "pay": "$120k–150k/yr",
+   "url": "https://aplyr.ai/jobs/28a2cdbdb4f5/platform-full-stack-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
   "wadetrim.com::entry level substation electrical engineer #3041": {
@@ -1146,6 +984,23 @@
    "url": "https://aplyr.ai/jobs/b68bb616c49d/entry-level-substation-electrical-engineer-3041?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
+  "spacex.com::new graduate engineer security software starshield": {
+   "id": "41164f411e17",
+   "company": "SpaceX",
+   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New Graduate Engineer, Security Software (Starshield)",
+   "locations": [
+    "Washington, DC",
+    "Hawthorne, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-09-11",
+   "added": "2026-09-17T07:31:04.000Z",
+   "pay": "$130k–195k/yr",
+   "url": "https://aplyr.ai/jobs/41164f411e17/new-graduate-engineer-security-software-starshield?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
   "rover.com::entry level software engineer recommendations": {
    "id": "c40bfdb4e3df",
    "company": "Rover",
@@ -1157,8 +1012,768 @@
    "section": "swe",
    "posted": "2026-09-10",
    "added": "2026-09-17T05:00:21.000Z",
+   "pay": "$100k–129k/yr",
    "url": "https://aplyr.ai/jobs/c40bfdb4e3df/entry-level-software-engineer-recommendations?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
+  },
+  "blueorigin.com::electrical engineer i early career new graduate rotation 2027 starts": {
+   "id": "2af78d76be8f",
+   "company": "Blue Origin",
+   "companyUrl": "https://aplyr.ai/companies/blueorigin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineer I – Early Career & New Graduate Rotation (2027 Starts)",
+   "locations": [
+    "Greater Seattle Area",
+    "Space Coast, FL",
+    "Huntsville, AL",
+    "Denver, CO",
+    "Los Angeles, CA"
+   ],
+   "section": "hw",
+   "posted": "2026-09-10",
+   "added": "2026-10-17T22:43:12.000Z",
+   "url": "https://aplyr.ai/jobs/2af78d76be8f/electrical-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-18"
+  },
+  "blueorigin.com::test engineer i early career new graduate rotation 2027 starts": {
+   "id": "da36449e93f0",
+   "company": "Blue Origin",
+   "companyUrl": "https://aplyr.ai/companies/blueorigin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Test Engineer I - Early Career & New Graduate Rotation (2027 Starts)",
+   "locations": [
+    "Greater Seattle Area",
+    "Van Horn, TX",
+    "Space Coast, FL",
+    "Huntsville, AL",
+    "Denver, CO"
+   ],
+   "section": "swe",
+   "posted": "2026-09-10",
+   "added": "2026-10-17T22:43:12.000Z",
+   "url": "https://aplyr.ai/jobs/da36449e93f0/test-engineer-i-early-career-new-graduate-rotation-2027-starts?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-18"
+  },
+  "dominodatalab.com::software engineer new grad 2027": {
+   "id": "9f0db6a309fc",
+   "company": "Domino Data Lab",
+   "companyUrl": "https://aplyr.ai/companies/dominodatalab?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer - New Grad, 2027",
+   "locations": [
+    "New York City, New York"
+   ],
+   "section": "swe",
+   "posted": "2026-09-09",
+   "added": "2026-09-17T05:46:19.000Z",
+   "pay": "$150k–165k/yr",
+   "url": "https://aplyr.ai/jobs/9f0db6a309fc/software-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "cursor.com::software engineer new grad 2027": {
+   "id": "014a6644779b",
+   "company": "Cursor",
+   "companyUrl": "https://aplyr.ai/companies/cursor?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, New Grad 2027",
+   "locations": [
+    "San Francisco",
+    "New York",
+    "Palo Alto, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-09-08",
+   "added": "2026-09-17T05:30:16.000Z",
+   "url": "https://aplyr.ai/jobs/014a6644779b/software-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "spacex.com::new graduate engineer software starship": {
+   "id": "2be378acaf31",
+   "company": "SpaceX",
+   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New Graduate Engineer, Software (Starship)",
+   "locations": [
+    "Hawthorne, CA",
+    "Starbase, TX"
+   ],
+   "section": "swe",
+   "posted": "2026-09-08",
+   "added": "2026-09-17T07:31:04.000Z",
+   "pay": "$125k–175k/yr",
+   "url": "https://aplyr.ai/jobs/2be378acaf31/new-graduate-engineer-software-starship?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "trueanomaly.space::software engineer i elixir new grad": {
+   "id": "e8e81be24332",
+   "company": "True Anomaly",
+   "companyUrl": "https://aplyr.ai/companies/trueanomaly?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer I, Elixir (New Grad)",
+   "locations": [
+    "Denver, CO",
+    "Long Beach, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-09-08",
+   "added": "2026-09-17T07:45:53.000Z",
+   "url": "https://aplyr.ai/jobs/e8e81be24332/software-engineer-i-elixir-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-17"
+  },
+  "bgeinc.com::austin electrical engineer power systems new grad": {
+   "id": "ac8e33688681",
+   "company": "BGE Inc",
+   "companyUrl": "https://aplyr.ai/companies/bgeinc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "AUSTIN - Electrical Engineer-Power Systems, New Grad",
+   "locations": [
+    "101 W Louis Henna Blvd, Suite 400, Austin, Texas 78728"
+   ],
+   "section": "hw",
+   "posted": "2026-09-04",
+   "added": "2026-09-17T05:16:03.000Z",
+   "url": "https://aplyr.ai/jobs/ac8e33688681/austin-electrical-engineer-power-systems-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-17"
+  },
+  "bgeinc.com::frisco electrical engineer power systems new grad": {
+   "id": "4541d94eb268",
+   "company": "BGE Inc",
+   "companyUrl": "https://aplyr.ai/companies/bgeinc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "FRISCO - Electrical Engineer-Power Systems, New Grad",
+   "locations": [
+    "10777 Westheimer Road, Suite 400, Houston, Texas 77042"
+   ],
+   "section": "hw",
+   "posted": "2026-09-04",
+   "added": "2026-09-17T05:16:03.000Z",
+   "url": "https://aplyr.ai/jobs/4541d94eb268/frisco-electrical-engineer-power-systems-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-17"
+  },
+  "scale.com::software engineer new grad": {
+   "id": "a60753cb60c1",
+   "company": "Scale AI",
+   "companyUrl": "https://aplyr.ai/companies/scale?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer - New Grad",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-09-04",
+   "added": "2026-09-17T07:15:43.000Z",
+   "pay": "$124k–162k/yr",
+   "url": "https://aplyr.ai/jobs/a60753cb60c1/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "doordash.com::software engineer i entry level graduation date fall 2026 summer 2027 us": {
+   "id": "0db19ea78bf7",
+   "company": "DoorDash",
+   "companyUrl": "https://aplyr.ai/companies/doordash?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+   "locations": [
+    "Los Angeles, CA",
+    "New York, NY",
+    "San Francisco, CA",
+    "Sunnyvale, CA",
+    "Seattle, WA"
+   ],
+   "section": "swe",
+   "posted": "2026-09-04",
+   "added": "2026-09-17T05:46:19.000Z",
+   "pay": "$107k–158k/yr",
+   "url": "https://aplyr.ai/jobs/0db19ea78bf7/software-engineer-i-entry-level-graduation-date-fall-2026-summer-2027-us?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "valon.com::software engineer new grad": {
+   "id": "048f46f54f47",
+   "company": "Valon",
+   "companyUrl": "https://aplyr.ai/companies/valon?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer New Grad",
+   "locations": [
+    "New York",
+    "San Francisco"
+   ],
+   "section": "swe",
+   "posted": "2026-09-01",
+   "added": "2026-09-18T10:00:19.000Z",
+   "pay": "$135k–160k/yr",
+   "url": "https://aplyr.ai/jobs/048f46f54f47/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "ciena.com::wavelogic software developer new grad": {
+   "id": "e5d219ac68fc",
+   "company": "Ciena",
+   "companyUrl": "https://aplyr.ai/companies/ciena?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "WaveLogic Software Developer - New Grad",
+   "locations": [
+    "Atlanta"
+   ],
+   "section": "swe",
+   "posted": "2026-09-01",
+   "added": "2026-10-17T22:29:18.000Z",
+   "url": "https://aplyr.ai/jobs/e5d219ac68fc/wavelogic-software-developer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "stripe.com::software engineer new grad": {
+   "id": "6856a06fd0fd",
+   "company": "Stripe",
+   "companyUrl": "https://aplyr.ai/companies/stripe?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, New Grad",
+   "locations": [
+    "San Francisco, Seattle, New York"
+   ],
+   "section": "swe",
+   "posted": "2026-08-31",
+   "added": "2026-09-17T07:31:04.000Z",
+   "url": "https://aplyr.ai/jobs/6856a06fd0fd/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "hudsonrivertrading.com::hardware design engineer 2027 grads": {
+   "id": "257dc350bc11",
+   "company": "Hudson River Trading",
+   "companyUrl": "https://aplyr.ai/companies/hudsonrivertrading?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Hardware Design Engineer - 2027 Grads",
+   "locations": [
+    "New York, NY"
+   ],
+   "section": "hw",
+   "posted": "2026-08-31",
+   "added": "2026-10-18T04:49:33.000Z",
+   "url": "https://aplyr.ai/jobs/257dc350bc11/hardware-design-engineer-2027-grads?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-18"
+  },
+  "sierra.ai::software engineer agent new grad 2027": {
+   "id": "e0516430bd83",
+   "company": "Sierra AI",
+   "companyUrl": "https://aplyr.ai/companies/sierra?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, Agent (New Grad 2027)",
+   "locations": [
+    "San Francisco, CA",
+    "New York, NY"
+   ],
+   "section": "swe",
+   "posted": "2026-08-31",
+   "added": "2026-09-17T05:30:16.000Z",
+   "pay": "$150k–180k/yr",
+   "url": "https://aplyr.ai/jobs/e0516430bd83/software-engineer-agent-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "imegcorp.com::electrical engineering new graduate new york ny": {
+   "id": "886a69f4265c",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | New York, NY",
+   "locations": [
+    "New York, NY"
+   ],
+   "section": "hw",
+   "posted": "2026-08-31",
+   "added": "2026-09-02T07:15:41.000Z",
+   "pay": "$79k–83k/yr",
+   "url": "https://aplyr.ai/jobs/886a69f4265c/electrical-engineering-new-graduate-new-york-ny?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "trueanomaly.space::software engineer i perception new grad": {
+   "id": "d8c80b1c7ccd",
+   "company": "True Anomaly",
+   "companyUrl": "https://aplyr.ai/companies/trueanomaly?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer I, Perception (New Grad)",
+   "locations": [
+    "Denver, CO",
+    "Long Beach, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-08-25",
+   "added": "2026-09-17T07:45:53.000Z",
+   "pay": "$75k–80k/yr",
+   "url": "https://aplyr.ai/jobs/d8c80b1c7ccd/software-engineer-i-perception-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-17"
+  },
+  "trueanomaly.space::software engineer i data science new grad": {
+   "id": "0eabab9df05a",
+   "company": "True Anomaly",
+   "companyUrl": "https://aplyr.ai/companies/trueanomaly?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer I, Data Science (New Grad)",
+   "locations": [
+    "Denver, CO",
+    "Long Beach, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-08-25",
+   "added": "2026-09-17T07:45:53.000Z",
+   "pay": "$75k–80k/yr",
+   "url": "https://aplyr.ai/jobs/0eabab9df05a/software-engineer-i-data-science-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-17"
+  },
+  "trueanomaly.space::software engineer i spacecraft simulation new grad": {
+   "id": "66fc7e1a1085",
+   "company": "True Anomaly",
+   "companyUrl": "https://aplyr.ai/companies/trueanomaly?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer I, Spacecraft Simulation (New Grad)",
+   "locations": [
+    "Denver, CO",
+    "Long Beach, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-08-25",
+   "added": "2026-09-17T07:45:53.000Z",
+   "url": "https://aplyr.ai/jobs/66fc7e1a1085/software-engineer-i-spacecraft-simulation-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-17"
+  },
+  "freeform.co::electrical engineer new grad summer 2027": {
+   "id": "cc65810af08c",
+   "company": "Freeform",
+   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineer (New Grad Summer 2027)",
+   "locations": [
+    "Los Angeles, CA (On-site)"
+   ],
+   "section": "hw",
+   "posted": "2026-08-19",
+   "added": "2026-09-17T06:01:11.000Z",
+   "pay": "$105k–120k/yr",
+   "url": "https://aplyr.ai/jobs/cc65810af08c/electrical-engineer-new-grad-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "freeform.co::software engineer new grad summer 2027": {
+   "id": "ca9ea3781a68",
+   "company": "Freeform",
+   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer (New Grad Summer 2027)",
+   "locations": [
+    "Los Angeles, CA (On-site)"
+   ],
+   "section": "swe",
+   "posted": "2026-08-19",
+   "added": "2026-09-17T06:01:11.000Z",
+   "pay": "$125k–150k/yr",
+   "url": "https://aplyr.ai/jobs/ca9ea3781a68/software-engineer-new-grad-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "spacex.com::new graduate engineer software application software": {
+   "id": "f6512a507459",
+   "company": "SpaceX",
+   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New Graduate Engineer, Software (Application Software)",
+   "locations": [
+    "Hawthorne, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-08-19",
+   "added": "2026-09-17T07:31:04.000Z",
+   "pay": "$125k–195k/yr",
+   "url": "https://aplyr.ai/jobs/f6512a507459/new-graduate-engineer-software-application-software?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "sig.com::quantitative strategy developer new grad": {
+   "id": "6c7e72c1e343",
+   "company": "Susquehanna International Group (SIG)",
+   "companyUrl": "https://aplyr.ai/companies/sig?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Quantitative Strategy Developer - New Grad",
+   "locations": [
+    "Bala Cynwyd (Philadelphia Area), Pennsylvania"
+   ],
+   "section": "quant",
+   "posted": "2026-08-19",
+   "added": "2026-10-17T21:53:01.000Z",
+   "url": "https://aplyr.ai/jobs/6c7e72c1e343/quantitative-strategy-developer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "spacex.com::new graduate engineer software security 26 27 starlink": {
+   "id": "c6969f677b31",
+   "company": "SpaceX",
+   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New Graduate Engineer, Software Security - '26/'27 (Starlink)",
+   "locations": [
+    "Hawthorne, CA",
+    "Palo Alto, CA",
+    "Bastrop, TX",
+    "Redmond, WA"
+   ],
+   "section": "swe",
+   "posted": "2026-08-19",
+   "added": "2026-09-17T07:31:04.000Z",
+   "pay": "$140k–210k/yr",
+   "url": "https://aplyr.ai/jobs/c6969f677b31/new-graduate-engineer-software-security-2627-starlink?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "imegcorp.com::electrical engineering new graduate st louis mo": {
+   "id": "056eb51e2ccf",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | St. Louis, MO",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "section": "hw",
+   "posted": "2026-08-19",
+   "added": "2026-08-20T07:15:38.000Z",
+   "pay": "$22–24/hr",
+   "url": "https://aplyr.ai/jobs/056eb51e2ccf/electrical-engineering-new-graduate-st-louis-mo?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate greenwood village co": {
+   "id": "531cd1706c1e",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Greenwood Village, CO",
+   "locations": [
+    "Denver Metro, CO"
+   ],
+   "section": "hw",
+   "posted": "2026-08-19",
+   "added": "2026-08-20T07:15:38.000Z",
+   "pay": "$76k–80k/yr",
+   "url": "https://aplyr.ai/jobs/531cd1706c1e/electrical-engineering-new-graduate-greenwood-village-co?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate kansas city mo": {
+   "id": "438862c345a4",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Kansas City, MO",
+   "locations": [
+    "Kansas City, MO"
+   ],
+   "section": "hw",
+   "posted": "2026-08-19",
+   "added": "2026-08-20T07:15:38.000Z",
+   "url": "https://aplyr.ai/jobs/438862c345a4/electrical-engineering-new-graduate-kansas-city-mo?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate": {
+   "id": "cb44d71503cc",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "section": "hw",
+   "posted": "2026-08-19",
+   "added": "2026-08-20T07:15:38.000Z",
+   "url": "https://aplyr.ai/jobs/cb44d71503cc/electrical-engineering-new-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new grad columbia sc": {
+   "id": "b8bf79013ba5",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Grad | Columbia, SC",
+   "locations": [
+    "Columbia, SC"
+   ],
+   "section": "hw",
+   "posted": "2026-08-17",
+   "added": "2026-08-18T07:15:42.000Z",
+   "url": "https://aplyr.ai/jobs/b8bf79013ba5/electrical-engineering-new-grad-columbia-sc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "spacex.com::new graduate engineer software 26 27 starlink": {
+   "id": "8c31758a37c3",
+   "company": "SpaceX",
+   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
+   "locations": [
+    "Bastrop, TX",
+    "Palo Alto, CA",
+    "Redmond, WA"
+   ],
+   "section": "swe",
+   "posted": "2026-08-14",
+   "added": "2026-09-17T07:31:04.000Z",
+   "url": "https://aplyr.ai/jobs/8c31758a37c3/new-graduate-engineer-software-2627-starlink?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "weride.ai::new grads 2027 software engineer algorithm": {
+   "id": "7ede2d95e439",
+   "company": "WeRide",
+   "companyUrl": "https://aplyr.ai/companies/weride?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New Grads 2027 - Software Engineer, Algorithm",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-08-10",
+   "added": "2026-09-17T05:15:32.000Z",
+   "pay": "$120k–165k/yr",
+   "url": "https://aplyr.ai/jobs/7ede2d95e439/new-grads-2027-software-engineer-algorithm?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "weride.ai::new grads 2027 software engineer perception computer vision": {
+   "id": "8247ac14931c",
+   "company": "WeRide",
+   "companyUrl": "https://aplyr.ai/companies/weride?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-08-10",
+   "added": "2026-09-17T05:15:32.000Z",
+   "pay": "$120k–165k/yr",
+   "url": "https://aplyr.ai/jobs/8247ac14931c/new-grads-2027-software-engineer-perceptioncomputer-vision?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "freeform.co::electrical engineer new grad december 2026": {
+   "id": "3ae4a15a12ac",
+   "company": "Freeform",
+   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineer (New Grad December 2026)",
+   "locations": [
+    "Los Angeles, CA (On-site)"
+   ],
+   "section": "hw",
+   "posted": "2026-08-07",
+   "added": "2026-09-17T06:01:11.000Z",
+   "pay": "$110k–125k/yr",
+   "url": "https://aplyr.ai/jobs/3ae4a15a12ac/electrical-engineer-new-grad-december-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "freeform.co::software engineer new grad december 2026": {
+   "id": "796e66e07e9e",
+   "company": "Freeform",
+   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer (New Grad December 2026)",
+   "locations": [
+    "Los Angeles, CA (On-site)"
+   ],
+   "section": "swe",
+   "posted": "2026-08-07",
+   "added": "2026-09-17T06:01:11.000Z",
+   "pay": "$125k–150k/yr",
+   "url": "https://aplyr.ai/jobs/796e66e07e9e/software-engineer-new-grad-december-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "muonspace.com::software engineer entry level": {
+   "id": "706ec3765c37",
+   "company": "Muon Space",
+   "companyUrl": "https://aplyr.ai/companies/muonspace?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, Entry-Level",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-08-05",
+   "added": "2026-09-17T06:46:01.000Z",
+   "pay": "$151k–172k/yr",
+   "url": "https://aplyr.ai/jobs/706ec3765c37/software-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "belvederetrading.com::software engineer entry level 2027": {
+   "id": "b6c9f60b192a",
+   "company": "Belvedere Trading",
+   "companyUrl": "https://aplyr.ai/companies/belvederetrading?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer - Entry Level 2027",
+   "locations": [
+    "Chicago, Illinois"
+   ],
+   "section": "swe",
+   "posted": "2026-08-04",
+   "added": "2026-09-17T05:15:32.000Z",
+   "pay": "$140k/yr",
+   "url": "https://aplyr.ai/jobs/b6c9f60b192a/software-engineer-entry-level-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17"
+  },
+  "newsbreak.com::applied ai engineer advertising agents new grad": {
+   "id": "af91231e9447",
+   "company": "NewsBreak",
+   "companyUrl": "https://aplyr.ai/companies/newsbreak?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Applied AI Engineer, Advertising Agents (New Grad)",
+   "locations": [
+    "Mountain View, California"
+   ],
+   "section": "data",
+   "posted": "2026-07-27",
+   "added": "2026-09-17T06:46:01.000Z",
+   "pay": "$135k–155k/yr",
+   "url": "https://aplyr.ai/jobs/af91231e9447/applied-ai-engineer-advertising-agents-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "botauto.com::algorithm engineer deep learning vision new grad": {
+   "id": "3f08c586aff9",
+   "company": "Bot Auto",
+   "companyUrl": "https://aplyr.ai/companies/botauto?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Algorithm Engineer, Deep Learning & Vision (New Grad)",
+   "locations": [
+    "Houston, TX"
+   ],
+   "section": "data",
+   "posted": "2026-07-27",
+   "added": "2026-09-17T05:16:03.000Z",
+   "url": "https://aplyr.ai/jobs/3f08c586aff9/algorithm-engineer-deep-learning-vision-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17"
+  },
+  "janestreet.com::hardware engineer fpga asic": {
+   "id": "c84bf5d26097",
+   "company": "Jane Street",
+   "companyUrl": "https://aplyr.ai/companies/janestreet?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Hardware Engineer (FPGA/ASIC)",
+   "locations": [
+    "New York, New York"
+   ],
+   "section": "hw",
+   "posted": "2026-07-24",
+   "added": "2026-09-17T06:30:57.000Z",
+   "url": "https://aplyr.ai/jobs/c84bf5d26097/hardware-engineer-fpgaasic?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-18"
+  }
+ },
+ "closed": {
+  "affirm.com::software engineer early career sf": {
+   "id": "21b8bda55856",
+   "company": "Affirm",
+   "companyUrl": "https://aplyr.ai/companies/affirm?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, Early Career (SF)",
+   "locations": [
+    "San Francisco, California"
+   ],
+   "section": "swe",
+   "posted": "2026-10-16",
+   "added": "2026-10-07T05:01:06.000Z",
+   "pay": "$130k–180k/yr",
+   "url": "https://aplyr.ai/jobs/21b8bda55856/software-engineer-early-career-sf?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
+  },
+  "affirm.com::software engineer early career nyc": {
+   "id": "c5ab286b5a69",
+   "company": "Affirm",
+   "companyUrl": "https://aplyr.ai/companies/affirm?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, Early Career (NYC)",
+   "locations": [
+    "New York, New York"
+   ],
+   "section": "swe",
+   "posted": "2026-10-16",
+   "added": "2026-10-07T05:01:06.000Z",
+   "pay": "$130k–180k/yr",
+   "url": "https://aplyr.ai/jobs/c5ab286b5a69/software-engineer-early-career-nyc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
+  },
+  "trueanomaly.space::software engineer i full stack new grad": {
+   "id": "4250bc47d316",
+   "company": "True Anomaly",
+   "companyUrl": "https://aplyr.ai/companies/trueanomaly?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer I, Full Stack (New Grad)",
+   "locations": [
+    "Denver, CO",
+    "Long Beach, CA"
+   ],
+   "remote": true,
+   "section": "swe",
+   "posted": "2026-10-10",
+   "added": "2026-09-17T07:45:53.000Z",
+   "pay": "$75k–80k/yr",
+   "url": "https://aplyr.ai/jobs/4250bc47d316/software-engineer-i-full-stack-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
+  },
+  "nuro.ai::software engineer ai platform new grad": {
+   "id": "adea9eb2bbc8",
+   "company": "Nuro",
+   "companyUrl": "https://aplyr.ai/companies/nuro?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, AI Platform - New Grad",
+   "locations": [
+    "Mountain View, California (HQ)"
+   ],
+   "remote": true,
+   "section": "swe",
+   "posted": "2026-10-09",
+   "added": "2026-03-27T07:00:56.000Z",
+   "pay": "$153k–176k/yr",
+   "url": "https://aplyr.ai/jobs/adea9eb2bbc8/software-engineer-ai-platform-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
+  },
+  "stripe.com::product manager new grad accelerator": {
+   "id": "529b5be42808",
+   "company": "Stripe",
+   "companyUrl": "https://aplyr.ai/companies/stripe?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Product Manager: New Grad Accelerator",
+   "locations": [
+    "San Francisco, New York City, Seattle"
+   ],
+   "section": "pm",
+   "posted": "2026-10-07",
+   "added": "2026-09-17T07:31:04.000Z",
+   "url": "https://aplyr.ai/jobs/529b5be42808/product-manager-new-grad-accelerator?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
+  },
+  "waymo.com::machine learning engineer perception llm vlm phd new grad": {
+   "id": "bc4fc2894c7a",
+   "company": "Waymo",
+   "companyUrl": "https://aplyr.ai/companies/waymo?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Machine Learning Engineer Perception LLM/VLM (PhD, New Grad)",
+   "locations": [
+    "Mountain View, CA USA",
+    "San Francisco, CA USA"
+   ],
+   "remote": true,
+   "section": "data",
+   "posted": "2026-10-02",
+   "added": "2026-09-17T08:01:29.000Z",
+   "pay": "$170k–216k/yr",
+   "url": "https://aplyr.ai/jobs/bc4fc2894c7a/machine-learning-engineer-perception-llmvlm-phd-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
+  },
+  "spacex.com::new graduate engineer software": {
+   "id": "96d10ff2c4fc",
+   "company": "SpaceX",
+   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New Graduate Engineer, Software",
+   "locations": [
+    "Hawthorne, CA"
+   ],
+   "remote": true,
+   "section": "swe",
+   "posted": "2026-09-29",
+   "added": "2026-03-27T07:00:56.000Z",
+   "pay": "$125k–145k/yr",
+   "url": "https://aplyr.ai/jobs/96d10ff2c4fc/new-graduate-engineer-software?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
+  },
+  "databricks.com::associate product manager new grad 2027 start": {
+   "id": "1b763bd1494f",
+   "company": "Databricks",
+   "companyUrl": "https://aplyr.ai/companies/databricks?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Associate Product Manager, New Grad (2027 Start)",
+   "locations": [
+    "Bellevue, Washington",
+    "Mountain View, California",
+    "San Francisco, California"
+   ],
+   "section": "pm",
+   "posted": "2026-09-23",
+   "added": "2026-09-17T05:46:19.000Z",
+   "pay": "$133k–150k/yr",
+   "url": "https://aplyr.ai/jobs/1b763bd1494f/associate-product-manager-new-grad-2027-start?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
   },
   "perpay.com::software engineer new grad": {
    "id": "1ca7ff351bf3",
@@ -1173,35 +1788,8 @@
    "posted": "2026-09-10",
    "added": "2026-04-06T07:01:26.000Z",
    "url": "https://aplyr.ai/jobs/1ca7ff351bf3/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "cursor.com::software engineer new grad 2027": {
-   "id": "014a6644779b",
-   "company": "Cursor",
-   "companyUrl": "https://aplyr.ai/companies/cursor?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, New Grad 2027",
-   "locations": [
-    "San Francisco"
-   ],
-   "section": "swe",
-   "posted": "2026-09-08",
-   "added": "2026-09-17T05:30:16.000Z",
-   "url": "https://aplyr.ai/jobs/014a6644779b/software-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "sierra.ai::software engineer agent new grad 2027": {
-   "id": "e0516430bd83",
-   "company": "Sierra AI",
-   "companyUrl": "https://aplyr.ai/companies/sierra?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, Agent (New Grad 2027)",
-   "locations": [
-    "San Francisco, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-08-31",
-   "added": "2026-09-17T05:30:16.000Z",
-   "url": "https://aplyr.ai/jobs/e0516430bd83/software-engineer-agent-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
   },
   "akunacapital.com::software engineer entry level c++": {
    "id": "d57966977ff3",
@@ -1217,7 +1805,8 @@
    "added": "2026-07-14T05:01:22.000Z",
    "pay": "$145k/yr",
    "url": "https://aplyr.ai/jobs/d57966977ff3/software-engineer-entry-level-c?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
   },
   "allybehavior.com::entry level enrollment specialist": {
    "id": "77658c98343c",
@@ -1231,64 +1820,8 @@
    "posted": "2026-08-20",
    "added": "2026-04-06T05:00:55.000Z",
    "url": "https://aplyr.ai/jobs/77658c98343c/entry-level-enrollment-specialist?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "sig.com::quantitative strategy developer new grad": {
-   "id": "6c7e72c1e343",
-   "company": "Susquehanna International Group (SIG)",
-   "companyUrl": "https://aplyr.ai/companies/sig?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Quantitative Strategy Developer - New Grad",
-   "locations": [
-    "Bala Cynwyd (Philadelphia Area), Pennsylvania"
-   ],
-   "section": "quant",
-   "posted": "2026-08-19",
-   "added": "2026-10-17T21:53:01.000Z",
-   "url": "https://aplyr.ai/jobs/6c7e72c1e343/quantitative-strategy-developer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "weride.ai::new grads 2027 software engineer algorithm": {
-   "id": "7ede2d95e439",
-   "company": "WeRide",
-   "companyUrl": "https://aplyr.ai/companies/weride?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "New Grads 2027 - Software Engineer, Algorithm",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-08-10",
-   "added": "2026-09-17T05:15:32.000Z",
-   "url": "https://aplyr.ai/jobs/7ede2d95e439/new-grads-2027-software-engineer-algorithm?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "weride.ai::new grads 2027 software engineer perception computer vision": {
-   "id": "8247ac14931c",
-   "company": "WeRide",
-   "companyUrl": "https://aplyr.ai/companies/weride?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "New Grads 2027 - Software Engineer - Perception/Computer Vision",
-   "locations": [
-    "San Jose, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-08-10",
-   "added": "2026-09-17T05:15:32.000Z",
-   "url": "https://aplyr.ai/jobs/8247ac14931c/new-grads-2027-software-engineer-perceptioncomputer-vision?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "belvederetrading.com::software engineer entry level 2027": {
-   "id": "b6c9f60b192a",
-   "company": "Belvedere Trading",
-   "companyUrl": "https://aplyr.ai/companies/belvederetrading?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer - Entry Level 2027",
-   "locations": [
-    "Chicago, Illinois"
-   ],
-   "section": "swe",
-   "posted": "2026-08-04",
-   "added": "2026-09-17T05:15:32.000Z",
-   "url": "https://aplyr.ai/jobs/b6c9f60b192a/software-engineer-entry-level-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
   },
   "newsbreak.com::software engineer ml infra junior new grad": {
    "id": "e6b87364db93",
@@ -1303,22 +1836,8 @@
    "added": "2026-09-17T06:46:01.000Z",
    "pay": "$195k–225k/yr",
    "url": "https://aplyr.ai/jobs/e6b87364db93/software-engineer-ml-infra-junior-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "newsbreak.com::applied ai engineer advertising agents new grad": {
-   "id": "af91231e9447",
-   "company": "NewsBreak",
-   "companyUrl": "https://aplyr.ai/companies/newsbreak?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Applied AI Engineer, Advertising Agents (New Grad)",
-   "locations": [
-    "Mountain View, California"
-   ],
-   "section": "data",
-   "posted": "2026-07-27",
-   "added": "2026-09-17T06:46:01.000Z",
-   "pay": "$110k–220k/yr",
-   "url": "https://aplyr.ai/jobs/af91231e9447/applied-ai-engineer-advertising-agents-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
   },
   "newsbreak.com::newsbreak venture ai growth intelligence engineer new grad": {
    "id": "f9d83f5f5289",
@@ -1333,8 +1852,8 @@
    "added": "2026-09-17T06:46:01.000Z",
    "pay": "$175k–298k/yr",
    "url": "https://aplyr.ai/jobs/f9d83f5f5289/newsbreak-venture-ai-growth-intelligence-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-18"
   }
- },
- "closed": {}
+ }
 }
