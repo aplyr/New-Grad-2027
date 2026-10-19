@@ -2,6 +2,51 @@
  "version": 1,
  "slug": "new-grad-2027",
  "open": {
+  "northropgrumman.com::2027 associate software engineer pathways linthicum ma": {
+   "id": "77da2462c5ae",
+   "company": "Northrop Grumman",
+   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
+   "locations": [
+    "United States-Maryland-Linthicum"
+   ],
+   "section": "swe",
+   "posted": "2026-10-19",
+   "added": "2026-10-19T19:01:20.000Z",
+   "url": "https://aplyr.ai/jobs/77da2462c5ae/2027-associatesoftware-engineer-pathways-linthicum-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
+  "kla.com::semiconductor field service engineer new college grad": {
+   "id": "2027d1c5d8bf",
+   "company": "KLA Corporation",
+   "companyUrl": "https://aplyr.ai/companies/kla?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Semiconductor Field Service Engineer - New College Grad",
+   "locations": [
+    "Hillsboro, OR"
+   ],
+   "section": "hw",
+   "posted": "2026-10-19",
+   "added": "2026-10-19T18:50:56.000Z",
+   "url": "https://aplyr.ai/jobs/2027d1c5d8bf/semiconductor-field-service-engineer-new-college-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
+  "lockheedmartin.com::software engineer early career": {
+   "id": "e6a5a02f7f6e",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer - Early Career",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "section": "swe",
+   "posted": "2026-10-19",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/e6a5a02f7f6e/software-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
   "kgroupcompanies.com::field service technicain entry level": {
    "id": "be8976d9e176",
    "company": "K Group",
@@ -32,36 +77,68 @@
    "url": "https://aplyr.ai/jobs/1dc32dff6d66/hardware-security-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
-  "nc.gov::database administrator i ehra early career": {
-   "id": "5ffc0b95cae4",
-   "company": "State of North Carolina",
-   "companyUrl": "https://aplyr.ai/companies/nc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Database Administrator I - EHRA - Early Career",
+  "lockheedmartin.com::software engineer asc early career": {
+   "id": "7d2969b7e4c4",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer Asc - Early Career",
    "locations": [
-    "Wake County, NC"
+    "King of Prussia, PA",
+    "Herndon, VA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-15",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/7d2969b7e4c4/software-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
+  "lockheedmartin.com::a ai machine learning engineering asc early career": {
+   "id": "9fbfc5c32e7a",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "A/AI Machine Learning Engineering Asc - Early Career",
+   "locations": [
+    "King of Prussia, PA",
+    "Littleton, CO"
    ],
    "section": "data",
-   "posted": "2026-10-16",
-   "added": "2026-10-17T22:43:12.000Z",
-   "pay": "$82k–122k/yr",
-   "url": "https://aplyr.ai/jobs/5ffc0b95cae4/database-administrator-i-ehra-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
+   "posted": "2026-10-15",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/9fbfc5c32e7a/aai-machine-learning-engineering-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
   },
-  "globalfoundries.com::silicon photonics test development engineer 2027 new college graduate": {
-   "id": "6ae2625e14f2",
-   "company": "GlobalFoundries",
-   "companyUrl": "https://aplyr.ai/companies/globalfoundries?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Silicon Photonics Test Development Engineer (2027 New College Graduate)",
+  "luminai.com::forward deployed engineer new grad": {
+   "id": "93449553caa7",
+   "company": "Luminai",
+   "companyUrl": "https://aplyr.ai/companies/luminai?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Forward Deployed Engineer - New Grad",
    "locations": [
-    "USA - Vermont - Essex Junction"
+    "SF Bay Area",
+    "New York"
+   ],
+   "section": "swe",
+   "posted": "2026-10-15",
+   "added": "2026-10-17T09:45:21.000Z",
+   "pay": "$150k–180k/yr",
+   "url": "https://aplyr.ai/jobs/93449553caa7/forward-deployed-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-19"
+  },
+  "northropgrumman.com::2027 associate pathways electronics engineer pathways electronics engineer linthicum md": {
+   "id": "1476c1db7000",
+   "company": "Northrop Grumman",
+   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "2027 Associate Pathways Electronics Engineer / Pathways Electronics Engineer - Linthicum MD",
+   "locations": [
+    "United States-Maryland-Baltimore"
    ],
    "section": "hw",
-   "posted": "2026-10-16",
-   "added": "2026-10-17T22:29:18.000Z",
-   "pay": "$58k–101k/yr",
-   "url": "https://aplyr.ai/jobs/6ae2625e14f2/silicon-photonics-test-development-engineer-2027-new-college-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "posted": "2026-10-15",
+   "added": "2026-10-17T22:25:12.000Z",
+   "url": "https://aplyr.ai/jobs/1476c1db7000/2027-associate-pathways-electronics-engineer-pathways-electronics-engineer-linth?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-18"
+   "firstSeen": "2026-10-19"
   },
   "boeing.com::entry level software engineer developer development": {
    "id": "c8444c8cf70f",
@@ -100,13 +177,60 @@
    "companyUrl": "https://aplyr.ai/companies/pditechnologies?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
    "title": "Product Owner I (Entry-Level)",
    "locations": [
-    "Alpharetta, GA"
+    "Alpharetta, GA",
+    "Remote US"
    ],
    "section": "pm",
    "posted": "2026-10-13",
    "added": "2026-10-15T08:46:12.000Z",
    "url": "https://aplyr.ai/jobs/566896e6f7d8/product-owner-i-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
+  },
+  "lockheedmartin.com::cyber systems security engineering entry level": {
+   "id": "62e58fae5054",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Cyber Systems Security Engineering Entry Level",
+   "locations": [
+    "Huntsville, AL",
+    "Littleton, CO"
+   ],
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/62e58fae5054/cyber-systems-security-engineering-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
+  "boeing.com::entry level software engineer developer": {
+   "id": "592e1e3c72d8",
+   "company": "Boeing",
+   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-Level Software Engineer–Developer",
+   "locations": [
+    "USA - Richardson, TX"
+   ],
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-19T18:50:56.000Z",
+   "url": "https://aplyr.ai/jobs/592e1e3c72d8/entry-level-software-engineerdeveloper?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
+  "lockheedmartin.com::security administrator entry level": {
+   "id": "da25fb21338b",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Security Administrator - Entry Level",
+   "locations": [
+    "Fort Worth, TX"
+   ],
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/da25fb21338b/security-administrator-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
   },
   "nvidia.com::software engineer dl kernel libraries new college grad 2027": {
    "id": "b3462559e8db",
@@ -289,6 +413,21 @@
    "url": "https://aplyr.ai/jobs/55f6bdb0b853/entry-level-fpga-designverification-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
+  },
+  "lockheedmartin.com::database engineer entry level": {
+   "id": "67a60e3b70cb",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Database Engineer - Entry Level",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "section": "data",
+   "posted": "2026-10-08",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/67a60e3b70cb/database-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
   },
   "caci.com::entry level c# software engineer": {
    "id": "848d7bb3c1cb",
@@ -740,132 +879,6 @@
    "url": "https://aplyr.ai/jobs/994d650943b1/electrical-engineer-entry-level-hybrid?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
-  "imegcorp.com::electrical engineering new graduate jacksonville fl": {
-   "id": "2a24f3af4a5b",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Jacksonville, FL",
-   "locations": [
-    "Jacksonville, FL"
-   ],
-   "section": "hw",
-   "posted": "2026-09-18",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/2a24f3af4a5b/electrical-engineering-new-graduate-jacksonville-fl?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "imegcorp.com::electrical engineering new graduate rock island il": {
-   "id": "158bac99b252",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Rock Island, IL",
-   "locations": [
-    "Rock Island, IL"
-   ],
-   "section": "hw",
-   "posted": "2026-09-18",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/158bac99b252/electrical-engineering-new-graduate-rock-island-il?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "imegcorp.com::electrical engineering new graduate farmington hills mi": {
-   "id": "5ffba904fb1e",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Farmington Hills, MI",
-   "locations": [
-    "Detroit Metro, MI"
-   ],
-   "section": "hw",
-   "posted": "2026-09-18",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/5ffba904fb1e/electrical-engineering-new-graduate-farmington-hills-mi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "imegcorp.com::electrical engineering new graduate billings mt": {
-   "id": "c92b5597c8c5",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Billings, MT",
-   "locations": [
-    "Billings, MT"
-   ],
-   "section": "hw",
-   "posted": "2026-09-18",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/c92b5597c8c5/electrical-engineering-new-graduate-billings-mt?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "imegcorp.com::electrical engineering new graduate chicago il": {
-   "id": "182ec6e893af",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Chicago, IL",
-   "locations": [
-    "Chicago, IL"
-   ],
-   "section": "hw",
-   "posted": "2026-09-18",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/182ec6e893af/electrical-engineering-new-graduate-chicago-il?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "imegcorp.com::electrical engineering new graduate philadelphia pa": {
-   "id": "1f7e29d557a0",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Philadelphia, PA",
-   "locations": [
-    "Philadelphia, PA"
-   ],
-   "section": "hw",
-   "posted": "2026-09-18",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/1f7e29d557a0/electrical-engineering-new-graduate-philadelphia-pa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "imegcorp.com::electrical engineering new graduate broomall pa": {
-   "id": "5d6a2927a975",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Broomall, PA",
-   "locations": [
-    "Broomall, PA"
-   ],
-   "section": "hw",
-   "posted": "2026-09-18",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/5d6a2927a975/electrical-engineering-new-graduate-broomall-pa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "imegcorp.com::electrical engineering new graduate las vegas nv": {
-   "id": "e97dcaae9457",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Las Vegas, NV",
-   "locations": [
-    "Las Vegas, NV"
-   ],
-   "section": "hw",
-   "posted": "2026-09-18",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/e97dcaae9457/electrical-engineering-new-graduate-las-vegas-nv?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "imegcorp.com::electrical engineering new grad san francisco ca": {
-   "id": "e6d2cc99c0b7",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Grad | San Francisco, CA",
-   "locations": [
-    "San Francisco, CA"
-   ],
-   "section": "hw",
-   "posted": "2026-09-18",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/e6d2cc99c0b7/electrical-engineering-new-grad-san-francisco-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
   "imegcorp.com::electrical engineering new grad ontario ca": {
    "id": "e62aac662717",
    "company": "IMEG",
@@ -878,20 +891,6 @@
    "posted": "2026-09-18",
    "added": "2026-10-18T00:22:00.000Z",
    "url": "https://aplyr.ai/jobs/e62aac662717/electrical-engineering-new-grad-ontario-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
-  "imegcorp.com::electrical engineering new graduate madison wi": {
-   "id": "693f7b890569",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Madison, WI",
-   "locations": [
-    "Madison, WI"
-   ],
-   "section": "hw",
-   "posted": "2026-09-18",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/693f7b890569/electrical-engineering-new-graduate-madison-wi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
   "radiantindustries.com::2027 new graduate software engineer": {
@@ -954,6 +953,20 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
+  "imegcorp.com::electrical engineering new graduate madison wi": {
+   "id": "693f7b890569",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Madison, WI",
+   "locations": [
+    "Madison, WI"
+   ],
+   "section": "hw",
+   "posted": "2026-09-15",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/693f7b890569/electrical-engineering-new-graduate-madison-wi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
   "c3.ai::platform full stack engineer new grad 2027": {
    "id": "28a2cdbdb4f5",
    "company": "C3 AI",
@@ -983,6 +996,20 @@
    "added": "2026-09-17T08:46:09.000Z",
    "url": "https://aplyr.ai/jobs/b68bb616c49d/entry-level-substation-electrical-engineer-3041?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
+  },
+  "imegcorp.com::electrical engineering new grad san francisco ca": {
+   "id": "e6d2cc99c0b7",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Grad | San Francisco, CA",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "section": "hw",
+   "posted": "2026-09-14",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/e6d2cc99c0b7/electrical-engineering-new-grad-san-francisco-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
   },
   "spacex.com::new graduate engineer security software starshield": {
    "id": "41164f411e17",
@@ -1118,6 +1145,20 @@
    "url": "https://aplyr.ai/jobs/e8e81be24332/software-engineer-i-elixir-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
+  },
+  "imegcorp.com::electrical engineering new graduate las vegas nv": {
+   "id": "e97dcaae9457",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Las Vegas, NV",
+   "locations": [
+    "Las Vegas, NV"
+   ],
+   "section": "hw",
+   "posted": "2026-09-08",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/e97dcaae9457/electrical-engineering-new-graduate-las-vegas-nv?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
   },
   "bgeinc.com::austin electrical engineer power systems new grad": {
    "id": "ac8e33688681",
@@ -1262,6 +1303,22 @@
    "url": "https://aplyr.ai/jobs/e0516430bd83/software-engineer-agent-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
+  "palantir.com::forward deployed infrastructure engineer new grad us government": {
+   "id": "59fdd103b5d8",
+   "company": "Palantir",
+   "companyUrl": "https://aplyr.ai/companies/palantir?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
+   "locations": [
+    "Honolulu, HI"
+   ],
+   "section": "swe",
+   "posted": "2026-08-31",
+   "added": "2026-10-19T05:16:42.000Z",
+   "pay": "$135k–145k/yr",
+   "url": "https://aplyr.ai/jobs/59fdd103b5d8/forward-deployed-infrastructure-engineer-new-grad-us-government?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-19"
+  },
   "imegcorp.com::electrical engineering new graduate new york ny": {
    "id": "886a69f4265c",
    "company": "IMEG",
@@ -1326,6 +1383,62 @@
    "url": "https://aplyr.ai/jobs/66fc7e1a1085/software-engineer-i-spacecraft-simulation-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
+  },
+  "imegcorp.com::electrical engineering new graduate broomall pa": {
+   "id": "5d6a2927a975",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Broomall, PA",
+   "locations": [
+    "Broomall, PA"
+   ],
+   "section": "hw",
+   "posted": "2026-08-25",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/5d6a2927a975/electrical-engineering-new-graduate-broomall-pa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate chicago il": {
+   "id": "182ec6e893af",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Chicago, IL",
+   "locations": [
+    "Chicago, IL"
+   ],
+   "section": "hw",
+   "posted": "2026-08-21",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/182ec6e893af/electrical-engineering-new-graduate-chicago-il?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate philadelphia pa": {
+   "id": "1f7e29d557a0",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Philadelphia, PA",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "section": "hw",
+   "posted": "2026-08-21",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/1f7e29d557a0/electrical-engineering-new-graduate-philadelphia-pa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate billings mt": {
+   "id": "c92b5597c8c5",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Billings, MT",
+   "locations": [
+    "Billings, MT"
+   ],
+   "section": "hw",
+   "posted": "2026-08-20",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/c92b5597c8c5/electrical-engineering-new-graduate-billings-mt?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
   },
   "freeform.co::electrical engineer new grad summer 2027": {
    "id": "cc65810af08c",
@@ -1465,6 +1578,34 @@
    "url": "https://aplyr.ai/jobs/cb44d71503cc/electrical-engineering-new-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
+  "imegcorp.com::electrical engineering new graduate farmington hills mi": {
+   "id": "5ffba904fb1e",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Farmington Hills, MI",
+   "locations": [
+    "Detroit Metro, MI"
+   ],
+   "section": "hw",
+   "posted": "2026-08-19",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/5ffba904fb1e/electrical-engineering-new-graduate-farmington-hills-mi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate rock island il": {
+   "id": "158bac99b252",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Rock Island, IL",
+   "locations": [
+    "Rock Island, IL"
+   ],
+   "section": "hw",
+   "posted": "2026-08-18",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/158bac99b252/electrical-engineering-new-graduate-rock-island-il?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
   "imegcorp.com::electrical engineering new grad columbia sc": {
    "id": "b8bf79013ba5",
    "company": "IMEG",
@@ -1477,6 +1618,20 @@
    "posted": "2026-08-17",
    "added": "2026-08-18T07:15:42.000Z",
    "url": "https://aplyr.ai/jobs/b8bf79013ba5/electrical-engineering-new-grad-columbia-sc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
+  },
+  "imegcorp.com::electrical engineering new graduate jacksonville fl": {
+   "id": "2a24f3af4a5b",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Jacksonville, FL",
+   "locations": [
+    "Jacksonville, FL"
+   ],
+   "section": "hw",
+   "posted": "2026-08-17",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/2a24f3af4a5b/electrical-engineering-new-graduate-jacksonville-fl?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
   "spacex.com::new graduate engineer software 26 27 starlink": {
@@ -1633,6 +1788,39 @@
   }
  },
  "closed": {
+  "nc.gov::database administrator i ehra early career": {
+   "id": "5ffc0b95cae4",
+   "company": "State of North Carolina",
+   "companyUrl": "https://aplyr.ai/companies/nc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Database Administrator I - EHRA - Early Career",
+   "locations": [
+    "Wake County, NC"
+   ],
+   "section": "data",
+   "posted": "2026-10-16",
+   "added": "2026-10-17T22:43:12.000Z",
+   "pay": "$82k–122k/yr",
+   "url": "https://aplyr.ai/jobs/5ffc0b95cae4/database-administrator-i-ehra-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-19"
+  },
+  "globalfoundries.com::silicon photonics test development engineer 2027 new college graduate": {
+   "id": "6ae2625e14f2",
+   "company": "GlobalFoundries",
+   "companyUrl": "https://aplyr.ai/companies/globalfoundries?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Silicon Photonics Test Development Engineer (2027 New College Graduate)",
+   "locations": [
+    "USA - Vermont - Essex Junction"
+   ],
+   "section": "hw",
+   "posted": "2026-10-16",
+   "added": "2026-10-17T22:29:18.000Z",
+   "pay": "$58k–101k/yr",
+   "url": "https://aplyr.ai/jobs/6ae2625e14f2/silicon-photonics-test-development-engineer-2027-new-college-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-19"
+  },
   "affirm.com::software engineer early career sf": {
    "id": "21b8bda55856",
    "company": "Affirm",
