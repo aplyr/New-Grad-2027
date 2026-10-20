@@ -2,20 +2,135 @@
  "version": 1,
  "slug": "new-grad-2027",
  "open": {
-  "northropgrumman.com::2027 associate software engineer pathways linthicum ma": {
-   "id": "77da2462c5ae",
-   "company": "Northrop Grumman",
-   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
+  "lockheedmartin.com::component engineer asc early career": {
+   "id": "62a66f00d140",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Component Engineer Asc - Early Career",
    "locations": [
-    "United States-Maryland-Linthicum"
+    "Littleton, CO"
+   ],
+   "section": "hw",
+   "posted": "2026-10-20",
+   "added": "2026-10-20T11:34:33.000Z",
+   "pay": "$66k–122k/yr",
+   "url": "https://aplyr.ai/jobs/62a66f00d140/component-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-20"
+  },
+  "lockheedmartin.com::software engineer early career": {
+   "id": "1984333a504a",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer - Early Career",
+   "locations": [
+    "Huntsville, AL"
+   ],
+   "section": "swe",
+   "posted": "2026-10-20",
+   "added": "2026-10-20T11:34:33.000Z",
+   "pay": "$67k–124k/yr",
+   "url": "https://aplyr.ai/jobs/1984333a504a/software-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
+  "appliedmaterials.com::software engineer bachelors degree new college grad santa clara": {
+   "id": "7f7e4fa8dbce",
+   "company": "Applied Materials",
+   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, Bachelors Degree, New College Grad (Santa Clara)",
+   "locations": [
+    "Santa Clara,CA"
    ],
    "section": "swe",
    "posted": "2026-10-19",
-   "added": "2026-10-19T19:01:20.000Z",
-   "url": "https://aplyr.ai/jobs/77da2462c5ae/2027-associatesoftware-engineer-pathways-linthicum-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "added": "2026-10-19T22:01:06.000Z",
+   "pay": "$104k–143k/yr",
+   "url": "https://aplyr.ai/jobs/7f7e4fa8dbce/software-engineer-bachelors-degree-new-college-grad-santa-clara?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20"
+  },
+  "c3.ai::forward deployed engineer federal new grad 2027": {
+   "id": "24c7a1c87487",
+   "company": "C3 AI",
+   "companyUrl": "https://aplyr.ai/companies/c3?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Forward Deployed Engineer - Federal, New Grad 2027",
+   "locations": [
+    "Tysons, Virginia"
+   ],
+   "section": "swe",
+   "posted": "2026-10-19",
+   "added": "2026-10-20T05:16:07.000Z",
+   "pay": "$120k–150k/yr",
+   "url": "https://aplyr.ai/jobs/24c7a1c87487/forward-deployed-engineer-federal-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-20"
+  },
+  "lockheedmartin.com::software engineer asc early career": {
+   "id": "99dca9b3c254",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer Asc - Early Career",
+   "locations": [
+    "Herndon, VA",
+    "King of Prussia, PA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-19",
+   "added": "2026-10-20T11:34:33.000Z",
+   "pay": "$75k–140k/yr",
+   "url": "https://aplyr.ai/jobs/99dca9b3c254/software-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
+  },
+  "lockheedmartin.com::systems integration test engineer asc early career": {
+   "id": "b0b423601f73",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Systems Integration/Test Engineer Asc - Early Career",
+   "locations": [
+    "Littleton, CO"
+   ],
+   "section": "hw",
+   "posted": "2026-10-19",
+   "added": "2026-10-20T11:34:33.000Z",
+   "pay": "$66k–122k/yr",
+   "url": "https://aplyr.ai/jobs/b0b423601f73/systems-integrationtest-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20"
+  },
+  "citi.com::angular developer frontend engineer entry level": {
+   "id": "082ba5ced90c",
+   "company": "Citigroup",
+   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Angular Developer / Frontend Engineer (Entry-Level)",
+   "locations": [
+    "Irving Texas United States"
+   ],
+   "section": "swe",
+   "posted": "2026-10-19",
+   "added": "2026-10-20T12:15:15.000Z",
+   "pay": "$85k–118k/yr",
+   "url": "https://aplyr.ai/jobs/082ba5ced90c/angular-developer-frontend-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20"
+  },
+  "appliedmaterials.com::service product manager product line management new college grad master s santa clara ca austin tx": {
+   "id": "ad8459a3a711",
+   "company": "Applied Materials",
+   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Service Product Manager/Product Line Management New College Grad- Master's (Santa Clara, CA/Austin, TX)",
+   "locations": [
+    "Santa Clara,CA",
+    "Austin,TX"
+   ],
+   "section": "pm",
+   "posted": "2026-10-19",
+   "added": "2026-10-19T22:01:06.000Z",
+   "pay": "$87k–119k/yr",
+   "url": "https://aplyr.ai/jobs/ad8459a3a711/service-product-managerproduct-line-management-new-college-grad-masters-santa-cl?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20"
   },
   "kla.com::semiconductor field service engineer new college grad": {
    "id": "2027d1c5d8bf",
@@ -29,21 +144,6 @@
    "posted": "2026-10-19",
    "added": "2026-10-19T18:50:56.000Z",
    "url": "https://aplyr.ai/jobs/2027d1c5d8bf/semiconductor-field-service-engineer-new-college-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
-  "lockheedmartin.com::software engineer early career": {
-   "id": "e6a5a02f7f6e",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer - Early Career",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "section": "swe",
-   "posted": "2026-10-19",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/e6a5a02f7f6e/software-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
   },
@@ -76,22 +176,6 @@
    "pay": "$140k–150k/yr",
    "url": "https://aplyr.ai/jobs/1dc32dff6d66/hardware-security-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
-  },
-  "lockheedmartin.com::software engineer asc early career": {
-   "id": "7d2969b7e4c4",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer Asc - Early Career",
-   "locations": [
-    "King of Prussia, PA",
-    "Herndon, VA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-15",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/7d2969b7e4c4/software-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "lockheedmartin.com::a ai machine learning engineering asc early career": {
    "id": "9fbfc5c32e7a",
@@ -1788,6 +1872,22 @@
   }
  },
  "closed": {
+  "northropgrumman.com::2027 associate software engineer pathways linthicum ma": {
+   "id": "77da2462c5ae",
+   "company": "Northrop Grumman",
+   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
+   "locations": [
+    "United States-Maryland-Linthicum"
+   ],
+   "section": "swe",
+   "posted": "2026-10-19",
+   "added": "2026-10-19T19:01:20.000Z",
+   "url": "https://aplyr.ai/jobs/77da2462c5ae/2027-associatesoftware-engineer-pathways-linthicum-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-20"
+  },
   "nc.gov::database administrator i ehra early career": {
    "id": "5ffc0b95cae4",
    "company": "State of North Carolina",
