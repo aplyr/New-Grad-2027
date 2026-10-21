@@ -2,6 +2,145 @@
  "version": 1,
  "slug": "new-grad-2027",
  "open": {
+  "carrier.com::digital technology leadership program": {
+   "id": "675ab156d81e",
+   "company": "Carrier",
+   "companyUrl": "https://aplyr.ai/companies/carrier?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Digital Technology Leadership Program",
+   "locations": [
+    "CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33418 USA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-21",
+   "added": "2026-10-21T06:46:00.000Z",
+   "url": "https://aplyr.ai/jobs/675ab156d81e/digital-technology-leadership-program?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21"
+  },
+  "nvidia.com::software engineer agent performance modeling new college grad 2026": {
+   "id": "b0dc047ffdf3",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, Agent Performance Modeling - New College Grad 2026",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "swe",
+   "posted": "2026-10-21",
+   "added": "2026-10-21T05:16:55.000Z",
+   "url": "https://aplyr.ai/jobs/b0dc047ffdf3/software-engineer-agent-performance-modeling-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21"
+  },
+  "lockheedmartin.com::software engineer early career": {
+   "id": "f9f2f921cb0f",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer - Early Career",
+   "locations": [
+    "Huntsville, AL",
+    "Marietta, GA",
+    "Herndon, VA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-21",
+   "added": "2026-10-21T11:44:32.000Z",
+   "url": "https://aplyr.ai/jobs/f9f2f921cb0f/software-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
+  "brainco.ai::ai product engineer 2027 new grad": {
+   "id": "d8b9413254db",
+   "company": "Brain Co.",
+   "companyUrl": "https://aplyr.ai/companies/brainco?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "AI Product Engineer, 2027 New Grad",
+   "locations": [
+    "San Francisco Bay Area"
+   ],
+   "section": "data",
+   "posted": "2026-10-20",
+   "added": "2026-10-21T05:31:56.000Z",
+   "url": "https://aplyr.ai/jobs/d8b9413254db/ai-product-engineer-2027-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-21"
+  },
+  "appliedmaterials.com::algorithm developer masters degree new college grad santa clara": {
+   "id": "9ea62e49ecc9",
+   "company": "Applied Materials",
+   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Algorithm Developer, Masters Degree, New College Grad (Santa Clara)",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-20",
+   "added": "2026-10-20T22:00:57.000Z",
+   "url": "https://aplyr.ai/jobs/9ea62e49ecc9/algorithm-developer-masters-degree-new-college-grad-santa-clara?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21"
+  },
+  "sambanova.ai::ai performance engineer new grad": {
+   "id": "75fa24aaa2c6",
+   "company": "SambaNova Systems",
+   "companyUrl": "https://aplyr.ai/companies/sambanova?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "AI Performance Engineer - New Grad",
+   "locations": [
+    "Austin, Texas",
+    "San Jose, California"
+   ],
+   "section": "data",
+   "posted": "2026-10-20",
+   "added": "2026-10-21T07:15:50.000Z",
+   "pay": "$131k–197k/yr",
+   "url": "https://aplyr.ai/jobs/75fa24aaa2c6/ai-performance-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-21"
+  },
+  "lockheedmartin.com::electronic packaging mechanical engineer early career westford ma": {
+   "id": "7a9d946411e5",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electronic Packaging / Mechanical Engineer - Early Career - Westford, MA",
+   "locations": [
+    "Westford, MA",
+    "Andover, MA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-20",
+   "added": "2026-10-21T11:44:32.000Z",
+   "url": "https://aplyr.ai/jobs/7a9d946411e5/electronic-packaging-mechanical-engineer-early-career-westford-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21"
+  },
+  "lockheedmartin.com::software engineer asc early career": {
+   "id": "c7404b55a1a3",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer Asc - Early Career",
+   "locations": [
+    "Fort Worth, TX",
+    "Herndon, VA",
+    "King of Prussia, PA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-20",
+   "added": "2026-10-21T11:44:32.000Z",
+   "url": "https://aplyr.ai/jobs/c7404b55a1a3/software-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
+  "ford.com::supply chain program management ai tool creation early career program advanced ev": {
+   "id": "2383bde54db8",
+   "company": "Ford Motor Company",
+   "companyUrl": "https://aplyr.ai/companies/ford?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Supply Chain Program Management & AI Tool Creation - Early Career Program, Advanced EV",
+   "locations": [
+    "Long Beach, CA"
+   ],
+   "section": "data",
+   "posted": "2026-10-20",
+   "added": "2026-10-21T11:44:32.000Z",
+   "url": "https://aplyr.ai/jobs/2383bde54db8/supply-chain-program-management-ai-tool-creation-early-career-program-advanced-e?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-21"
+  },
   "lockheedmartin.com::component engineer asc early career": {
    "id": "62a66f00d140",
    "company": "Lockheed Martin",
@@ -17,22 +156,6 @@
    "url": "https://aplyr.ai/jobs/62a66f00d140/component-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-20"
-  },
-  "lockheedmartin.com::software engineer early career": {
-   "id": "1984333a504a",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer - Early Career",
-   "locations": [
-    "Huntsville, AL"
-   ],
-   "section": "swe",
-   "posted": "2026-10-20",
-   "added": "2026-10-20T11:34:33.000Z",
-   "pay": "$67k–124k/yr",
-   "url": "https://aplyr.ai/jobs/1984333a504a/software-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "appliedmaterials.com::software engineer bachelors degree new college grad santa clara": {
    "id": "7f7e4fa8dbce",
@@ -65,23 +188,6 @@
    "url": "https://aplyr.ai/jobs/24c7a1c87487/forward-deployed-engineer-federal-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-20"
-  },
-  "lockheedmartin.com::software engineer asc early career": {
-   "id": "99dca9b3c254",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer Asc - Early Career",
-   "locations": [
-    "Herndon, VA",
-    "King of Prussia, PA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-19",
-   "added": "2026-10-20T11:34:33.000Z",
-   "pay": "$75k–140k/yr",
-   "url": "https://aplyr.ai/jobs/99dca9b3c254/software-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "lockheedmartin.com::systems integration test engineer asc early career": {
    "id": "b0b423601f73",
@@ -132,6 +238,53 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-20"
   },
+  "nxp.com::entry level dft design engineer": {
+   "id": "92e5ea186e17",
+   "company": "NXP Semiconductors",
+   "companyUrl": "https://aplyr.ai/companies/nxp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry Level DFT Design Engineer",
+   "locations": [
+    "Austin (Oakhill, Office)"
+   ],
+   "section": "hw",
+   "posted": "2026-10-19",
+   "added": "2026-10-19T20:40:17.000Z",
+   "url": "https://aplyr.ai/jobs/92e5ea186e17/entry-level-dft-design-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21"
+  },
+  "globalfoundries.com::ai ml systems engineer 2027 new college graduate": {
+   "id": "df04a7e4f6a4",
+   "company": "GlobalFoundries",
+   "companyUrl": "https://aplyr.ai/companies/globalfoundries?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "AI/ML Systems Engineer (2027 New College Graduate)",
+   "locations": [
+    "USA - Texas - Richardson"
+   ],
+   "section": "data",
+   "posted": "2026-10-19",
+   "added": "2026-10-19T20:40:17.000Z",
+   "pay": "$86k–148k/yr",
+   "url": "https://aplyr.ai/jobs/df04a7e4f6a4/aiml-systems-engineer-2027-new-college-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21"
+  },
+  "northropgrumman.com::2027 associate software engineer pathways linthicum ma": {
+   "id": "77da2462c5ae",
+   "company": "Northrop Grumman",
+   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
+   "locations": [
+    "United States-Maryland-Linthicum"
+   ],
+   "section": "swe",
+   "posted": "2026-10-19",
+   "added": "2026-10-19T19:01:20.000Z",
+   "pay": "$76k–138k/yr",
+   "url": "https://aplyr.ai/jobs/77da2462c5ae/2027-associatesoftware-engineer-pathways-linthicum-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-19"
+  },
   "kla.com::semiconductor field service engineer new college grad": {
    "id": "2027d1c5d8bf",
    "company": "KLA Corporation",
@@ -143,6 +296,7 @@
    "section": "hw",
    "posted": "2026-10-19",
    "added": "2026-10-19T18:50:56.000Z",
+   "pay": "$25.15–42.75/hr",
    "url": "https://aplyr.ai/jobs/2027d1c5d8bf/semiconductor-field-service-engineer-new-college-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
@@ -207,21 +361,6 @@
    "added": "2026-10-17T09:45:21.000Z",
    "pay": "$150k–180k/yr",
    "url": "https://aplyr.ai/jobs/93449553caa7/forward-deployed-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-19"
-  },
-  "northropgrumman.com::2027 associate pathways electronics engineer pathways electronics engineer linthicum md": {
-   "id": "1476c1db7000",
-   "company": "Northrop Grumman",
-   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "2027 Associate Pathways Electronics Engineer / Pathways Electronics Engineer - Linthicum MD",
-   "locations": [
-    "United States-Maryland-Baltimore"
-   ],
-   "section": "hw",
-   "posted": "2026-10-15",
-   "added": "2026-10-17T22:25:12.000Z",
-   "url": "https://aplyr.ai/jobs/1476c1db7000/2027-associate-pathways-electronics-engineer-pathways-electronics-engineer-linth?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
   },
   "boeing.com::entry level software engineer developer development": {
@@ -315,22 +454,6 @@
    "url": "https://aplyr.ai/jobs/da25fb21338b/security-administrator-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
-  },
-  "nvidia.com::software engineer dl kernel libraries new college grad 2027": {
-   "id": "b3462559e8db",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "section": "swe",
-   "posted": "2026-10-12",
-   "added": "2026-10-12T05:15:32.000Z",
-   "pay": "$20–26/hr",
-   "url": "https://aplyr.ai/jobs/b3462559e8db/software-engineer-dl-kernel-libraries-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
   },
   "gm.com::entry level ai machine learning researcher": {
    "id": "eebfceac4bfe",
@@ -483,21 +606,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "ge.com::entry level fpga design verification engineer": {
-   "id": "55f6bdb0b853",
-   "company": "GE Aerospace",
-   "companyUrl": "https://aplyr.ai/companies/ge?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry Level - FPGA Design/Verification Engineer",
-   "locations": [
-    "Grand Rapids"
-   ],
-   "section": "hw",
-   "posted": "2026-10-09",
-   "added": "2026-10-17T22:26:19.000Z",
-   "url": "https://aplyr.ai/jobs/55f6bdb0b853/entry-level-fpga-designverification-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
   "lockheedmartin.com::database engineer entry level": {
    "id": "67a60e3b70cb",
    "company": "Lockheed Martin",
@@ -639,6 +747,21 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
+  "lockheedmartin.com::entry level network admin": {
+   "id": "dd6f923c9549",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry Level Network Admin",
+   "locations": [
+    "Fort Worth, TX"
+   ],
+   "section": "swe",
+   "posted": "2026-10-05",
+   "added": "2026-10-21T11:44:32.000Z",
+   "url": "https://aplyr.ai/jobs/dd6f923c9549/entry-level-network-admin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21"
+  },
   "id.me::software development engineer ii life hub super app new grad early career": {
    "id": "898e703781d5",
    "company": "ID.me",
@@ -715,6 +838,48 @@
    "pay": "$165k–182k/yr",
    "url": "https://aplyr.ai/jobs/d11235f7c0e2/software-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
+  },
+  "brainco.ai::ai security engineer 2027 new grad": {
+   "id": "4faea55daba4",
+   "company": "Brain Co.",
+   "companyUrl": "https://aplyr.ai/companies/brainco?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "AI Security Engineer, 2027 New Grad",
+   "locations": [
+    "San Francisco Bay Area"
+   ],
+   "section": "swe",
+   "posted": "2026-10-01",
+   "added": "2026-10-21T05:31:56.000Z",
+   "url": "https://aplyr.ai/jobs/4faea55daba4/ai-security-engineer-2027-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-21"
+  },
+  "brainco.ai::ai ml engineer 2027 new grad": {
+   "id": "63a9b7814d07",
+   "company": "Brain Co.",
+   "companyUrl": "https://aplyr.ai/companies/brainco?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "AI/ML Engineer, 2027 New Grad",
+   "locations": [
+    "San Francisco Bay Area"
+   ],
+   "section": "data",
+   "posted": "2026-10-01",
+   "added": "2026-10-21T05:31:56.000Z",
+   "url": "https://aplyr.ai/jobs/63a9b7814d07/aiml-engineer-2027-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-21"
+  },
+  "brainco.ai::ai platform engineer 2027 new grad": {
+   "id": "a2e1957362db",
+   "company": "Brain Co.",
+   "companyUrl": "https://aplyr.ai/companies/brainco?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "AI Platform Engineer, 2027 New Grad",
+   "locations": [
+    "San Francisco Bay Area"
+   ],
+   "section": "swe",
+   "posted": "2026-10-01",
+   "added": "2026-10-21T05:31:56.000Z",
+   "url": "https://aplyr.ai/jobs/a2e1957362db/ai-platform-engineer-2027-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-21"
   },
   "imegcorp.com::electrical engineering new graduate designer raleigh nc": {
    "id": "7ecb9363bb98",
@@ -1872,21 +2037,54 @@
   }
  },
  "closed": {
-  "northropgrumman.com::2027 associate software engineer pathways linthicum ma": {
-   "id": "77da2462c5ae",
+  "northropgrumman.com::2027 associate pathways electronics engineer pathways electronics engineer linthicum md": {
+   "id": "1476c1db7000",
    "company": "Northrop Grumman",
    "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
+   "title": "2027 Associate Pathways Electronics Engineer / Pathways Electronics Engineer - Linthicum MD",
    "locations": [
-    "United States-Maryland-Linthicum"
+    "United States-Maryland-Baltimore"
    ],
-   "section": "swe",
-   "posted": "2026-10-19",
-   "added": "2026-10-19T19:01:20.000Z",
-   "url": "https://aplyr.ai/jobs/77da2462c5ae/2027-associatesoftware-engineer-pathways-linthicum-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "section": "hw",
+   "posted": "2026-10-15",
+   "added": "2026-10-17T22:25:12.000Z",
+   "url": "https://aplyr.ai/jobs/1476c1db7000/2027-associate-pathways-electronics-engineer-pathways-electronics-engineer-linth?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19",
-   "closedAt": "2026-10-20"
+   "closedAt": "2026-10-21"
+  },
+  "nvidia.com::software engineer dl kernel libraries new college grad 2027": {
+   "id": "b3462559e8db",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "swe",
+   "posted": "2026-10-12",
+   "added": "2026-10-12T05:15:32.000Z",
+   "pay": "$20–26/hr",
+   "url": "https://aplyr.ai/jobs/b3462559e8db/software-engineer-dl-kernel-libraries-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-21"
+  },
+  "ge.com::entry level fpga design verification engineer": {
+   "id": "55f6bdb0b853",
+   "company": "GE Aerospace",
+   "companyUrl": "https://aplyr.ai/companies/ge?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry Level - FPGA Design/Verification Engineer",
+   "locations": [
+    "Grand Rapids"
+   ],
+   "section": "hw",
+   "posted": "2026-10-09",
+   "added": "2026-10-17T22:26:19.000Z",
+   "url": "https://aplyr.ai/jobs/55f6bdb0b853/entry-level-fpga-designverification-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-21"
   },
   "nc.gov::database administrator i ehra early career": {
    "id": "5ffc0b95cae4",
