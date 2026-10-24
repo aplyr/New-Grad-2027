@@ -2,35 +2,83 @@
  "version": 1,
  "slug": "new-grad-2027",
  "open": {
-  "appliedmaterials.com::2027 software engineer new college grad bachelor s gloucester ma": {
-   "id": "cc3a5afda909",
-   "company": "Applied Materials",
-   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
+  "addepar.com::product manager early career ai platform": {
+   "id": "0832e682a419",
+   "company": "Addepar",
+   "companyUrl": "https://aplyr.ai/companies/addepar?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Product Manager - Early Career, AI Platform",
    "locations": [
-    "Gloucester,MA"
+    "New York, NY"
+   ],
+   "section": "pm",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T04:45:33.000Z",
+   "pay": "$83k–130k/yr",
+   "url": "https://aplyr.ai/jobs/0832e682a419/product-manager-early-career-ai-platform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-24"
+  },
+  "aecom.com::entry level environmental statistician": {
+   "id": "6d28436ee4df",
+   "company": "AECOM",
+   "companyUrl": "https://aplyr.ai/companies/aecom?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-Level Environmental Statistician",
+   "locations": [
+    "Grand Rapids",
+    "Novi"
+   ],
+   "section": "data",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T10:33:26.000Z",
+   "pay": "$61k–75k/yr",
+   "url": "https://aplyr.ai/jobs/6d28436ee4df/entry-level-environmental-statistician?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-24"
+  },
+  "citi.com::technology application development full time analyst irving usa 2027": {
+   "id": "d7c9af2bae94",
+   "company": "Citigroup",
+   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Technology, Application Development, Full Time Analyst, Irving - USA, 2027",
+   "locations": [
+    "Irving Texas United States"
    ],
    "section": "swe",
    "posted": "2026-10-23",
-   "added": "2026-10-23T12:30:21.000Z",
-   "url": "https://aplyr.ai/jobs/cc3a5afda909/2027-software-engineer-new-college-grad-bachelors-gloucester-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "added": "2026-10-24T12:15:18.000Z",
+   "url": "https://aplyr.ai/jobs/d7c9af2bae94/technology-application-development-full-time-analyst-irving-usa-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
+   "firstSeen": "2026-10-24"
   },
-  "nvidia.com::silicon co design engineer new college grad 2026": {
-   "id": "888b1e401605",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Silicon Co-Design Engineer - New College Grad 2026",
+  "citi.com::technology cyber security full time analyst irving 2027": {
+   "id": "7c7ad9c05255",
+   "company": "Citigroup",
+   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Technology- Cyber Security, Full Time Analyst, Irving 2027",
    "locations": [
-    "US, CA, Santa Clara"
+    "Irving Texas United States"
    ],
-   "section": "hw",
+   "section": "swe",
    "posted": "2026-10-23",
-   "added": "2026-10-23T05:16:50.000Z",
-   "url": "https://aplyr.ai/jobs/888b1e401605/silicon-co-design-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "added": "2026-10-24T12:15:18.000Z",
+   "url": "https://aplyr.ai/jobs/7c7ad9c05255/technology-cyber-security-full-time-analyst-irving-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
+   "firstSeen": "2026-10-24"
+  },
+  "hntb.com::new grad gis analyst i for current previous hntb interns only": {
+   "id": "5c86f0cf5d3d",
+   "company": "HNTB",
+   "companyUrl": "https://aplyr.ai/companies/hntb?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New Grad GIS Analyst I (For Current/Previous HNTB Interns ONLY)",
+   "locations": [
+    "Tallahassee, FL"
+   ],
+   "section": "data",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T22:30:25.000Z",
+   "url": "https://aplyr.ai/jobs/5c86f0cf5d3d/new-grad-gis-analyst-i-for-currentprevious-hntb-interns-only?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-24"
   },
   "lockheedmartin.com::software engineer asc early career": {
    "id": "fea529ab0b8f",
@@ -137,8 +185,7 @@
    "locations": [
     "Sunnyvale, CA",
     "King of Prussia, PA",
-    "Littleton, CO",
-    "Fort Belvoir, VA"
+    "Littleton, CO"
    ],
    "section": "data",
    "posted": "2026-10-22",
@@ -159,21 +206,6 @@
    "posted": "2026-10-22",
    "added": "2026-10-22T22:21:01.000Z",
    "url": "https://aplyr.ai/jobs/3e3ac83ce5f2/entry-level-power-electronics-and-analog-design-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "hpe.com::graduate electrical hdwr engineer i": {
-   "id": "1fc2558ffda0",
-   "company": "HPE",
-   "companyUrl": "https://aplyr.ai/companies/hpe?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Graduate Electrical Hdwr Engineer I",
-   "locations": [
-    "Chippewa Falls, Wisconsin"
-   ],
-   "section": "hw",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T09:30:48.000Z",
-   "url": "https://aplyr.ai/jobs/1fc2558ffda0/graduate-electrical-hdwr-engineer-i?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
@@ -200,8 +232,7 @@
    "locations": [
     "Huntsville, AL",
     "Marietta, GA",
-    "Herndon, VA",
-    "King of Prussia, PA"
+    "Herndon, VA"
    ],
    "section": "swe",
    "posted": "2026-10-22",
@@ -256,23 +287,6 @@
    "url": "https://aplyr.ai/jobs/ce304aea18b7/entry-level-rf-design-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
-  },
-  "affirm.com::analyst early career full stack": {
-   "id": "7ea422e77d2f",
-   "company": "Affirm",
-   "companyUrl": "https://aplyr.ai/companies/affirm?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Analyst, Early Career (Full Stack)",
-   "locations": [
-    "New York, New York",
-    "San Francisco, California"
-   ],
-   "section": "swe",
-   "posted": "2026-10-21",
-   "added": "2026-10-22T05:01:40.000Z",
-   "pay": "$115k/yr",
-   "url": "https://aplyr.ai/jobs/7ea422e77d2f/analyst-early-career-full-stack?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-22"
   },
   "livescoregroup.com::graduate insights analyst": {
    "id": "76dd1c37064f",
@@ -549,52 +563,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
-  "lockheedmartin.com::radio frequency engineer early career": {
-   "id": "b8a10b12ba2f",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Radio Frequency Engineer - Early Career",
-   "locations": [
-    "Littleton, CO"
-   ],
-   "section": "hw",
-   "posted": "2026-10-14",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/b8a10b12ba2f/radio-frequency-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "lockheedmartin.com::production test engineer ate early career": {
-   "id": "b2a5fe8966fa",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Production Test Engineer (ATE) - Early Career",
-   "locations": [
-    "Troy, AL"
-   ],
-   "section": "hw",
-   "posted": "2026-10-14",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/b2a5fe8966fa/production-test-engineer-ate-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "lockheedmartin.com::a ai research engineer early career": {
-   "id": "fb09fba95f41",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "A/AI Research Engineer - Early Career",
-   "locations": [
-    "King of Prussia, PA",
-    "Littleton, CO"
-   ],
-   "section": "data",
-   "posted": "2026-10-14",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/fb09fba95f41/aai-research-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
   "boeing.com::entry level software engineer developer development": {
    "id": "ba1abcf2b629",
    "company": "Boeing",
@@ -622,9 +590,25 @@
    "section": "swe",
    "posted": "2026-10-14",
    "added": "2026-10-15T08:01:52.000Z",
+   "pay": "$78k–106k/yr",
    "url": "https://aplyr.ai/jobs/c941bed9867c/entry-level-flight-simulation-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
+  },
+  "micron.com::new college grad embedded firmware engineer": {
+   "id": "337139358cd8",
+   "company": "Micron",
+   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New College Grad - Embedded Firmware Engineer",
+   "locations": [
+    "Boise, ID - SIG Building"
+   ],
+   "section": "swe",
+   "posted": "2026-10-14",
+   "added": "2026-10-15T07:19:59.000Z",
+   "url": "https://aplyr.ai/jobs/337139358cd8/new-college-grad-embedded-firmware-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24"
   },
   "pditechnologies.com::product owner i entry level": {
    "id": "566896e6f7d8",
@@ -641,22 +625,6 @@
    "url": "https://aplyr.ai/jobs/566896e6f7d8/product-owner-i-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
-  "lockheedmartin.com::cyber systems security engineering entry level": {
-   "id": "62e58fae5054",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Cyber Systems Security Engineering Entry Level",
-   "locations": [
-    "Huntsville, AL",
-    "Littleton, CO"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/62e58fae5054/cyber-systems-security-engineering-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
   "boeing.com::entry level software engineer developer": {
    "id": "592e1e3c72d8",
    "company": "Boeing",
@@ -669,21 +637,6 @@
    "posted": "2026-10-13",
    "added": "2026-10-19T18:50:56.000Z",
    "url": "https://aplyr.ai/jobs/592e1e3c72d8/entry-level-software-engineerdeveloper?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
-  "lockheedmartin.com::security administrator entry level": {
-   "id": "da25fb21338b",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Security Administrator - Entry Level",
-   "locations": [
-    "Fort Worth, TX"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/da25fb21338b/security-administrator-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
   },
@@ -823,21 +776,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "lockheedmartin.com::database engineer entry level": {
-   "id": "67a60e3b70cb",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Database Engineer - Entry Level",
-   "locations": [
-    "Annapolis Junction, MD"
-   ],
-   "section": "data",
-   "posted": "2026-10-08",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/67a60e3b70cb/database-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
   "caci.com::entry level c# software engineer": {
    "id": "848d7bb3c1cb",
    "company": "CACI International",
@@ -964,21 +902,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "lockheedmartin.com::entry level network admin": {
-   "id": "dd6f923c9549",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry Level Network Admin",
-   "locations": [
-    "Fort Worth, TX"
-   ],
-   "section": "swe",
-   "posted": "2026-10-05",
-   "added": "2026-10-21T11:44:32.000Z",
-   "url": "https://aplyr.ai/jobs/dd6f923c9549/entry-level-network-admin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-21"
-  },
   "id.me::software development engineer ii life hub super app new grad early career": {
    "id": "898e703781d5",
    "company": "ID.me",
@@ -993,21 +916,6 @@
    "pay": "$122k–157k/yr",
    "url": "https://aplyr.ai/jobs/898e703781d5/software-development-engineer-ii-life-hub-super-app-new-grad-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
-  "nuro.ai::new grad software engineer product engineering": {
-   "id": "38ac333eb15f",
-   "company": "Nuro",
-   "companyUrl": "https://aplyr.ai/companies/nuro?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "New Grad Software Engineer, Product Engineering",
-   "locations": [
-    "Mountain View, California (HQ)"
-   ],
-   "section": "swe",
-   "posted": "2026-10-05",
-   "added": "2026-10-06T06:45:56.000Z",
-   "pay": "$132k–198k/yr",
-   "url": "https://aplyr.ai/jobs/38ac333eb15f/new-grad-software-engineer-product-engineering?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
   "datalabusa.com::programmer analyst entry level data analyst data scientist marketing analytics": {
@@ -1343,6 +1251,21 @@
    "added": "2026-10-18T00:22:00.000Z",
    "url": "https://aplyr.ai/jobs/e62aac662717/electrical-engineering-new-grad-ontario-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
+  },
+  "shield.ai::software engineer i new grad r6052": {
+   "id": "d70be9bf4b87",
+   "company": "Shield AI",
+   "companyUrl": "https://aplyr.ai/companies/shield?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer I - New Grad (R6052)",
+   "locations": [
+    "Seattle, Washington"
+   ],
+   "section": "swe",
+   "posted": "2026-09-17",
+   "added": "2026-10-24T05:03:40.000Z",
+   "pay": "$100k–150k/yr",
+   "url": "https://aplyr.ai/jobs/d70be9bf4b87/software-engineer-i-new-grad-r6052?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-24"
   },
   "singlestore.com::software engineer engine new grad 2027": {
    "id": "512eace7a5ee",
@@ -1847,20 +1770,6 @@
    "url": "https://aplyr.ai/jobs/1f7e29d557a0/electrical-engineering-new-graduate-philadelphia-pa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
-  "imegcorp.com::electrical engineering new graduate billings mt": {
-   "id": "c92b5597c8c5",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Billings, MT",
-   "locations": [
-    "Billings, MT"
-   ],
-   "section": "hw",
-   "posted": "2026-08-20",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/c92b5597c8c5/electrical-engineering-new-graduate-billings-mt?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
   "freeform.co::electrical engineer new grad summer 2027": {
    "id": "cc65810af08c",
    "company": "Freeform",
@@ -2178,6 +2087,217 @@
   }
  },
  "closed": {
+  "appliedmaterials.com::2027 software engineer new college grad bachelor s gloucester ma": {
+   "id": "cc3a5afda909",
+   "company": "Applied Materials",
+   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "2027 Software Engineer New College Grad (Bachelor's) - Gloucester, MA",
+   "locations": [
+    "Gloucester,MA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T12:30:21.000Z",
+   "url": "https://aplyr.ai/jobs/cc3a5afda909/2027-software-engineer-new-college-grad-bachelors-gloucester-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "nvidia.com::silicon co design engineer new college grad 2026": {
+   "id": "888b1e401605",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Silicon Co-Design Engineer - New College Grad 2026",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "hw",
+   "posted": "2026-10-23",
+   "added": "2026-10-23T05:16:50.000Z",
+   "url": "https://aplyr.ai/jobs/888b1e401605/silicon-co-design-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "hpe.com::graduate electrical hdwr engineer i": {
+   "id": "1fc2558ffda0",
+   "company": "HPE",
+   "companyUrl": "https://aplyr.ai/companies/hpe?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Graduate Electrical Hdwr Engineer I",
+   "locations": [
+    "Chippewa Falls, Wisconsin"
+   ],
+   "section": "hw",
+   "posted": "2026-10-22",
+   "added": "2026-10-23T09:30:48.000Z",
+   "url": "https://aplyr.ai/jobs/1fc2558ffda0/graduate-electrical-hdwr-engineer-i?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "affirm.com::analyst early career full stack": {
+   "id": "7ea422e77d2f",
+   "company": "Affirm",
+   "companyUrl": "https://aplyr.ai/companies/affirm?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Analyst, Early Career (Full Stack)",
+   "locations": [
+    "New York, New York",
+    "San Francisco, California"
+   ],
+   "section": "swe",
+   "posted": "2026-10-21",
+   "added": "2026-10-22T05:01:40.000Z",
+   "pay": "$115k/yr",
+   "url": "https://aplyr.ai/jobs/7ea422e77d2f/analyst-early-career-full-stack?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::radio frequency engineer early career": {
+   "id": "b8a10b12ba2f",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Radio Frequency Engineer - Early Career",
+   "locations": [
+    "Littleton, CO"
+   ],
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/b8a10b12ba2f/radio-frequency-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::production test engineer ate early career": {
+   "id": "b2a5fe8966fa",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Production Test Engineer (ATE) - Early Career",
+   "locations": [
+    "Troy, AL"
+   ],
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/b2a5fe8966fa/production-test-engineer-ate-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::a ai research engineer early career": {
+   "id": "fb09fba95f41",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "A/AI Research Engineer - Early Career",
+   "locations": [
+    "King of Prussia, PA",
+    "Littleton, CO"
+   ],
+   "section": "data",
+   "posted": "2026-10-14",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/fb09fba95f41/aai-research-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::cyber systems security engineering entry level": {
+   "id": "62e58fae5054",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Cyber Systems Security Engineering Entry Level",
+   "locations": [
+    "Huntsville, AL",
+    "Littleton, CO"
+   ],
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/62e58fae5054/cyber-systems-security-engineering-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::security administrator entry level": {
+   "id": "da25fb21338b",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Security Administrator - Entry Level",
+   "locations": [
+    "Fort Worth, TX"
+   ],
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/da25fb21338b/security-administrator-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::database engineer entry level": {
+   "id": "67a60e3b70cb",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Database Engineer - Entry Level",
+   "locations": [
+    "Annapolis Junction, MD"
+   ],
+   "section": "data",
+   "posted": "2026-10-08",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/67a60e3b70cb/database-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-24"
+  },
+  "lockheedmartin.com::entry level network admin": {
+   "id": "dd6f923c9549",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry Level Network Admin",
+   "locations": [
+    "Fort Worth, TX"
+   ],
+   "section": "swe",
+   "posted": "2026-10-05",
+   "added": "2026-10-21T11:44:32.000Z",
+   "url": "https://aplyr.ai/jobs/dd6f923c9549/entry-level-network-admin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21",
+   "closedAt": "2026-10-24"
+  },
+  "nuro.ai::new grad software engineer product engineering": {
+   "id": "38ac333eb15f",
+   "company": "Nuro",
+   "companyUrl": "https://aplyr.ai/companies/nuro?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New Grad Software Engineer, Product Engineering",
+   "locations": [
+    "Mountain View, California (HQ)"
+   ],
+   "section": "swe",
+   "posted": "2026-10-05",
+   "added": "2026-10-06T06:45:56.000Z",
+   "pay": "$132k–198k/yr",
+   "url": "https://aplyr.ai/jobs/38ac333eb15f/new-grad-software-engineer-product-engineering?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-24"
+  },
+  "imegcorp.com::electrical engineering new graduate billings mt": {
+   "id": "c92b5597c8c5",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Billings, MT",
+   "locations": [
+    "Billings, MT"
+   ],
+   "section": "hw",
+   "posted": "2026-08-20",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/c92b5597c8c5/electrical-engineering-new-graduate-billings-mt?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-24"
+  },
   "key.com::2027 marketing analytics analyst program cleveland oh": {
    "id": "d32b1a55f197",
    "company": "KeyBank",
