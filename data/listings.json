@@ -35,35 +35,20 @@
    "noSponsorship": true,
    "firstSeen": "2026-10-24"
   },
-  "citi.com::technology application development full time analyst irving usa 2027": {
-   "id": "d7c9af2bae94",
-   "company": "Citigroup",
-   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Technology, Application Development, Full Time Analyst, Irving - USA, 2027",
+  "boeing.com::entry level software engineer": {
+   "id": "f51a64f15dc1",
+   "company": "Boeing",
+   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-Level Software Engineer",
    "locations": [
-    "Irving Texas United States"
+    "USA - Maryland Heights, MO"
    ],
    "section": "swe",
    "posted": "2026-10-23",
-   "added": "2026-10-24T12:15:18.000Z",
-   "url": "https://aplyr.ai/jobs/d7c9af2bae94/technology-application-development-full-time-analyst-irving-usa-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "added": "2026-10-24T18:50:19.000Z",
+   "url": "https://aplyr.ai/jobs/f51a64f15dc1/entry-level-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-24"
-  },
-  "citi.com::technology cyber security full time analyst irving 2027": {
-   "id": "7c7ad9c05255",
-   "company": "Citigroup",
-   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Technology- Cyber Security, Full Time Analyst, Irving 2027",
-   "locations": [
-    "Irving Texas United States"
-   ],
-   "section": "swe",
-   "posted": "2026-10-23",
-   "added": "2026-10-24T12:15:18.000Z",
-   "url": "https://aplyr.ai/jobs/7c7ad9c05255/technology-cyber-security-full-time-analyst-irving-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-24"
+   "firstSeen": "2026-10-23"
   },
   "hntb.com::new grad gis analyst i for current previous hntb interns only": {
    "id": "5c86f0cf5d3d",
@@ -98,6 +83,22 @@
    "url": "https://aplyr.ai/jobs/fea529ab0b8f/software-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
+  },
+  "palantir.com::forward deployed software engineer new grad warp speed": {
+   "id": "b2176a490a88",
+   "company": "Palantir",
+   "companyUrl": "https://aplyr.ai/companies/palantir?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Forward Deployed Software Engineer, New Grad - Warp Speed",
+   "locations": [
+    "New York, NY"
+   ],
+   "section": "swe",
+   "posted": "2026-10-22",
+   "added": "2026-10-25T05:15:46.000Z",
+   "pay": "$135k–145k/yr",
+   "url": "https://aplyr.ai/jobs/b2176a490a88/forward-deployed-software-engineer-new-grad-warp-speed?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-25"
   },
   "trueanomaly.space::software engineer i qa new grad": {
    "id": "5ed9c6772b76",
@@ -209,21 +210,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
-  "boeing.com::entry level software engineer": {
-   "id": "804f014d7a97",
-   "company": "Boeing",
-   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry-Level Software Engineer",
-   "locations": [
-    "USA - Maryland Heights, MO"
-   ],
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T07:45:57.000Z",
-   "url": "https://aplyr.ai/jobs/804f014d7a97/entry-level-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
   "lockheedmartin.com::software engineer early career": {
    "id": "b81442b9719c",
    "company": "Lockheed Martin",
@@ -300,21 +286,6 @@
    "posted": "2026-10-21",
    "added": "2026-10-22T04:45:32.000Z",
    "url": "https://aplyr.ai/jobs/76dd1c37064f/graduate-insights-analyst?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-22"
-  },
-  "boeing.com::entry level asic fpga design verification engineer": {
-   "id": "a8bae4e8e899",
-   "company": "Boeing",
-   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry Level ASIC/FPGA Design Verification Engineer",
-   "locations": [
-    "USA - El Segundo, CA"
-   ],
-   "section": "hw",
-   "posted": "2026-10-21",
-   "added": "2026-10-21T18:50:32.000Z",
-   "url": "https://aplyr.ai/jobs/a8bae4e8e899/entry-level-asicfpga-design-verification-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
   },
   "brainco.ai::ai product engineer 2027 new grad": {
@@ -425,22 +396,6 @@
    "noSponsorship": true,
    "firstSeen": "2026-10-20"
   },
-  "citi.com::angular developer frontend engineer entry level": {
-   "id": "082ba5ced90c",
-   "company": "Citigroup",
-   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Angular Developer / Frontend Engineer (Entry-Level)",
-   "locations": [
-    "Irving Texas United States"
-   ],
-   "section": "swe",
-   "posted": "2026-10-19",
-   "added": "2026-10-20T12:15:15.000Z",
-   "pay": "$85k–118k/yr",
-   "url": "https://aplyr.ai/jobs/082ba5ced90c/angular-developer-frontend-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-20"
-  },
   "nxp.com::entry level dft design engineer": {
    "id": "92e5ea186e17",
    "company": "NXP Semiconductors",
@@ -501,6 +456,22 @@
    "pay": "$140k–150k/yr",
    "url": "https://aplyr.ai/jobs/1dc32dff6d66/hardware-security-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
+  },
+  "appliedmaterials.com::product management ii new college grad master s santa clara ca": {
+   "id": "39f4d9d42327",
+   "company": "Applied Materials",
+   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Product Management II New College Grad- Master's (Santa Clara, CA)",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "section": "pm",
+   "posted": "2026-10-15",
+   "added": "2026-10-17T22:41:46.000Z",
+   "pay": "$100k–137k/yr",
+   "url": "https://aplyr.ai/jobs/39f4d9d42327/product-management-ii-new-college-grad-masters-santa-clara-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-25"
   },
   "northropgrumman.com::2026 associate embedded software engineer dulles va": {
    "id": "fd8cd7f261da",
@@ -610,6 +581,84 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-24"
   },
+  "nvidia.com::soc software engineer new college graduate 2026": {
+   "id": "36ae8588af69",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "SoC Software Engineer – New College Graduate 2026",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "swe",
+   "posted": "2026-10-14",
+   "added": "2026-10-14T05:16:34.000Z",
+   "pay": "$108k–196k/yr",
+   "url": "https://aplyr.ai/jobs/36ae8588af69/soc-software-engineer-new-college-graduate-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-25"
+  },
+  "nvidia.com::soc software engineer new college grad 2027": {
+   "id": "0b7cb718fcf5",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "SoC Software Engineer - New College Grad 2027",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "swe",
+   "posted": "2026-10-14",
+   "added": "2026-10-14T05:16:34.000Z",
+   "pay": "$108k–196k/yr",
+   "url": "https://aplyr.ai/jobs/0b7cb718fcf5/soc-software-engineer-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-25"
+  },
+  "nvidia.com::low power asic engineer new college grad 2027": {
+   "id": "082f79084bd2",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Low Power ASIC Engineer - New College Grad 2027",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-14T05:16:34.000Z",
+   "url": "https://aplyr.ai/jobs/082f79084bd2/low-power-asic-engineer-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-25"
+  },
+  "nvidia.com::asic verification engineer new college grad 2027": {
+   "id": "639ec893186e",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "ASIC Verification Engineer - New College Grad 2027",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-14T05:16:34.000Z",
+   "url": "https://aplyr.ai/jobs/639ec893186e/asic-verification-engineer-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-25"
+  },
+  "nvidia.com::formal verification engineer new college grad 2026": {
+   "id": "9fc70fbaad8b",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Formal Verification Engineer - New College Grad 2026",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-07T05:15:39.000Z",
+   "pay": "$100k–167k/yr",
+   "url": "https://aplyr.ai/jobs/9fc70fbaad8b/formal-verification-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-25"
+  },
   "pditechnologies.com::product owner i entry level": {
    "id": "566896e6f7d8",
    "company": "PDI Technologies",
@@ -639,6 +688,23 @@
    "url": "https://aplyr.ai/jobs/592e1e3c72d8/entry-level-software-engineerdeveloper?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
+  },
+  "ford.com::mechanical hardware engineer early career program advanced ev": {
+   "id": "73d34b73c9c0",
+   "company": "Ford Motor Company",
+   "companyUrl": "https://aplyr.ai/companies/ford?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Mechanical / Hardware Engineer - Early Career Program, Advanced EV",
+   "locations": [
+    "Long Beach, CA",
+    "Palo Alto, CA",
+    "Dearborn, MI"
+   ],
+   "section": "hw",
+   "posted": "2026-10-13",
+   "added": "2026-10-17T21:51:44.000Z",
+   "url": "https://aplyr.ai/jobs/73d34b73c9c0/mechanical-hardware-engineer-early-career-program-advanced-ev?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-25"
   },
   "gm.com::entry level ai machine learning researcher": {
    "id": "eebfceac4bfe",
@@ -1586,21 +1652,6 @@
    "url": "https://aplyr.ai/jobs/048f46f54f47/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
-  "ciena.com::wavelogic software developer new grad": {
-   "id": "e5d219ac68fc",
-   "company": "Ciena",
-   "companyUrl": "https://aplyr.ai/companies/ciena?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "WaveLogic Software Developer - New Grad",
-   "locations": [
-    "Atlanta"
-   ],
-   "section": "swe",
-   "posted": "2026-09-01",
-   "added": "2026-10-17T22:29:18.000Z",
-   "url": "https://aplyr.ai/jobs/e5d219ac68fc/wavelogic-software-developer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
   "stripe.com::software engineer new grad": {
    "id": "6856a06fd0fd",
    "company": "Stripe",
@@ -2087,6 +2138,87 @@
   }
  },
  "closed": {
+  "citi.com::technology application development full time analyst irving usa 2027": {
+   "id": "d7c9af2bae94",
+   "company": "Citigroup",
+   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Technology, Application Development, Full Time Analyst, Irving - USA, 2027",
+   "locations": [
+    "Irving Texas United States"
+   ],
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T12:15:18.000Z",
+   "url": "https://aplyr.ai/jobs/d7c9af2bae94/technology-application-development-full-time-analyst-irving-usa-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24",
+   "closedAt": "2026-10-25"
+  },
+  "citi.com::technology cyber security full time analyst irving 2027": {
+   "id": "7c7ad9c05255",
+   "company": "Citigroup",
+   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Technology- Cyber Security, Full Time Analyst, Irving 2027",
+   "locations": [
+    "Irving Texas United States"
+   ],
+   "section": "swe",
+   "posted": "2026-10-23",
+   "added": "2026-10-24T12:15:18.000Z",
+   "url": "https://aplyr.ai/jobs/7c7ad9c05255/technology-cyber-security-full-time-analyst-irving-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-24",
+   "closedAt": "2026-10-25"
+  },
+  "boeing.com::entry level asic fpga design verification engineer": {
+   "id": "a8bae4e8e899",
+   "company": "Boeing",
+   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry Level ASIC/FPGA Design Verification Engineer",
+   "locations": [
+    "USA - El Segundo, CA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-21",
+   "added": "2026-10-21T18:50:32.000Z",
+   "url": "https://aplyr.ai/jobs/a8bae4e8e899/entry-level-asicfpga-design-verification-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-25"
+  },
+  "citi.com::angular developer frontend engineer entry level": {
+   "id": "082ba5ced90c",
+   "company": "Citigroup",
+   "companyUrl": "https://aplyr.ai/companies/citi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Angular Developer / Frontend Engineer (Entry-Level)",
+   "locations": [
+    "Irving Texas United States"
+   ],
+   "section": "swe",
+   "posted": "2026-10-19",
+   "added": "2026-10-20T12:15:15.000Z",
+   "pay": "$85k–118k/yr",
+   "url": "https://aplyr.ai/jobs/082ba5ced90c/angular-developer-frontend-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20",
+   "closedAt": "2026-10-25"
+  },
+  "ciena.com::wavelogic software developer new grad": {
+   "id": "e5d219ac68fc",
+   "company": "Ciena",
+   "companyUrl": "https://aplyr.ai/companies/ciena?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "WaveLogic Software Developer - New Grad",
+   "locations": [
+    "Atlanta"
+   ],
+   "section": "swe",
+   "posted": "2026-09-01",
+   "added": "2026-10-17T22:29:18.000Z",
+   "url": "https://aplyr.ai/jobs/e5d219ac68fc/wavelogic-software-developer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-10-25"
+  },
   "appliedmaterials.com::2027 software engineer new college grad bachelor s gloucester ma": {
    "id": "cc3a5afda909",
    "company": "Applied Materials",
