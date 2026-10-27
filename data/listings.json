@@ -3,36 +3,68 @@
  "slug": "new-grad-2027",
  "open": {
   "lockheedmartin.com::software engineer early career": {
-   "id": "8aa6d7b2f742",
+   "id": "78fb61e07fbe",
    "company": "Lockheed Martin",
    "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
    "title": "Software Engineer - Early Career",
    "locations": [
     "Huntsville, AL",
-    "Marietta, GA",
-    "Herndon, VA"
+    "Owego, NY",
+    "King of Prussia, PA"
    ],
    "section": "swe",
-   "posted": "2026-10-26",
-   "added": "2026-10-26T11:33:34.000Z",
-   "url": "https://aplyr.ai/jobs/8aa6d7b2f742/software-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T11:33:48.000Z",
+   "url": "https://aplyr.ai/jobs/78fb61e07fbe/software-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
   },
-  "northropgrumman.com::2027 associate embedded software engineer morrisville nc": {
-   "id": "76bbd4ea1bd0",
-   "company": "Northrop Grumman",
-   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "2027 Associate Embedded Software Engineer - Morrisville NC",
+  "anduril.com::early career software engineer battlespace awareness": {
+   "id": "e0b0820fc0f7",
+   "company": "Anduril Industries",
+   "companyUrl": "https://aplyr.ai/companies/anduril?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Early Career Software Engineer, Battlespace Awareness",
    "locations": [
-    "United States-North Carolina-Morrisville"
+    "Broomfield, Colorado",
+    "Fort Collins, Colorado"
    ],
    "section": "swe",
-   "posted": "2026-10-25",
-   "added": "2026-10-26T08:01:15.000Z",
-   "url": "https://aplyr.ai/jobs/76bbd4ea1bd0/2027-associate-embedded-software-engineer-morrisville-nc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T05:01:32.000Z",
+   "pay": "$97k–129k/yr",
+   "url": "https://aplyr.ai/jobs/e0b0820fc0f7/early-career-software-engineer-battlespace-awareness?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-27"
+  },
+  "boeing.com::entry level software engineer developers": {
+   "id": "4b887913faa1",
+   "company": "Boeing",
+   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-level Software Engineer–Developers",
+   "locations": [
+    "USA - El Segundo, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T07:45:28.000Z",
+   "url": "https://aplyr.ai/jobs/4b887913faa1/entry-level-software-engineerdevelopers?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-26"
+   "firstSeen": "2026-10-27"
+  },
+  "ciena.com::software engineer security new grad": {
+   "id": "39af28863e82",
+   "company": "Ciena",
+   "companyUrl": "https://aplyr.ai/companies/ciena?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer (Security) - New Grad",
+   "locations": [
+    "Atlanta"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T20:40:41.000Z",
+   "pay": "$70k–112k/yr",
+   "url": "https://aplyr.ai/jobs/39af28863e82/software-engineer-security-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27"
   },
   "addepar.com::product manager early career ai platform": {
    "id": "0832e682a419",
@@ -242,21 +274,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
-  "lockheedmartin.com::systems integration test engineer asc early career": {
-   "id": "d645cd7edfcb",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Systems Integration/Test Engineer Asc - Early Career",
-   "locations": [
-    "Littleton, CO"
-   ],
-   "section": "hw",
-   "posted": "2026-10-22",
-   "added": "2026-10-22T11:43:01.000Z",
-   "url": "https://aplyr.ai/jobs/d645cd7edfcb/systems-integrationtest-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-20"
-  },
   "motorolasolutions.com::entry level control hardware development engineer": {
    "id": "9d2707ea00f1",
    "company": "Motorola Solutions",
@@ -270,22 +287,6 @@
    "added": "2026-10-22T22:21:01.000Z",
    "pay": "$67k–85k/yr",
    "url": "https://aplyr.ai/jobs/9d2707ea00f1/entry-level-control-hardware-development-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "motorolasolutions.com::entry level rf design engineer": {
-   "id": "ce304aea18b7",
-   "company": "Motorola Solutions",
-   "companyUrl": "https://aplyr.ai/companies/motorolasolutions?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry Level RF Design Engineer",
-   "locations": [
-    "Schaumburg, IL"
-   ],
-   "section": "hw",
-   "posted": "2026-10-22",
-   "added": "2026-10-22T22:21:01.000Z",
-   "pay": "$74k–98k/yr",
-   "url": "https://aplyr.ai/jobs/ce304aea18b7/entry-level-rf-design-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
@@ -333,22 +334,6 @@
    "url": "https://aplyr.ai/jobs/75fa24aaa2c6/ai-performance-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-21"
   },
-  "lockheedmartin.com::electronic packaging mechanical engineer early career westford ma": {
-   "id": "7a9d946411e5",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electronic Packaging / Mechanical Engineer - Early Career - Westford, MA",
-   "locations": [
-    "Westford, MA",
-    "Andover, MA"
-   ],
-   "section": "hw",
-   "posted": "2026-10-20",
-   "added": "2026-10-21T11:44:32.000Z",
-   "url": "https://aplyr.ai/jobs/7a9d946411e5/electronic-packaging-mechanical-engineer-early-career-westford-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-21"
-  },
   "ford.com::supply chain program management ai tool creation early career program advanced ev": {
    "id": "2383bde54db8",
    "company": "Ford Motor Company",
@@ -362,22 +347,6 @@
    "added": "2026-10-21T11:44:32.000Z",
    "url": "https://aplyr.ai/jobs/2383bde54db8/supply-chain-program-management-ai-tool-creation-early-career-program-advanced-e?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-21"
-  },
-  "lockheedmartin.com::component engineer asc early career": {
-   "id": "62a66f00d140",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Component Engineer Asc - Early Career",
-   "locations": [
-    "Littleton, CO"
-   ],
-   "section": "hw",
-   "posted": "2026-10-20",
-   "added": "2026-10-20T11:34:33.000Z",
-   "pay": "$66k–122k/yr",
-   "url": "https://aplyr.ai/jobs/62a66f00d140/component-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-20"
   },
   "palantir.com::software engineer new grad query engines": {
    "id": "2622b21d56a5",
@@ -656,6 +625,22 @@
    "added": "2026-10-15T08:46:12.000Z",
    "url": "https://aplyr.ai/jobs/566896e6f7d8/product-owner-i-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
+  },
+  "lockheedmartin.com::cyber systems security engineering entry level": {
+   "id": "62e58fae5054",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Cyber Systems Security Engineering Entry Level",
+   "locations": [
+    "Huntsville, AL",
+    "Littleton, CO"
+   ],
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/62e58fae5054/cyber-systems-security-engineering-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
   },
   "boeing.com::entry level software engineer developer": {
    "id": "592e1e3c72d8",
@@ -1813,7 +1798,7 @@
    "firstSeen": "2026-10-19"
   },
   "imegcorp.com::electrical engineering new graduate new york ny": {
-   "id": "886a69f4265c",
+   "id": "5d3c4038bb5e",
    "company": "IMEG",
    "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
    "title": "Electrical Engineering New Graduate | New York, NY",
@@ -1823,8 +1808,8 @@
    "section": "hw",
    "posted": "2026-08-31",
    "added": "2026-09-02T07:15:41.000Z",
-   "pay": "$79k–83k/yr",
-   "url": "https://aplyr.ai/jobs/886a69f4265c/electrical-engineering-new-graduate-new-york-ny?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "pay": "$76k–80k/yr",
+   "url": "https://aplyr.ai/jobs/5d3c4038bb5e/electrical-engineering-new-graduate-new-york-ny?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
   "trueanomaly.space::software engineer i perception new grad": {
@@ -2207,6 +2192,89 @@
   }
  },
  "closed": {
+  "northropgrumman.com::2027 associate embedded software engineer morrisville nc": {
+   "id": "76bbd4ea1bd0",
+   "company": "Northrop Grumman",
+   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "2027 Associate Embedded Software Engineer - Morrisville NC",
+   "locations": [
+    "United States-North Carolina-Morrisville"
+   ],
+   "section": "swe",
+   "posted": "2026-10-25",
+   "added": "2026-10-26T08:01:15.000Z",
+   "url": "https://aplyr.ai/jobs/76bbd4ea1bd0/2027-associate-embedded-software-engineer-morrisville-nc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-26",
+   "closedAt": "2026-10-27"
+  },
+  "lockheedmartin.com::systems integration test engineer asc early career": {
+   "id": "d645cd7edfcb",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Systems Integration/Test Engineer Asc - Early Career",
+   "locations": [
+    "Littleton, CO"
+   ],
+   "section": "hw",
+   "posted": "2026-10-22",
+   "added": "2026-10-22T11:43:01.000Z",
+   "url": "https://aplyr.ai/jobs/d645cd7edfcb/systems-integrationtest-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-20",
+   "closedAt": "2026-10-27"
+  },
+  "motorolasolutions.com::entry level rf design engineer": {
+   "id": "ce304aea18b7",
+   "company": "Motorola Solutions",
+   "companyUrl": "https://aplyr.ai/companies/motorolasolutions?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry Level RF Design Engineer",
+   "locations": [
+    "Schaumburg, IL"
+   ],
+   "section": "hw",
+   "posted": "2026-10-22",
+   "added": "2026-10-22T22:21:01.000Z",
+   "pay": "$74k–98k/yr",
+   "url": "https://aplyr.ai/jobs/ce304aea18b7/entry-level-rf-design-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-27"
+  },
+  "lockheedmartin.com::electronic packaging mechanical engineer early career westford ma": {
+   "id": "7a9d946411e5",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electronic Packaging / Mechanical Engineer - Early Career - Westford, MA",
+   "locations": [
+    "Westford, MA",
+    "Andover, MA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-20",
+   "added": "2026-10-21T11:44:32.000Z",
+   "url": "https://aplyr.ai/jobs/7a9d946411e5/electronic-packaging-mechanical-engineer-early-career-westford-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21",
+   "closedAt": "2026-10-27"
+  },
+  "lockheedmartin.com::component engineer asc early career": {
+   "id": "62a66f00d140",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Component Engineer Asc - Early Career",
+   "locations": [
+    "Littleton, CO"
+   ],
+   "section": "hw",
+   "posted": "2026-10-20",
+   "added": "2026-10-20T11:34:33.000Z",
+   "pay": "$66k–122k/yr",
+   "url": "https://aplyr.ai/jobs/62a66f00d140/component-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-20",
+   "closedAt": "2026-10-27"
+  },
   "northropgrumman.com::2026 associate embedded software engineer dulles va": {
    "id": "fd8cd7f261da",
    "company": "Northrop Grumman",
@@ -2468,23 +2536,6 @@
    "url": "https://aplyr.ai/jobs/fb09fba95f41/aai-research-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23",
-   "closedAt": "2026-10-24"
-  },
-  "lockheedmartin.com::cyber systems security engineering entry level": {
-   "id": "62e58fae5054",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Cyber Systems Security Engineering Entry Level",
-   "locations": [
-    "Huntsville, AL",
-    "Littleton, CO"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/62e58fae5054/cyber-systems-security-engineering-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19",
    "closedAt": "2026-10-24"
   },
   "lockheedmartin.com::security administrator entry level": {
