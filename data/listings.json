@@ -2,35 +2,50 @@
  "version": 1,
  "slug": "new-grad-2027",
  "open": {
-  "nvidia.com::deep learning performance architect new college grad 2027": {
-   "id": "8230b3ac2bce",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Deep Learning Performance Architect - New College Grad 2027",
+  "boeing.com::electronic and electrical systems design and test engineer entry level or associate": {
+   "id": "f58d845f6958",
+   "company": "Boeing",
+   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electronic and Electrical Systems Design and Test Engineer (Entry-Level or Associate)",
    "locations": [
-    "US, CA, Santa Clara"
+    "USA - Berkeley, MO"
+   ],
+   "section": "swe",
+   "posted": "2026-10-29",
+   "added": "2026-10-29T18:50:25.000Z",
+   "url": "https://aplyr.ai/jobs/f58d845f6958/electronic-and-electrical-systems-design-and-test-engineer-entry-level-or-associ?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-29"
+  },
+  "boeing.com::maintenance repair and overhaul mro and component operations aircraft mechanics electricians entry level": {
+   "id": "188ff3bd2f4e",
+   "company": "Boeing",
+   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Maintenance, Repair, and Overhaul (MRO) and Component Operations Aircraft Mechanics – Electricians (Entry-Level)",
+   "locations": [
+    "USA - Jacksonville, FL"
+   ],
+   "section": "hw",
+   "posted": "2026-10-28",
+   "added": "2026-10-28T18:50:16.000Z",
+   "url": "https://aplyr.ai/jobs/188ff3bd2f4e/maintenance-repair-and-overhaul-mro-and-component-operations-aircraft-mechanics-?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-29"
+  },
+  "boeing.com::entry level f 15 flight test data engineer": {
+   "id": "072928823218",
+   "company": "Boeing",
+   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-Level F-15 Flight Test Data Engineer",
+   "locations": [
+    "USA - Eglin AFB, FL"
    ],
    "section": "data",
    "posted": "2026-10-28",
-   "added": "2026-10-28T05:17:14.000Z",
-   "url": "https://aplyr.ai/jobs/8230b3ac2bce/deep-learning-performance-architect-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "added": "2026-10-29T07:45:34.000Z",
+   "url": "https://aplyr.ai/jobs/072928823218/entry-level-f-15-flight-test-data-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-28"
-  },
-  "nvidia.com::formal verification engineer new college grad 2027": {
-   "id": "71f43bffa936",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Formal Verification Engineer - New College Grad 2027",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "section": "swe",
-   "posted": "2026-10-28",
-   "added": "2026-10-28T05:17:14.000Z",
-   "url": "https://aplyr.ai/jobs/71f43bffa936/formal-verification-engineer-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-28"
+   "firstSeen": "2026-10-29"
   },
   "lockheedmartin.com::software engineer early career": {
    "id": "1d04c5691b45",
@@ -49,20 +64,6 @@
    "url": "https://aplyr.ai/jobs/1d04c5691b45/software-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
-  },
-  "michelin.com::quality process engineer entry experienced ujn": {
-   "id": "7c4e206118b6",
-   "company": "Michelin",
-   "companyUrl": "https://aplyr.ai/companies/michelin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Quality Process Engineer (Entry/Experienced) UJN",
-   "locations": [
-    "JUNCTION CITY, KS"
-   ],
-   "section": "swe",
-   "posted": "2026-10-27",
-   "added": "2026-10-27T23:50:55.000Z",
-   "url": "https://aplyr.ai/jobs/7c4e206118b6/quality-process-engineer-entryexperienced-ujn?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-28"
   },
   "sambanova.ai::post silicon validation engineer new grad": {
    "id": "d6ed59af2df0",
@@ -121,6 +122,7 @@
    "section": "swe",
    "posted": "2026-10-27",
    "added": "2026-10-28T07:15:35.000Z",
+   "pay": "$131k–197k/yr",
    "url": "https://aplyr.ai/jobs/f2d769debb33/cloud-platform-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -232,21 +234,6 @@
    "url": "https://aplyr.ai/jobs/22875ab37732/forward-deployed-software-engineer-recent-graduate-chicago?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
-  "northropgrumman.com::2027 associate software engineer azusa ca": {
-   "id": "24c573028dbb",
-   "company": "Northrop Grumman",
-   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "2027 Associate Software Engineer - Azusa CA",
-   "locations": [
-    "United States-California-Azusa"
-   ],
-   "section": "swe",
-   "posted": "2026-10-27",
-   "added": "2026-10-28T08:01:28.000Z",
-   "url": "https://aplyr.ai/jobs/24c573028dbb/2027-associate-software-engineer-azusa-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-28"
-  },
   "boeing.com::entry level digital electronics circuit unit hardware design engineer": {
    "id": "8d2c446777e0",
    "company": "Boeing",
@@ -276,22 +263,6 @@
    "url": "https://aplyr.ai/jobs/1bab785c41d5/entry-level-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
-  },
-  "anduril.com::early career software engineer battlespace awareness": {
-   "id": "e0b0820fc0f7",
-   "company": "Anduril Industries",
-   "companyUrl": "https://aplyr.ai/companies/anduril?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Early Career Software Engineer, Battlespace Awareness",
-   "locations": [
-    "Broomfield, Colorado",
-    "Fort Collins, Colorado"
-   ],
-   "section": "swe",
-   "posted": "2026-10-26",
-   "added": "2026-10-27T05:01:32.000Z",
-   "pay": "$97k–129k/yr",
-   "url": "https://aplyr.ai/jobs/e0b0820fc0f7/early-career-software-engineer-battlespace-awareness?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-27"
   },
   "crosscountry-consulting.com::forward deployed software engineer recent graduate new york": {
    "id": "55124e9a352e",
@@ -335,22 +306,6 @@
    "posted": "2026-10-26",
    "added": "2026-10-27T07:45:28.000Z",
    "url": "https://aplyr.ai/jobs/4b887913faa1/entry-level-software-engineerdevelopers?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-27"
-  },
-  "ciena.com::software engineer security new grad": {
-   "id": "39af28863e82",
-   "company": "Ciena",
-   "companyUrl": "https://aplyr.ai/companies/ciena?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer (Security) - New Grad",
-   "locations": [
-    "Atlanta"
-   ],
-   "section": "swe",
-   "posted": "2026-10-26",
-   "added": "2026-10-26T20:40:41.000Z",
-   "pay": "$70k–112k/yr",
-   "url": "https://aplyr.ai/jobs/39af28863e82/software-engineer-security-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-27"
   },
@@ -435,20 +390,6 @@
    "noSponsorship": true,
    "firstSeen": "2026-10-23"
   },
-  "ford.com::software embedded engineering talent pipeline early career program advanced ev": {
-   "id": "755cd3163ea8",
-   "company": "Ford Motor Company",
-   "companyUrl": "https://aplyr.ai/companies/ford?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software & Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV",
-   "locations": [
-    "Palo Alto, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T11:34:44.000Z",
-   "url": "https://aplyr.ai/jobs/755cd3163ea8/software-embedded-engineering-talent-pipeline-early-career-program-advanced-ev?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-23"
-  },
   "motorolasolutions.com::entry level control hardware development engineer": {
    "id": "9d2707ea00f1",
    "company": "Motorola Solutions",
@@ -464,20 +405,6 @@
    "url": "https://aplyr.ai/jobs/9d2707ea00f1/entry-level-control-hardware-development-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
-  },
-  "livescoregroup.com::graduate insights analyst": {
-   "id": "76dd1c37064f",
-   "company": "LiveScore Group",
-   "companyUrl": "https://aplyr.ai/companies/livescoregroup?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Graduate Insights Analyst",
-   "locations": [
-    "London, England, United Kingdom"
-   ],
-   "section": "data",
-   "posted": "2026-10-21",
-   "added": "2026-10-22T04:45:32.000Z",
-   "url": "https://aplyr.ai/jobs/76dd1c37064f/graduate-insights-analyst?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-22"
   },
   "brainco.ai::ai product engineer 2027 new grad": {
    "id": "d8b9413254db",
@@ -521,6 +448,7 @@
    "posted": "2026-10-20",
    "added": "2026-10-21T11:44:32.000Z",
    "url": "https://aplyr.ai/jobs/2383bde54db8/supply-chain-program-management-ai-tool-creation-early-career-program-advanced-e?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
    "firstSeen": "2026-10-21"
   },
   "palantir.com::software engineer new grad query engines": {
@@ -708,84 +636,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-24"
   },
-  "nvidia.com::soc software engineer new college graduate 2026": {
-   "id": "36ae8588af69",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "SoC Software Engineer – New College Graduate 2026",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "section": "swe",
-   "posted": "2026-10-14",
-   "added": "2026-10-14T05:16:34.000Z",
-   "pay": "$108k–196k/yr",
-   "url": "https://aplyr.ai/jobs/36ae8588af69/soc-software-engineer-new-college-graduate-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-25"
-  },
-  "nvidia.com::soc software engineer new college grad 2027": {
-   "id": "0b7cb718fcf5",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "SoC Software Engineer - New College Grad 2027",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "section": "swe",
-   "posted": "2026-10-14",
-   "added": "2026-10-14T05:16:34.000Z",
-   "pay": "$108k–196k/yr",
-   "url": "https://aplyr.ai/jobs/0b7cb718fcf5/soc-software-engineer-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-25"
-  },
-  "nvidia.com::low power asic engineer new college grad 2027": {
-   "id": "082f79084bd2",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Low Power ASIC Engineer - New College Grad 2027",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "section": "hw",
-   "posted": "2026-10-14",
-   "added": "2026-10-14T05:16:34.000Z",
-   "url": "https://aplyr.ai/jobs/082f79084bd2/low-power-asic-engineer-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-25"
-  },
-  "nvidia.com::asic verification engineer new college grad 2027": {
-   "id": "639ec893186e",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "ASIC Verification Engineer - New College Grad 2027",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "section": "hw",
-   "posted": "2026-10-14",
-   "added": "2026-10-14T05:16:34.000Z",
-   "url": "https://aplyr.ai/jobs/639ec893186e/asic-verification-engineer-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-25"
-  },
-  "nvidia.com::formal verification engineer new college grad 2026": {
-   "id": "9fc70fbaad8b",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Formal Verification Engineer - New College Grad 2026",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "section": "hw",
-   "posted": "2026-10-14",
-   "added": "2026-10-07T05:15:39.000Z",
-   "pay": "$100k–167k/yr",
-   "url": "https://aplyr.ai/jobs/9fc70fbaad8b/formal-verification-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-25"
-  },
   "pditechnologies.com::product owner i entry level": {
    "id": "566896e6f7d8",
    "company": "PDI Technologies",
@@ -817,21 +667,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
   },
-  "boeing.com::entry level software engineer developer": {
-   "id": "592e1e3c72d8",
-   "company": "Boeing",
-   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry-Level Software Engineer–Developer",
-   "locations": [
-    "USA - Richardson, TX"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-19T18:50:56.000Z",
-   "url": "https://aplyr.ai/jobs/592e1e3c72d8/entry-level-software-engineerdeveloper?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
   "ford.com::mechanical hardware engineer early career program advanced ev": {
    "id": "73d34b73c9c0",
    "company": "Ford Motor Company",
@@ -848,22 +683,6 @@
    "url": "https://aplyr.ai/jobs/73d34b73c9c0/mechanical-hardware-engineer-early-career-program-advanced-ev?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-25"
-  },
-  "nvidia.com::sram circuit design engineer new college grad 2026": {
-   "id": "2b4e779a414b",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "SRAM Circuit Design Engineer - New College Grad 2026",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "section": "hw",
-   "posted": "2026-10-13",
-   "added": "2026-10-14T05:16:34.000Z",
-   "pay": "$116k–219k/yr",
-   "url": "https://aplyr.ai/jobs/2b4e779a414b/sram-circuit-design-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-26"
   },
   "novita.ai::forward deployed engineer new grad": {
    "id": "310b3cb2e325",
@@ -985,38 +804,6 @@
    "posted": "2026-10-12",
    "added": "2026-10-17T22:22:16.000Z",
    "url": "https://aplyr.ai/jobs/c312eb67790f/new-college-grad-f4-it-network-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-26"
-  },
-  "nvidia.com::hardware design validation engineer memory subsystem new college grad 2026": {
-   "id": "818499df74e0",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "section": "hw",
-   "posted": "2026-10-10",
-   "added": "2026-10-10T05:15:29.000Z",
-   "pay": "$108k–213k/yr",
-   "url": "https://aplyr.ai/jobs/818499df74e0/hardware-design-validation-engineer-memory-subsystem-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-26"
-  },
-  "nvidia.com::asic clocks verification engineer new college grad 2026": {
-   "id": "0ff432015a53",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "ASIC Clocks Verification Engineer - New College Grad 2026",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "section": "hw",
-   "posted": "2026-10-10",
-   "added": "2026-10-10T05:15:29.000Z",
-   "pay": "$116k–190k/yr",
-   "url": "https://aplyr.ai/jobs/0ff432015a53/asic-clocks-verification-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-26"
   },
@@ -1673,20 +1460,6 @@
    "url": "https://aplyr.ai/jobs/8c31b859e420/software-engineer-helios-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
-  },
-  "imegcorp.com::electrical engineering new graduate madison wi": {
-   "id": "693f7b890569",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Madison, WI",
-   "locations": [
-    "Madison, WI"
-   ],
-   "section": "hw",
-   "posted": "2026-09-15",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/693f7b890569/electrical-engineering-new-graduate-madison-wi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
   },
   "c3.ai::platform full stack engineer new grad 2027": {
    "id": "28a2cdbdb4f5",
@@ -2435,6 +2208,298 @@
   }
  },
  "closed": {
+  "nvidia.com::deep learning performance architect new college grad 2027": {
+   "id": "8230b3ac2bce",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Deep Learning Performance Architect - New College Grad 2027",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "data",
+   "posted": "2026-10-28",
+   "added": "2026-10-28T05:17:14.000Z",
+   "url": "https://aplyr.ai/jobs/8230b3ac2bce/deep-learning-performance-architect-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-28",
+   "closedAt": "2026-10-29"
+  },
+  "nvidia.com::formal verification engineer new college grad 2027": {
+   "id": "71f43bffa936",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Formal Verification Engineer - New College Grad 2027",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "swe",
+   "posted": "2026-10-28",
+   "added": "2026-10-28T05:17:14.000Z",
+   "url": "https://aplyr.ai/jobs/71f43bffa936/formal-verification-engineer-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-28",
+   "closedAt": "2026-10-29"
+  },
+  "michelin.com::quality process engineer entry experienced ujn": {
+   "id": "7c4e206118b6",
+   "company": "Michelin",
+   "companyUrl": "https://aplyr.ai/companies/michelin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Quality Process Engineer (Entry/Experienced) UJN",
+   "locations": [
+    "JUNCTION CITY, KS"
+   ],
+   "section": "swe",
+   "posted": "2026-10-27",
+   "added": "2026-10-27T23:50:55.000Z",
+   "url": "https://aplyr.ai/jobs/7c4e206118b6/quality-process-engineer-entryexperienced-ujn?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-28",
+   "closedAt": "2026-10-29"
+  },
+  "northropgrumman.com::2027 associate software engineer azusa ca": {
+   "id": "24c573028dbb",
+   "company": "Northrop Grumman",
+   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "2027 Associate Software Engineer - Azusa CA",
+   "locations": [
+    "United States-California-Azusa"
+   ],
+   "section": "swe",
+   "posted": "2026-10-27",
+   "added": "2026-10-28T08:01:28.000Z",
+   "url": "https://aplyr.ai/jobs/24c573028dbb/2027-associate-software-engineer-azusa-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-28",
+   "closedAt": "2026-10-29"
+  },
+  "anduril.com::early career software engineer battlespace awareness": {
+   "id": "e0b0820fc0f7",
+   "company": "Anduril Industries",
+   "companyUrl": "https://aplyr.ai/companies/anduril?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Early Career Software Engineer, Battlespace Awareness",
+   "locations": [
+    "Broomfield, Colorado",
+    "Fort Collins, Colorado"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T05:01:32.000Z",
+   "pay": "$97k–129k/yr",
+   "url": "https://aplyr.ai/jobs/e0b0820fc0f7/early-career-software-engineer-battlespace-awareness?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-27",
+   "closedAt": "2026-10-29"
+  },
+  "ciena.com::software engineer security new grad": {
+   "id": "39af28863e82",
+   "company": "Ciena",
+   "companyUrl": "https://aplyr.ai/companies/ciena?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer (Security) - New Grad",
+   "locations": [
+    "Atlanta"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-26T20:40:41.000Z",
+   "pay": "$70k–112k/yr",
+   "url": "https://aplyr.ai/jobs/39af28863e82/software-engineer-security-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27",
+   "closedAt": "2026-10-29"
+  },
+  "ford.com::software embedded engineering talent pipeline early career program advanced ev": {
+   "id": "755cd3163ea8",
+   "company": "Ford Motor Company",
+   "companyUrl": "https://aplyr.ai/companies/ford?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software & Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-22",
+   "added": "2026-10-23T11:34:44.000Z",
+   "url": "https://aplyr.ai/jobs/755cd3163ea8/software-embedded-engineering-talent-pipeline-early-career-program-advanced-ev?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-10-29"
+  },
+  "livescoregroup.com::graduate insights analyst": {
+   "id": "76dd1c37064f",
+   "company": "LiveScore Group",
+   "companyUrl": "https://aplyr.ai/companies/livescoregroup?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Graduate Insights Analyst",
+   "locations": [
+    "London, England, United Kingdom"
+   ],
+   "section": "data",
+   "posted": "2026-10-21",
+   "added": "2026-10-22T04:45:32.000Z",
+   "url": "https://aplyr.ai/jobs/76dd1c37064f/graduate-insights-analyst?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-22",
+   "closedAt": "2026-10-29"
+  },
+  "nvidia.com::soc software engineer new college graduate 2026": {
+   "id": "36ae8588af69",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "SoC Software Engineer – New College Graduate 2026",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "swe",
+   "posted": "2026-10-14",
+   "added": "2026-10-14T05:16:34.000Z",
+   "pay": "$108k–196k/yr",
+   "url": "https://aplyr.ai/jobs/36ae8588af69/soc-software-engineer-new-college-graduate-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-25",
+   "closedAt": "2026-10-29"
+  },
+  "nvidia.com::soc software engineer new college grad 2027": {
+   "id": "0b7cb718fcf5",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "SoC Software Engineer - New College Grad 2027",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "swe",
+   "posted": "2026-10-14",
+   "added": "2026-10-14T05:16:34.000Z",
+   "pay": "$108k–196k/yr",
+   "url": "https://aplyr.ai/jobs/0b7cb718fcf5/soc-software-engineer-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-25",
+   "closedAt": "2026-10-29"
+  },
+  "nvidia.com::low power asic engineer new college grad 2027": {
+   "id": "082f79084bd2",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Low Power ASIC Engineer - New College Grad 2027",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-14T05:16:34.000Z",
+   "url": "https://aplyr.ai/jobs/082f79084bd2/low-power-asic-engineer-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-25",
+   "closedAt": "2026-10-29"
+  },
+  "nvidia.com::asic verification engineer new college grad 2027": {
+   "id": "639ec893186e",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "ASIC Verification Engineer - New College Grad 2027",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-14T05:16:34.000Z",
+   "url": "https://aplyr.ai/jobs/639ec893186e/asic-verification-engineer-new-college-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-25",
+   "closedAt": "2026-10-29"
+  },
+  "nvidia.com::formal verification engineer new college grad 2026": {
+   "id": "9fc70fbaad8b",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Formal Verification Engineer - New College Grad 2026",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "hw",
+   "posted": "2026-10-14",
+   "added": "2026-10-07T05:15:39.000Z",
+   "pay": "$100k–167k/yr",
+   "url": "https://aplyr.ai/jobs/9fc70fbaad8b/formal-verification-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-25",
+   "closedAt": "2026-10-29"
+  },
+  "boeing.com::entry level software engineer developer": {
+   "id": "592e1e3c72d8",
+   "company": "Boeing",
+   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-Level Software Engineer–Developer",
+   "locations": [
+    "USA - Richardson, TX"
+   ],
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-19T18:50:56.000Z",
+   "url": "https://aplyr.ai/jobs/592e1e3c72d8/entry-level-software-engineerdeveloper?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-29"
+  },
+  "nvidia.com::sram circuit design engineer new college grad 2026": {
+   "id": "2b4e779a414b",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "SRAM Circuit Design Engineer - New College Grad 2026",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "hw",
+   "posted": "2026-10-13",
+   "added": "2026-10-14T05:16:34.000Z",
+   "pay": "$116k–219k/yr",
+   "url": "https://aplyr.ai/jobs/2b4e779a414b/sram-circuit-design-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-26",
+   "closedAt": "2026-10-29"
+  },
+  "nvidia.com::hardware design validation engineer memory subsystem new college grad 2026": {
+   "id": "818499df74e0",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Hardware Design Validation Engineer - Memory Subsystem - New College Grad 2026",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "hw",
+   "posted": "2026-10-10",
+   "added": "2026-10-10T05:15:29.000Z",
+   "pay": "$108k–213k/yr",
+   "url": "https://aplyr.ai/jobs/818499df74e0/hardware-design-validation-engineer-memory-subsystem-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-26",
+   "closedAt": "2026-10-29"
+  },
+  "nvidia.com::asic clocks verification engineer new college grad 2026": {
+   "id": "0ff432015a53",
+   "company": "NVIDIA",
+   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "ASIC Clocks Verification Engineer - New College Grad 2026",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "section": "hw",
+   "posted": "2026-10-10",
+   "added": "2026-10-10T05:15:29.000Z",
+   "pay": "$116k–190k/yr",
+   "url": "https://aplyr.ai/jobs/0ff432015a53/asic-clocks-verification-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-26",
+   "closedAt": "2026-10-29"
+  },
+  "imegcorp.com::electrical engineering new graduate madison wi": {
+   "id": "693f7b890569",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Madison, WI",
+   "locations": [
+    "Madison, WI"
+   ],
+   "section": "hw",
+   "posted": "2026-09-15",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/693f7b890569/electrical-engineering-new-graduate-madison-wi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-29"
+  },
   "lockheedmartin.com::software engineer asc early career": {
    "id": "fea529ab0b8f",
    "company": "Lockheed Martin",
