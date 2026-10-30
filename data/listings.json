@@ -2,6 +2,114 @@
  "version": 1,
  "slug": "new-grad-2027",
  "open": {
+  "carrier.com::digital technology leadership program": {
+   "id": "396704d9bb77",
+   "company": "Carrier",
+   "companyUrl": "https://aplyr.ai/companies/carrier?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Digital Technology Leadership Program",
+   "locations": [
+    "CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33418 USA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-30",
+   "added": "2026-10-30T18:11:32.000Z",
+   "url": "https://aplyr.ai/jobs/396704d9bb77/digital-technology-leadership-program?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21"
+  },
+  "lockheedmartin.com::software engineer asc early career": {
+   "id": "e743543a8be2",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer Asc - Early Career",
+   "locations": [
+    "Fort Worth, TX"
+   ],
+   "section": "swe",
+   "posted": "2026-10-29",
+   "added": "2026-10-30T11:35:21.000Z",
+   "url": "https://aplyr.ai/jobs/e743543a8be2/software-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
+  "lockheedmartin.com::radio frequency engineer early career": {
+   "id": "201b3b4d5b89",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Radio Frequency Engineer - Early Career",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "section": "hw",
+   "posted": "2026-10-29",
+   "added": "2026-10-30T11:35:21.000Z",
+   "url": "https://aplyr.ai/jobs/201b3b4d5b89/radio-frequency-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23"
+  },
+  "lockheedmartin.com::asic fpga design engineer early career": {
+   "id": "9ce916ce3dd4",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "ASIC & FPGA Design Engineer- Early Career",
+   "locations": [
+    "Liverpool, NY",
+    "Owego, NY"
+   ],
+   "section": "hw",
+   "posted": "2026-10-29",
+   "added": "2026-10-30T11:35:21.000Z",
+   "url": "https://aplyr.ai/jobs/9ce916ce3dd4/asic-fpga-design-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-28"
+  },
+  "lockheedmartin.com::electronics engineer early career": {
+   "id": "0330f898d508",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electronics Engineer - Early Career",
+   "locations": [
+    "Owego, NY"
+   ],
+   "section": "hw",
+   "posted": "2026-10-29",
+   "added": "2026-10-30T11:35:21.000Z",
+   "url": "https://aplyr.ai/jobs/0330f898d508/electronics-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-30"
+  },
+  "adobe.com::2027 university graduate technical support consultant": {
+   "id": "26d69c56fc92",
+   "company": "Adobe",
+   "companyUrl": "https://aplyr.ai/companies/adobe?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "2027 University Graduate - Technical Support Consultant",
+   "locations": [
+    "San Jose"
+   ],
+   "section": "swe",
+   "posted": "2026-10-29",
+   "added": "2026-10-29T17:32:50.000Z",
+   "url": "https://aplyr.ai/jobs/26d69c56fc92/2027-university-graduate-technical-support-consultant?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-30"
+  },
+  "lockheedmartin.com::software engineer early career": {
+   "id": "cdd10e6c5066",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer - Early Career",
+   "locations": [
+    "Rockville, MD",
+    "Huntsville, AL",
+    "Littleton, CO"
+   ],
+   "section": "swe",
+   "posted": "2026-10-29",
+   "added": "2026-10-30T11:35:21.000Z",
+   "url": "https://aplyr.ai/jobs/cdd10e6c5066/software-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
   "boeing.com::electronic and electrical systems design and test engineer entry level or associate": {
    "id": "f58d845f6958",
    "company": "Boeing",
@@ -16,6 +124,22 @@
    "url": "https://aplyr.ai/jobs/f58d845f6958/electronic-and-electrical-systems-design-and-test-engineer-entry-level-or-associ?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
+  },
+  "formlabs.com::electrical engineer entry level": {
+   "id": "4ee63173774e",
+   "company": "Formlabs",
+   "companyUrl": "https://aplyr.ai/companies/formlabs?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineer - Entry Level",
+   "locations": [
+    "Boston, MA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-28",
+   "added": "2026-10-29T06:00:29.000Z",
+   "pay": "$110k–140k/yr",
+   "url": "https://aplyr.ai/jobs/4ee63173774e/electrical-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-30"
   },
   "boeing.com::maintenance repair and overhaul mro and component operations aircraft mechanics electricians entry level": {
    "id": "188ff3bd2f4e",
@@ -46,24 +170,6 @@
    "url": "https://aplyr.ai/jobs/072928823218/entry-level-f-15-flight-test-data-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
-  },
-  "lockheedmartin.com::software engineer early career": {
-   "id": "1d04c5691b45",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer - Early Career",
-   "locations": [
-    "Huntsville, AL",
-    "Littleton, CO",
-    "Owego, NY",
-    "King of Prussia, PA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-28",
-   "added": "2026-10-28T11:35:09.000Z",
-   "url": "https://aplyr.ai/jobs/1d04c5691b45/software-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "sambanova.ai::post silicon validation engineer new grad": {
    "id": "d6ed59af2df0",
@@ -172,21 +278,6 @@
    "added": "2026-10-28T07:15:35.000Z",
    "pay": "$131k–197k/yr",
    "url": "https://aplyr.ai/jobs/c2d11cab4bcc/compiler-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-28"
-  },
-  "lockheedmartin.com::asic fpga design engineer early career": {
-   "id": "e0ee33bbb858",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "ASIC & FPGA Design Engineer - Early Career",
-   "locations": [
-    "Owego, NY"
-   ],
-   "section": "hw",
-   "posted": "2026-10-27",
-   "added": "2026-10-28T11:35:09.000Z",
-   "url": "https://aplyr.ai/jobs/e0ee33bbb858/asic-fpga-design-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
    "firstSeen": "2026-10-28"
   },
   "lockheedmartin.com::systems integration test engineer asc early career": {
@@ -650,22 +741,6 @@
    "added": "2026-10-15T08:46:12.000Z",
    "url": "https://aplyr.ai/jobs/566896e6f7d8/product-owner-i-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
-  },
-  "lockheedmartin.com::cyber systems security engineering entry level": {
-   "id": "62e58fae5054",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Cyber Systems Security Engineering Entry Level",
-   "locations": [
-    "Huntsville, AL",
-    "Littleton, CO"
-   ],
-   "section": "swe",
-   "posted": "2026-10-13",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/62e58fae5054/cyber-systems-security-engineering-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "ford.com::mechanical hardware engineer early career program advanced ev": {
    "id": "73d34b73c9c0",
@@ -1184,6 +1259,29 @@
    "url": "https://aplyr.ai/jobs/7ecb9363bb98/electrical-engineering-new-graduate-designer-raleigh-nc?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
+  "olsson.com::entry level telecom permit specialist": {
+   "id": "2dfa8cbdb9e7",
+   "company": "Olsson (Engineering)",
+   "companyUrl": "https://aplyr.ai/companies/olsson?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-Level Telecom Permit Specialist",
+   "locations": [
+    "Dallas, TX",
+    "Fort Worth, TX",
+    "Kansas - Remote",
+    "Lincoln, NE",
+    "Missouri - Remote",
+    "North Kansas City, MO",
+    "Omaha, NE",
+    "Overland Park, KS",
+    "Texas - Remote"
+   ],
+   "remote": true,
+   "section": "swe",
+   "posted": "2026-09-30",
+   "added": "2026-10-30T07:00:50.000Z",
+   "url": "https://aplyr.ai/jobs/2dfa8cbdb9e7/entry-level-telecom-permit-specialist?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-30"
+  },
   "recidiviz.org::data analyst entry level": {
    "id": "5a2da285c274",
    "company": "Recidiviz",
@@ -1199,6 +1297,22 @@
    "pay": "$85k/yr",
    "url": "https://aplyr.ai/jobs/5a2da285c274/data-analyst-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
+  },
+  "formlabs.com::r d reliability test engineer entry level": {
+   "id": "a9573568e72c",
+   "company": "Formlabs",
+   "companyUrl": "https://aplyr.ai/companies/formlabs?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "R&D Reliability/Test Engineer - Entry Level",
+   "locations": [
+    "Boston, MA"
+   ],
+   "section": "swe",
+   "posted": "2026-09-29",
+   "added": "2026-04-06T06:00:56.000Z",
+   "pay": "$100k–140k/yr",
+   "url": "https://aplyr.ai/jobs/a9573568e72c/rd-reliabilitytest-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-30"
   },
   "spacex.com::new graduate engineer software starfall": {
    "id": "ba563eed1372",
@@ -1460,6 +1574,20 @@
    "url": "https://aplyr.ai/jobs/8c31b859e420/software-engineer-helios-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
+  },
+  "imegcorp.com::electrical engineering new graduate madison wi": {
+   "id": "693f7b890569",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Madison, WI",
+   "locations": [
+    "Madison, WI"
+   ],
+   "section": "hw",
+   "posted": "2026-09-15",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/693f7b890569/electrical-engineering-new-graduate-madison-wi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18"
   },
   "c3.ai::platform full stack engineer new grad 2027": {
    "id": "28a2cdbdb4f5",
@@ -1906,20 +2034,6 @@
    "url": "https://aplyr.ai/jobs/182ec6e893af/electrical-engineering-new-graduate-chicago-il?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
-  "imegcorp.com::electrical engineering new graduate philadelphia pa": {
-   "id": "1f7e29d557a0",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Philadelphia, PA",
-   "locations": [
-    "Philadelphia, PA"
-   ],
-   "section": "hw",
-   "posted": "2026-08-21",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/1f7e29d557a0/electrical-engineering-new-graduate-philadelphia-pa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
   "freeform.co::electrical engineer new grad summer 2027": {
    "id": "cc65810af08c",
    "company": "Freeform",
@@ -2001,7 +2115,7 @@
    "firstSeen": "2026-10-17"
   },
   "imegcorp.com::electrical engineering new graduate st louis mo": {
-   "id": "056eb51e2ccf",
+   "id": "b39e9f099709",
    "company": "IMEG",
    "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
    "title": "Electrical Engineering New Graduate | St. Louis, MO",
@@ -2011,8 +2125,7 @@
    "section": "hw",
    "posted": "2026-08-19",
    "added": "2026-08-20T07:15:38.000Z",
-   "pay": "$22–24/hr",
-   "url": "https://aplyr.ai/jobs/056eb51e2ccf/electrical-engineering-new-graduate-st-louis-mo?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "url": "https://aplyr.ai/jobs/b39e9f099709/electrical-engineering-new-graduate-st-louis-mo?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
   "imegcorp.com::electrical engineering new graduate greenwood village co": {
@@ -2044,20 +2157,6 @@
    "url": "https://aplyr.ai/jobs/438862c345a4/electrical-engineering-new-graduate-kansas-city-mo?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
-  "imegcorp.com::electrical engineering new graduate": {
-   "id": "cb44d71503cc",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate",
-   "locations": [
-    "St. Louis, MO"
-   ],
-   "section": "hw",
-   "posted": "2026-08-19",
-   "added": "2026-08-20T07:15:38.000Z",
-   "url": "https://aplyr.ai/jobs/cb44d71503cc/electrical-engineering-new-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18"
-  },
   "imegcorp.com::electrical engineering new graduate farmington hills mi": {
    "id": "5ffba904fb1e",
    "company": "IMEG",
@@ -2073,7 +2172,7 @@
    "firstSeen": "2026-10-18"
   },
   "imegcorp.com::electrical engineering new graduate rock island il": {
-   "id": "158bac99b252",
+   "id": "a7a516ff973a",
    "company": "IMEG",
    "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
    "title": "Electrical Engineering New Graduate | Rock Island, IL",
@@ -2083,7 +2182,7 @@
    "section": "hw",
    "posted": "2026-08-18",
    "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/158bac99b252/electrical-engineering-new-graduate-rock-island-il?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "url": "https://aplyr.ai/jobs/a7a516ff973a/electrical-engineering-new-graduate-rock-island-il?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
   "imegcorp.com::electrical engineering new grad columbia sc": {
@@ -2208,6 +2307,53 @@
   }
  },
  "closed": {
+  "lockheedmartin.com::cyber systems security engineering entry level": {
+   "id": "62e58fae5054",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Cyber Systems Security Engineering Entry Level",
+   "locations": [
+    "Huntsville, AL",
+    "Littleton, CO"
+   ],
+   "section": "swe",
+   "posted": "2026-10-13",
+   "added": "2026-10-19T11:37:34.000Z",
+   "url": "https://aplyr.ai/jobs/62e58fae5054/cyber-systems-security-engineering-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-10-30"
+  },
+  "imegcorp.com::electrical engineering new graduate philadelphia pa": {
+   "id": "1f7e29d557a0",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate | Philadelphia, PA",
+   "locations": [
+    "Philadelphia, PA"
+   ],
+   "section": "hw",
+   "posted": "2026-08-21",
+   "added": "2026-10-18T00:22:00.000Z",
+   "url": "https://aplyr.ai/jobs/1f7e29d557a0/electrical-engineering-new-graduate-philadelphia-pa?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-30"
+  },
+  "imegcorp.com::electrical engineering new graduate": {
+   "id": "cb44d71503cc",
+   "company": "IMEG",
+   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineering New Graduate",
+   "locations": [
+    "St. Louis, MO"
+   ],
+   "section": "hw",
+   "posted": "2026-08-19",
+   "added": "2026-08-20T07:15:38.000Z",
+   "url": "https://aplyr.ai/jobs/cb44d71503cc/electrical-engineering-new-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-18",
+   "closedAt": "2026-10-30"
+  },
   "nvidia.com::deep learning performance architect new college grad 2027": {
    "id": "8230b3ac2bce",
    "company": "NVIDIA",
@@ -2484,41 +2630,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-26",
    "closedAt": "2026-10-29"
-  },
-  "imegcorp.com::electrical engineering new graduate madison wi": {
-   "id": "693f7b890569",
-   "company": "IMEG",
-   "companyUrl": "https://aplyr.ai/companies/imegcorp?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineering New Graduate | Madison, WI",
-   "locations": [
-    "Madison, WI"
-   ],
-   "section": "hw",
-   "posted": "2026-09-15",
-   "added": "2026-10-18T00:22:00.000Z",
-   "url": "https://aplyr.ai/jobs/693f7b890569/electrical-engineering-new-graduate-madison-wi?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-18",
-   "closedAt": "2026-10-29"
-  },
-  "lockheedmartin.com::software engineer asc early career": {
-   "id": "fea529ab0b8f",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer Asc - Early Career",
-   "locations": [
-    "Fort Worth, TX",
-    "Marietta, GA",
-    "King of Prussia, PA",
-    "Herndon, VA",
-    "Manassas, VA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T11:34:44.000Z",
-   "url": "https://aplyr.ai/jobs/fea529ab0b8f/software-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19",
-   "closedAt": "2026-10-28"
   },
   "lockheedmartin.com::software engineer combat systems devsecops early career": {
    "id": "b183be80b73a",
@@ -2901,22 +3012,6 @@
    "firstSeen": "2026-10-22",
    "closedAt": "2026-10-24"
   },
-  "lockheedmartin.com::radio frequency engineer early career": {
-   "id": "b8a10b12ba2f",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Radio Frequency Engineer - Early Career",
-   "locations": [
-    "Littleton, CO"
-   ],
-   "section": "hw",
-   "posted": "2026-10-14",
-   "added": "2026-10-19T11:37:34.000Z",
-   "url": "https://aplyr.ai/jobs/b8a10b12ba2f/radio-frequency-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23",
-   "closedAt": "2026-10-24"
-  },
   "lockheedmartin.com::production test engineer ate early career": {
    "id": "b2a5fe8966fa",
    "company": "Lockheed Martin",
@@ -3139,22 +3234,6 @@
    "url": "https://aplyr.ai/jobs/063550f9884f/2027-new-graduate-electrical-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17",
    "closedAt": "2026-10-23"
-  },
-  "carrier.com::digital technology leadership program": {
-   "id": "675ab156d81e",
-   "company": "Carrier",
-   "companyUrl": "https://aplyr.ai/companies/carrier?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Digital Technology Leadership Program",
-   "locations": [
-    "CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33418 USA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-21",
-   "added": "2026-10-21T06:46:00.000Z",
-   "url": "https://aplyr.ai/jobs/675ab156d81e/digital-technology-leadership-program?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-21",
-   "closedAt": "2026-10-22"
   },
   "nvidia.com::software engineer agent performance modeling new college grad 2026": {
    "id": "b0dc047ffdf3",
