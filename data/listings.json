@@ -23,21 +23,6 @@
    "noSponsorship": true,
    "firstSeen": "2026-10-31"
   },
-  "carrier.com::digital technology leadership program": {
-   "id": "396704d9bb77",
-   "company": "Carrier",
-   "companyUrl": "https://aplyr.ai/companies/carrier?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Digital Technology Leadership Program",
-   "locations": [
-    "CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33418 USA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-30",
-   "added": "2026-10-30T18:11:32.000Z",
-   "url": "https://aplyr.ai/jobs/396704d9bb77/digital-technology-leadership-program?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-21"
-  },
   "aerospace.org::2027 data scientist machine learning engineer": {
    "id": "81427598ee9e",
    "company": "Aerospace Corporation",
@@ -49,6 +34,7 @@
    "section": "data",
    "posted": "2026-10-30",
    "added": "2026-10-31T13:31:11.000Z",
+   "pay": "$70k–105k/yr",
    "url": "https://aplyr.ai/jobs/81427598ee9e/2027-data-scientistmachine-learning-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-31"
   },
@@ -63,6 +49,7 @@
    "section": "hw",
    "posted": "2026-10-30",
    "added": "2026-10-31T13:31:11.000Z",
+   "pay": "$90k–140k/yr",
    "url": "https://aplyr.ai/jobs/396eb523587c/2027-entry-level-dsp-sdr-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-31"
   },
@@ -77,8 +64,25 @@
    "section": "hw",
    "posted": "2026-10-30",
    "added": "2026-10-31T13:31:11.000Z",
+   "pay": "$90k–140k/yr",
    "url": "https://aplyr.ai/jobs/6249a0919362/2026-rf-microwave-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-31"
+  },
+  "appliedmaterials.com::new college grad computational physics agentic ai engineer doctorate degree spring 2027": {
+   "id": "d7ab53c9677c",
+   "company": "Applied Materials",
+   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2027)",
+   "locations": [
+    "Santa Clara,CA"
+   ],
+   "section": "data",
+   "posted": "2026-10-30",
+   "added": "2026-10-30T22:00:57.000Z",
+   "pay": "$138k–190k/yr",
+   "url": "https://aplyr.ai/jobs/d7ab53c9677c/new-college-grad-computational-physics-agentic-ai-engineer-doctorate-degree-spri?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-11-01"
   },
   "boeing.com::supply chain analyst entry associate or experienced": {
    "id": "afc8e6d96ee3",
@@ -91,6 +95,7 @@
    "section": "data",
    "posted": "2026-10-30",
    "added": "2026-10-31T07:46:07.000Z",
+   "pay": "$51k–106k/yr",
    "url": "https://aplyr.ai/jobs/afc8e6d96ee3/supply-chain-analyst-entry-associate-or-experienced?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-31"
@@ -106,6 +111,7 @@
    "section": "swe",
    "posted": "2026-10-30",
    "added": "2026-10-30T18:50:15.000Z",
+   "pay": "$70k–113k/yr",
    "url": "https://aplyr.ai/jobs/8217914d50dc/quality-engineer-entry-level-or-associate-f-15?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-31"
@@ -133,7 +139,9 @@
    "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
    "title": "Software Engineer Asc - Early Career",
    "locations": [
-    "Fort Worth, TX"
+    "Fort Worth, TX",
+    "King of Prussia, PA",
+    "Herndon, VA"
    ],
    "section": "swe",
    "posted": "2026-10-29",
@@ -233,24 +241,25 @@
    "section": "hw",
    "posted": "2026-10-29",
    "added": "2026-10-29T18:50:25.000Z",
+   "pay": "$74k–124k/yr",
    "url": "https://aplyr.ai/jobs/f58d845f6958/electronic-and-electrical-systems-design-and-test-engineer-entry-level-or-associ?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
   },
-  "micron.com::new college grad hbm pye product development failure analysis enginee": {
+  "micron.com::new college grad hbm pye product development failure analysis engineer": {
    "id": "64daf6ad90e2",
    "company": "Micron",
    "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "New College Grad - HBM PYE Product Development Failure Analysis Enginee",
+   "title": "New College Grad - HBM PYE Product Development Failure Analysis Engineer",
    "locations": [
     "Boise, ID - Main Site"
    ],
    "section": "hw",
    "posted": "2026-10-29",
    "added": "2026-10-30T07:01:36.000Z",
-   "url": "https://aplyr.ai/jobs/64daf6ad90e2/new-college-grad-hbm-pye-product-development-failure-analysis-enginee?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "url": "https://aplyr.ai/jobs/64daf6ad90e2/new-college-grad-hbm-pye-product-development-failure-analysis-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-10-31"
+   "firstSeen": "2026-11-01"
   },
   "micron.com::new college grad data scientist ai for business functions": {
    "id": "f40be69b1728",
@@ -327,22 +336,8 @@
    "section": "hw",
    "posted": "2026-10-28",
    "added": "2026-10-28T18:50:16.000Z",
+   "pay": "$48k–66k/yr",
    "url": "https://aplyr.ai/jobs/188ff3bd2f4e/maintenance-repair-and-overhaul-mro-and-component-operations-aircraft-mechanics-?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-29"
-  },
-  "boeing.com::entry level f 15 flight test data engineer": {
-   "id": "072928823218",
-   "company": "Boeing",
-   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry-Level F-15 Flight Test Data Engineer",
-   "locations": [
-    "USA - Eglin AFB, FL"
-   ],
-   "section": "data",
-   "posted": "2026-10-28",
-   "added": "2026-10-29T07:45:34.000Z",
-   "url": "https://aplyr.ai/jobs/072928823218/entry-level-f-15-flight-test-data-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
   },
@@ -529,21 +524,6 @@
    "pay": "$110k–140k/yr",
    "url": "https://aplyr.ai/jobs/55124e9a352e/forward-deployed-software-engineer-recent-graduate-new-york?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
-  },
-  "boeing.com::entry level software engineer developers": {
-   "id": "4b887913faa1",
-   "company": "Boeing",
-   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry-level Software Engineer–Developers",
-   "locations": [
-    "USA - El Segundo, CA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-26",
-   "added": "2026-10-27T07:45:28.000Z",
-   "url": "https://aplyr.ai/jobs/4b887913faa1/entry-level-software-engineerdevelopers?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-27"
   },
   "addepar.com::product manager early career ai platform": {
    "id": "0832e682a419",
@@ -824,22 +804,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
   },
-  "boeing.com::entry level flight simulation software engineer": {
-   "id": "c941bed9867c",
-   "company": "Boeing",
-   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry-Level Flight Simulation Software Engineer",
-   "locations": [
-    "USA - Berkeley, MO"
-   ],
-   "section": "swe",
-   "posted": "2026-10-14",
-   "added": "2026-10-15T08:01:52.000Z",
-   "pay": "$78k–106k/yr",
-   "url": "https://aplyr.ai/jobs/c941bed9867c/entry-level-flight-simulation-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17"
-  },
   "micron.com::new college grad embedded firmware engineer": {
    "id": "337139358cd8",
    "company": "Micron",
@@ -870,21 +834,6 @@
    "url": "https://aplyr.ai/jobs/9fc70fbaad8b/formal-verification-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
-  },
-  "pditechnologies.com::product owner i entry level": {
-   "id": "566896e6f7d8",
-   "company": "PDI Technologies",
-   "companyUrl": "https://aplyr.ai/companies/pditechnologies?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Product Owner I (Entry-Level)",
-   "locations": [
-    "Alpharetta, GA",
-    "Remote US"
-   ],
-   "section": "pm",
-   "posted": "2026-10-13",
-   "added": "2026-10-15T08:46:12.000Z",
-   "url": "https://aplyr.ai/jobs/566896e6f7d8/product-owner-i-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
   },
   "lockheedmartin.com::cyber systems security engineering entry level": {
    "id": "62e58fae5054",
@@ -1793,21 +1742,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
   },
-  "rover.com::entry level software engineer recommendations": {
-   "id": "c40bfdb4e3df",
-   "company": "Rover",
-   "companyUrl": "https://aplyr.ai/companies/rover?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry Level Software Engineer, Recommendations",
-   "locations": [
-    "Seattle"
-   ],
-   "section": "swe",
-   "posted": "2026-09-10",
-   "added": "2026-09-17T05:00:21.000Z",
-   "pay": "$100k–129k/yr",
-   "url": "https://aplyr.ai/jobs/c40bfdb4e3df/entry-level-software-engineer-recommendations?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
   "blueorigin.com::electrical engineer i early career new graduate rotation 2027 starts": {
    "id": "2af78d76be8f",
    "company": "Blue Origin",
@@ -2416,6 +2350,119 @@
   }
  },
  "closed": {
+  "carrier.com::digital technology leadership program": {
+   "id": "396704d9bb77",
+   "company": "Carrier",
+   "companyUrl": "https://aplyr.ai/companies/carrier?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Digital Technology Leadership Program",
+   "locations": [
+    "CAF77: CCS - CIB, 13995 Pasteur Boulevard, Palm Beach Gardens, FL, 33418 USA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-30",
+   "added": "2026-10-30T18:11:32.000Z",
+   "url": "https://aplyr.ai/jobs/396704d9bb77/digital-technology-leadership-program?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21",
+   "closedAt": "2026-11-01"
+  },
+  "micron.com::new college grad hbm pye product development failure analysis enginee": {
+   "id": "64daf6ad90e2",
+   "company": "Micron",
+   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New College Grad - HBM PYE Product Development Failure Analysis Enginee",
+   "locations": [
+    "Boise, ID - Main Site"
+   ],
+   "section": "hw",
+   "posted": "2026-10-29",
+   "added": "2026-10-30T07:01:36.000Z",
+   "url": "https://aplyr.ai/jobs/64daf6ad90e2/new-college-grad-hbm-pye-product-development-failure-analysis-enginee?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-31",
+   "closedAt": "2026-11-01"
+  },
+  "boeing.com::entry level f 15 flight test data engineer": {
+   "id": "072928823218",
+   "company": "Boeing",
+   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-Level F-15 Flight Test Data Engineer",
+   "locations": [
+    "USA - Eglin AFB, FL"
+   ],
+   "section": "data",
+   "posted": "2026-10-28",
+   "added": "2026-10-29T07:45:34.000Z",
+   "url": "https://aplyr.ai/jobs/072928823218/entry-level-f-15-flight-test-data-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-29",
+   "closedAt": "2026-11-01"
+  },
+  "boeing.com::entry level software engineer developers": {
+   "id": "4b887913faa1",
+   "company": "Boeing",
+   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-level Software Engineer–Developers",
+   "locations": [
+    "USA - El Segundo, CA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-26",
+   "added": "2026-10-27T07:45:28.000Z",
+   "url": "https://aplyr.ai/jobs/4b887913faa1/entry-level-software-engineerdevelopers?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-27",
+   "closedAt": "2026-11-01"
+  },
+  "boeing.com::entry level flight simulation software engineer": {
+   "id": "c941bed9867c",
+   "company": "Boeing",
+   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-Level Flight Simulation Software Engineer",
+   "locations": [
+    "USA - Berkeley, MO"
+   ],
+   "section": "swe",
+   "posted": "2026-10-14",
+   "added": "2026-10-15T08:01:52.000Z",
+   "pay": "$78k–106k/yr",
+   "url": "https://aplyr.ai/jobs/c941bed9867c/entry-level-flight-simulation-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-11-01"
+  },
+  "pditechnologies.com::product owner i entry level": {
+   "id": "566896e6f7d8",
+   "company": "PDI Technologies",
+   "companyUrl": "https://aplyr.ai/companies/pditechnologies?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Product Owner I (Entry-Level)",
+   "locations": [
+    "Alpharetta, GA",
+    "Remote US"
+   ],
+   "section": "pm",
+   "posted": "2026-10-13",
+   "added": "2026-10-15T08:46:12.000Z",
+   "url": "https://aplyr.ai/jobs/566896e6f7d8/product-owner-i-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-11-01"
+  },
+  "rover.com::entry level software engineer recommendations": {
+   "id": "c40bfdb4e3df",
+   "company": "Rover",
+   "companyUrl": "https://aplyr.ai/companies/rover?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry Level Software Engineer, Recommendations",
+   "locations": [
+    "Seattle"
+   ],
+   "section": "swe",
+   "posted": "2026-09-10",
+   "added": "2026-09-17T05:00:21.000Z",
+   "pay": "$100k–129k/yr",
+   "url": "https://aplyr.ai/jobs/c40bfdb4e3df/entry-level-software-engineer-recommendations?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-11-01"
+  },
   "adobe.com::2027 university graduate technical support consultant": {
    "id": "26d69c56fc92",
    "company": "Adobe",
