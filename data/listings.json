@@ -2,6 +2,20 @@
  "version": 1,
  "slug": "new-grad-2027",
  "open": {
+  "smithfieldfoods.com::career foundation program cfp data analytics may spring 2027 graduates": {
+   "id": "9b6b0c14a17f",
+   "company": "Smithfield Foods",
+   "companyUrl": "https://aplyr.ai/companies/smithfieldfoods?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Career Foundation Program (CFP) - Data Analytics - May/Spring 2027 Graduates",
+   "locations": [
+    "Smithfield, VA"
+   ],
+   "section": "data",
+   "posted": "2026-11-03",
+   "added": "2026-11-03T22:30:54.000Z",
+   "url": "https://aplyr.ai/jobs/9b6b0c14a17f/career-foundation-program-cfp-data-analytics-mayspring-2027-graduates?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-11-04"
+  },
   "boeing.com::entry level command and data handling network engineer autonomous navigation systems": {
    "id": "047efb81e5d9",
    "company": "Boeing",
@@ -100,7 +114,7 @@
    "section": "swe",
    "posted": "2026-11-02",
    "added": "2026-11-03T08:01:01.000Z",
-   "pay": "$120k–140k/yr",
+   "pay": "$120k–$140k/yr",
    "url": "https://aplyr.ai/jobs/f127733d54cf/backend-software-engineer-university-graduate-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-11-03"
   },
@@ -166,7 +180,7 @@
    "section": "swe",
    "posted": "2026-10-30",
    "added": "2026-10-31T08:46:45.000Z",
-   "pay": "$25–27/hr",
+   "pay": "$25–$27/hr",
    "url": "https://aplyr.ai/jobs/d84d1552dc6e/aerospace-visual-inspector-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-31"
@@ -182,7 +196,7 @@
    "section": "hw",
    "posted": "2026-10-30",
    "added": "2026-10-31T13:31:11.000Z",
-   "pay": "$90k–140k/yr",
+   "pay": "$90k–$140k/yr",
    "url": "https://aplyr.ai/jobs/396eb523587c/2027-entry-level-dsp-sdr-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-31"
   },
@@ -197,7 +211,7 @@
    "section": "swe",
    "posted": "2026-10-30",
    "added": "2026-10-30T18:50:15.000Z",
-   "pay": "$70k–113k/yr",
+   "pay": "$69.7k–$112.7k/yr",
    "url": "https://aplyr.ai/jobs/8217914d50dc/quality-engineer-entry-level-or-associate-f-15?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-31"
@@ -214,7 +228,7 @@
    "section": "swe",
    "posted": "2026-10-30",
    "added": "2026-10-30T19:00:55.000Z",
-   "pay": "$57k–109k/yr",
+   "pay": "$57.2k–$108.8k/yr",
    "url": "https://aplyr.ai/jobs/d62c4ec2612d/entry-level-software-developer-application-support-sustainment-remote?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-31"
@@ -261,7 +275,7 @@
    "section": "hw",
    "posted": "2026-10-29",
    "added": "2026-10-29T18:50:25.000Z",
-   "pay": "$74k–124k/yr",
+   "pay": "$73,950–$124,200/yr",
    "url": "https://aplyr.ai/jobs/f58d845f6958/electronic-and-electrical-systems-design-and-test-engineer-entry-level-or-associ?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
@@ -277,7 +291,7 @@
    "section": "hw",
    "posted": "2026-10-29",
    "added": "2026-10-29T22:01:11.000Z",
-   "pay": "$100k–137k/yr",
+   "pay": "$100k–$136.5k/yr",
    "url": "https://aplyr.ai/jobs/3ec1a45aa1a8/rf-electrical-engineer-new-college-grad-masters-santa-clara-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-31"
@@ -326,7 +340,7 @@
    "section": "hw",
    "posted": "2026-10-28",
    "added": "2026-10-28T18:50:16.000Z",
-   "pay": "$48k–66k/yr",
+   "pay": "$48,450–$65,550/yr",
    "url": "https://aplyr.ai/jobs/188ff3bd2f4e/maintenance-repair-and-overhaul-mro-and-component-operations-aircraft-mechanics-?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-29"
@@ -342,7 +356,7 @@
    "section": "hw",
    "posted": "2026-10-27",
    "added": "2026-10-28T07:15:35.000Z",
-   "pay": "$120k–150k/yr",
+   "pay": "$120k–$150k/yr",
    "url": "https://aplyr.ai/jobs/d6ed59af2df0/post-silicon-validation-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -357,7 +371,7 @@
    "section": "hw",
    "posted": "2026-10-27",
    "added": "2026-10-28T07:15:35.000Z",
-   "pay": "$120k–150k/yr",
+   "pay": "$120k–$150k/yr",
    "url": "https://aplyr.ai/jobs/c4335fdf4292/physical-design-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -372,7 +386,7 @@
    "section": "swe",
    "posted": "2026-10-27",
    "added": "2026-10-28T07:15:35.000Z",
-   "pay": "$120k–150k/yr",
+   "pay": "$120k–$150k/yr",
    "url": "https://aplyr.ai/jobs/f66213f0bb5a/design-verification-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -388,7 +402,7 @@
    "section": "swe",
    "posted": "2026-10-27",
    "added": "2026-10-28T07:15:35.000Z",
-   "pay": "$131k–197k/yr",
+   "pay": "$131.2k–$196.8k/yr",
    "url": "https://aplyr.ai/jobs/f2d769debb33/cloud-platform-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -404,7 +418,7 @@
    "section": "data",
    "posted": "2026-10-27",
    "added": "2026-10-28T07:15:35.000Z",
-   "pay": "$131k–197k/yr",
+   "pay": "$131.2k–$196.8k/yr",
    "url": "https://aplyr.ai/jobs/5b76c6dfbe6d/ml-infrastructure-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -420,7 +434,7 @@
    "section": "swe",
    "posted": "2026-10-27",
    "added": "2026-10-28T07:15:35.000Z",
-   "pay": "$131k–196k/yr",
+   "pay": "$131.2k–$196.2k/yr",
    "url": "https://aplyr.ai/jobs/a5829be677c4/runtime-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -436,7 +450,7 @@
    "section": "swe",
    "posted": "2026-10-27",
    "added": "2026-10-28T07:15:35.000Z",
-   "pay": "$131k–197k/yr",
+   "pay": "$131.2k–$196.8k/yr",
    "url": "https://aplyr.ai/jobs/c2d11cab4bcc/compiler-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -467,7 +481,7 @@
    "section": "swe",
    "posted": "2026-10-27",
    "added": "2026-10-28T09:02:17.000Z",
-   "pay": "$95k–125k/yr",
+   "pay": "$95k–$125k/yr",
    "url": "https://aplyr.ai/jobs/303fc7ffde86/forward-deployed-software-engineer-recent-graduate-dc-metro?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -482,7 +496,7 @@
    "section": "swe",
    "posted": "2026-10-27",
    "added": "2026-10-28T09:02:17.000Z",
-   "pay": "$15–15.5/hr",
+   "pay": "$15–$15.50/hr",
    "url": "https://aplyr.ai/jobs/22875ab37732/forward-deployed-software-engineer-recent-graduate-chicago?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -497,7 +511,7 @@
    "section": "hw",
    "posted": "2026-10-27",
    "added": "2026-10-28T07:45:49.000Z",
-   "pay": "$76k–107k/yr",
+   "pay": "$76,050–$106,950/yr",
    "url": "https://aplyr.ai/jobs/8d2c446777e0/entry-level-digital-electronics-circuit-unit-hardware-design-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-28"
@@ -513,7 +527,7 @@
    "section": "swe",
    "posted": "2026-10-27",
    "added": "2026-10-28T07:45:49.000Z",
-   "pay": "$65k–73k/yr",
+   "pay": "$65,000–$72,680/yr",
    "url": "https://aplyr.ai/jobs/1bab785c41d5/entry-level-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-23"
@@ -529,7 +543,7 @@
    "section": "swe",
    "posted": "2026-10-26",
    "added": "2026-10-28T09:02:17.000Z",
-   "pay": "$110k–140k/yr",
+   "pay": "$110k–$140k/yr",
    "url": "https://aplyr.ai/jobs/55124e9a352e/forward-deployed-software-engineer-recent-graduate-new-york?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -544,7 +558,7 @@
    "section": "pm",
    "posted": "2026-10-23",
    "added": "2026-10-24T04:45:33.000Z",
-   "pay": "$83k–130k/yr",
+   "pay": "$83k–$130k/yr",
    "url": "https://aplyr.ai/jobs/0832e682a419/product-manager-early-career-ai-platform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-24"
@@ -560,7 +574,7 @@
    "section": "swe",
    "posted": "2026-10-23",
    "added": "2026-10-23T12:30:21.000Z",
-   "pay": "$92k–127k/yr",
+   "pay": "$92k–$126.5k/yr",
    "url": "https://aplyr.ai/jobs/cc3a5afda909/2027-software-engineer-new-college-grad-bachelors-gloucester-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
@@ -591,7 +605,7 @@
    "section": "swe",
    "posted": "2026-10-22",
    "added": "2026-10-25T05:15:46.000Z",
-   "pay": "$135k–145k/yr",
+   "pay": "$135k–$145k/yr",
    "url": "https://aplyr.ai/jobs/b2176a490a88/forward-deployed-software-engineer-new-grad-warp-speed?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -608,7 +622,7 @@
    "section": "swe",
    "posted": "2026-10-22",
    "added": "2026-10-23T07:45:43.000Z",
-   "pay": "$70k–80k/yr",
+   "pay": "$70k–$80k/yr",
    "url": "https://aplyr.ai/jobs/5ed9c6772b76/software-engineer-i-qa-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-23"
@@ -688,7 +702,7 @@
    "section": "hw",
    "posted": "2026-10-22",
    "added": "2026-10-22T22:21:01.000Z",
-   "pay": "$67k–85k/yr",
+   "pay": "$66.9k–$85.3k/yr",
    "url": "https://aplyr.ai/jobs/9d2707ea00f1/entry-level-control-hardware-development-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
@@ -719,7 +733,7 @@
    "section": "data",
    "posted": "2026-10-20",
    "added": "2026-10-21T07:15:50.000Z",
-   "pay": "$131k–197k/yr",
+   "pay": "$131.2k–$196.8k/yr",
    "url": "https://aplyr.ai/jobs/75fa24aaa2c6/ai-performance-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-21"
   },
@@ -765,7 +779,7 @@
    "section": "swe",
    "posted": "2026-10-19",
    "added": "2026-10-22T05:18:06.000Z",
-   "pay": "$145k–155k/yr",
+   "pay": "$145k–$155k/yr",
    "url": "https://aplyr.ai/jobs/2622b21d56a5/software-engineer-new-grad-query-engines?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-22"
@@ -781,7 +795,7 @@
    "section": "swe",
    "posted": "2026-10-19",
    "added": "2026-10-20T05:16:07.000Z",
-   "pay": "$120k–150k/yr",
+   "pay": "$120k–$150k/yr",
    "url": "https://aplyr.ai/jobs/24c7a1c87487/forward-deployed-engineer-federal-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-20"
@@ -812,7 +826,7 @@
    "section": "hw",
    "posted": "2026-10-19",
    "added": "2026-10-19T18:50:56.000Z",
-   "pay": "$25.15–42.75/hr",
+   "pay": "$25.15–$42.75/hr",
    "url": "https://aplyr.ai/jobs/2027d1c5d8bf/semiconductor-field-service-engineer-new-college-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
@@ -843,7 +857,7 @@
    "section": "hw",
    "posted": "2026-10-16",
    "added": "2026-10-17T09:04:24.000Z",
-   "pay": "$140k–150k/yr",
+   "pay": "$140k–$150k/yr",
    "url": "https://aplyr.ai/jobs/1dc32dff6d66/hardware-security-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -858,7 +872,7 @@
    "section": "pm",
    "posted": "2026-10-15",
    "added": "2026-10-17T22:41:46.000Z",
-   "pay": "$100k–137k/yr",
+   "pay": "$100k–$136.5k/yr",
    "url": "https://aplyr.ai/jobs/39f4d9d42327/product-management-ii-new-college-grad-masters-santa-clara-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -934,7 +948,7 @@
    "section": "hw",
    "posted": "2026-10-14",
    "added": "2026-10-07T05:15:39.000Z",
-   "pay": "$100k–167k/yr",
+   "pay": "$100,000–$166,750/yr",
    "url": "https://aplyr.ai/jobs/9fc70fbaad8b/formal-verification-engineer-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-25"
@@ -998,7 +1012,7 @@
    "section": "data",
    "posted": "2026-10-12",
    "added": "2026-10-13T05:46:14.000Z",
-   "pay": "$138k–186k/yr",
+   "pay": "$137.7k–$186.3k/yr",
    "url": "https://aplyr.ai/jobs/68da1afe6ae8/ai-research-engineer-new-phd-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-26"
@@ -1014,7 +1028,7 @@
    "section": "pm",
    "posted": "2026-10-12",
    "added": "2026-10-13T12:30:37.000Z",
-   "pay": "$80k–110k/yr",
+   "pay": "$80k–$110k/yr",
    "url": "https://aplyr.ai/jobs/2a03a517f7ae/product-line-management-i-new-college-grad-bachelors-santa-clara-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-26"
@@ -1030,7 +1044,7 @@
    "section": "data",
    "posted": "2026-10-12",
    "added": "2026-10-17T22:27:12.000Z",
-   "pay": "$128k–279k/yr",
+   "pay": "$128k–$279k/yr",
    "url": "https://aplyr.ai/jobs/eebfceac4bfe/entry-level-aimachine-learning-researcher?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-17"
@@ -1106,7 +1120,7 @@
    "section": "swe",
    "posted": "2026-10-10",
    "added": "2026-10-10T05:00:24.000Z",
-   "pay": "$92k–140k/yr",
+   "pay": "$92k–$140k/yr",
    "url": "https://aplyr.ai/jobs/18ffd77a7738/engineer-ii-software-test-and-automation-r6221-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -1122,7 +1136,7 @@
    "section": "swe",
    "posted": "2026-10-10",
    "added": "2026-10-10T05:00:24.000Z",
-   "pay": "$100k–150k/yr",
+   "pay": "$100k–$150k/yr",
    "url": "https://aplyr.ai/jobs/de4b7e8bf962/engineer-ii-software-factory-r6217-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-28"
@@ -1139,7 +1153,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-10-10T05:00:24.000Z",
-   "pay": "$79k–110k/yr",
+   "pay": "$79k–$110k/yr",
    "url": "https://aplyr.ai/jobs/bdaccd303802/engineer-i-software-integration-r6214-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
@@ -1154,7 +1168,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-10-10T05:01:10.000Z",
-   "pay": "$70k–80k/yr",
+   "pay": "$70k–$80k/yr",
    "url": "https://aplyr.ai/jobs/6637db2af139/sap-abap-btp-full-stack-developer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -1173,7 +1187,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-10-10T05:01:10.000Z",
-   "pay": "$90k–112k/yr",
+   "pay": "$90k–$112k/yr",
    "url": "https://aplyr.ai/jobs/53376539df56/2027-early-career-quality-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-26"
@@ -1189,7 +1203,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-10-10T10:00:33.000Z",
-   "pay": "$100k–130k/yr",
+   "pay": "$100k–$130k/yr",
    "url": "https://aplyr.ai/jobs/e4dda6e401c2/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
@@ -1205,7 +1219,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-10-17T22:29:18.000Z",
-   "pay": "$72k–142k/yr",
+   "pay": "$72k–$141.7k/yr",
    "url": "https://aplyr.ai/jobs/75608df17b19/software-engineer-2027-new-college-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-28"
@@ -1221,7 +1235,7 @@
    "section": "swe",
    "posted": "2026-10-09",
    "added": "2026-10-17T22:29:18.000Z",
-   "pay": "$59k–94k/yr",
+   "pay": "$58.5k–$93.5k/yr",
    "url": "https://aplyr.ai/jobs/c8bdf4efc16a/it-leadership-program-new-grads?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1237,7 +1251,7 @@
    "section": "swe",
    "posted": "2026-10-08",
    "added": "2026-10-08T05:47:09.000Z",
-   "pay": "$58k–116k/yr",
+   "pay": "$58k–$115.9k/yr",
    "url": "https://aplyr.ai/jobs/848d7bb3c1cb/entry-level-c-software-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1253,7 +1267,7 @@
    "section": "hw",
    "posted": "2026-10-07",
    "added": "2026-10-08T06:01:11.000Z",
-   "pay": "$125k–150k/yr",
+   "pay": "$125k–$150k/yr",
    "url": "https://aplyr.ai/jobs/4ba2f4f6ab68/fpga-engineer-new-grad-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -1269,7 +1283,7 @@
    "section": "swe",
    "posted": "2026-10-07",
    "added": "2026-03-29T05:45:56.000Z",
-   "pay": "$110k–135k/yr",
+   "pay": "$110k–$135k/yr",
    "url": "https://aplyr.ai/jobs/30711dfa6410/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1285,7 +1299,7 @@
    "section": "pm",
    "posted": "2026-10-07",
    "added": "2026-03-29T05:45:56.000Z",
-   "pay": "$95k–120k/yr",
+   "pay": "$95k–$120k/yr",
    "url": "https://aplyr.ai/jobs/e386b0cd3d31/associate-product-manager-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1317,7 +1331,7 @@
    "section": "swe",
    "posted": "2026-10-06",
    "added": "2026-10-07T05:01:20.000Z",
-   "pay": "$77k–211k/yr",
+   "pay": "$77.2k–$211.2k/yr",
    "url": "https://aplyr.ai/jobs/1ca45eb62063/software-development-engineer-new-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -1332,7 +1346,7 @@
    "section": "swe",
    "posted": "2026-10-05",
    "added": "2026-10-06T06:15:41.000Z",
-   "pay": "$122k–157k/yr",
+   "pay": "$122k–$157k/yr",
    "url": "https://aplyr.ai/jobs/f96eaf04b6ab/software-engineer-ii-developer-portal-new-grad-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1348,7 +1362,7 @@
    "section": "swe",
    "posted": "2026-10-05",
    "added": "2026-10-06T06:15:41.000Z",
-   "pay": "$122k–157k/yr",
+   "pay": "$122k–$157k/yr",
    "url": "https://aplyr.ai/jobs/898e703781d5/software-development-engineer-ii-life-hub-super-app-new-grad-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1364,7 +1378,7 @@
    "section": "data",
    "posted": "2026-10-05",
    "added": "2026-10-06T09:01:37.000Z",
-   "pay": "$65k–75k/yr",
+   "pay": "$65k–$75k/yr",
    "url": "https://aplyr.ai/jobs/8328fd2aa9f3/programmer-analyst-entry-level-data-analystdata-scientist-marketing-analytics?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-18"
@@ -1395,7 +1409,7 @@
    "section": "swe",
    "posted": "2026-10-02",
    "added": "2026-10-03T05:30:10.000Z",
-   "pay": "$165k–182k/yr",
+   "pay": "$165k–$181.5k/yr",
    "url": "https://aplyr.ai/jobs/d11235f7c0e2/software-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -1482,7 +1496,7 @@
    "section": "swe",
    "posted": "2026-09-29",
    "added": "2026-04-06T06:00:56.000Z",
-   "pay": "$100k–140k/yr",
+   "pay": "$100k–$140k/yr",
    "url": "https://aplyr.ai/jobs/a9573568e72c/rd-reliabilitytest-engineer-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-30"
@@ -1498,7 +1512,7 @@
    "section": "swe",
    "posted": "2026-09-29",
    "added": "2026-09-29T07:30:58.000Z",
-   "pay": "$125k–160k/yr",
+   "pay": "$125k–$160k/yr",
    "url": "https://aplyr.ai/jobs/ba563eed1372/new-graduate-engineer-software-starfall?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1514,7 +1528,7 @@
    "section": "hw",
    "posted": "2026-09-25",
    "added": "2026-09-26T05:00:44.000Z",
-   "pay": "$100k–150k/yr",
+   "pay": "$100k–$150k/yr",
    "url": "https://aplyr.ai/jobs/c71aaa5f8552/rf-engineer-i-new-grad-r6108?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-22"
   },
@@ -1529,7 +1543,7 @@
    "section": "hw",
    "posted": "2026-09-24",
    "added": "2026-09-25T05:00:47.000Z",
-   "pay": "$100k–150k/yr",
+   "pay": "$100k–$150k/yr",
    "url": "https://aplyr.ai/jobs/37144e56d5cb/engineer-i-pcb-new-grad-r6065?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-22"
   },
@@ -1544,7 +1558,7 @@
    "section": "swe",
    "posted": "2026-09-24",
    "added": "2026-09-25T08:01:21.000Z",
-   "pay": "$130k–150k/yr",
+   "pay": "$130k–$150k/yr",
    "url": "https://aplyr.ai/jobs/846902913888/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1560,7 +1574,7 @@
    "section": "swe",
    "posted": "2026-09-23",
    "added": "2026-09-24T07:30:58.000Z",
-   "pay": "$120k–150k/yr",
+   "pay": "$120k–$150k/yr",
    "url": "https://aplyr.ai/jobs/1a7993508ca6/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1576,7 +1590,7 @@
    "section": "swe",
    "posted": "2026-09-23",
    "added": "2026-09-24T07:16:05.000Z",
-   "pay": "$124k–162k/yr",
+   "pay": "$124k–$162k/yr",
    "url": "https://aplyr.ai/jobs/40663efabbb6/software-engineer-public-sector-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1643,7 +1657,7 @@
    "section": "data",
    "posted": "2026-09-22",
    "added": "2026-09-24T09:01:29.000Z",
-   "pay": "$58k–70k/yr",
+   "pay": "$58k–$70k/yr",
    "url": "https://aplyr.ai/jobs/f4f576f45bcf/entry-level-occupational-safety-and-health-data-analyst?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
@@ -1714,7 +1728,7 @@
    "section": "swe",
    "posted": "2026-09-17",
    "added": "2026-10-24T05:03:40.000Z",
-   "pay": "$100k–150k/yr",
+   "pay": "$100k–$150k/yr",
    "url": "https://aplyr.ai/jobs/d70be9bf4b87/software-engineer-i-new-grad-r6052?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-24"
   },
@@ -1773,7 +1787,7 @@
    "section": "swe",
    "posted": "2026-09-14",
    "added": "2026-09-17T05:16:03.000Z",
-   "pay": "$120k–150k/yr",
+   "pay": "$120k–$150k/yr",
    "url": "https://aplyr.ai/jobs/28a2cdbdb4f5/platform-full-stack-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1818,7 +1832,7 @@
    "section": "swe",
    "posted": "2026-09-11",
    "added": "2026-09-17T07:31:04.000Z",
-   "pay": "$130k–195k/yr",
+   "pay": "$130k–$195k/yr",
    "url": "https://aplyr.ai/jobs/41164f411e17/new-graduate-engineer-security-software-starshield?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1872,7 +1886,7 @@
    "section": "swe",
    "posted": "2026-09-09",
    "added": "2026-09-17T05:46:19.000Z",
-   "pay": "$150k–165k/yr",
+   "pay": "$150k–$165k/yr",
    "url": "https://aplyr.ai/jobs/9f0db6a309fc/software-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1905,7 +1919,7 @@
    "section": "swe",
    "posted": "2026-09-08",
    "added": "2026-09-17T07:31:04.000Z",
-   "pay": "$125k–175k/yr",
+   "pay": "$125k–$175k/yr",
    "url": "https://aplyr.ai/jobs/2be378acaf31/new-graduate-engineer-software-starship?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -1981,7 +1995,7 @@
    "section": "swe",
    "posted": "2026-09-04",
    "added": "2026-09-17T07:15:43.000Z",
-   "pay": "$124k–162k/yr",
+   "pay": "$124k–$162k/yr",
    "url": "https://aplyr.ai/jobs/a60753cb60c1/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -2001,7 +2015,7 @@
    "section": "swe",
    "posted": "2026-09-04",
    "added": "2026-09-17T05:46:19.000Z",
-   "pay": "$107k–158k/yr",
+   "pay": "$107.4k–$158k/yr",
    "url": "https://aplyr.ai/jobs/0db19ea78bf7/software-engineer-i-entry-level-graduation-date-fall-2026-summer-2027-us?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -2018,7 +2032,7 @@
    "section": "swe",
    "posted": "2026-09-01",
    "added": "2026-09-18T10:00:19.000Z",
-   "pay": "$135k–160k/yr",
+   "pay": "$135k–$160k/yr",
    "url": "https://aplyr.ai/jobs/048f46f54f47/software-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
@@ -2079,7 +2093,7 @@
    "section": "swe",
    "posted": "2026-08-31",
    "added": "2026-09-17T05:30:16.000Z",
-   "pay": "$150k–180k/yr",
+   "pay": "$150k–$180k/yr",
    "url": "https://aplyr.ai/jobs/e0516430bd83/software-engineer-agent-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -2094,7 +2108,7 @@
    "section": "swe",
    "posted": "2026-08-31",
    "added": "2026-10-19T05:16:42.000Z",
-   "pay": "$135k–145k/yr",
+   "pay": "$135k–$145k/yr",
    "url": "https://aplyr.ai/jobs/59fdd103b5d8/forward-deployed-infrastructure-engineer-new-grad-us-government?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-19"
@@ -2110,7 +2124,7 @@
    "section": "hw",
    "posted": "2026-08-31",
    "added": "2026-09-02T07:15:41.000Z",
-   "pay": "$76k–80k/yr",
+   "pay": "$76k–$80k/yr",
    "url": "https://aplyr.ai/jobs/5d3c4038bb5e/electrical-engineering-new-graduate-new-york-ny?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
@@ -2169,7 +2183,7 @@
    "section": "hw",
    "posted": "2026-08-19",
    "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$105k–120k/yr",
+   "pay": "$105k–$120k/yr",
    "url": "https://aplyr.ai/jobs/cc65810af08c/electrical-engineer-new-grad-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -2184,7 +2198,7 @@
    "section": "swe",
    "posted": "2026-08-19",
    "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$125k–150k/yr",
+   "pay": "$125k–$150k/yr",
    "url": "https://aplyr.ai/jobs/ca9ea3781a68/software-engineer-new-grad-summer-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -2199,7 +2213,7 @@
    "section": "swe",
    "posted": "2026-08-19",
    "added": "2026-09-17T07:31:04.000Z",
-   "pay": "$125k–195k/yr",
+   "pay": "$125k–$195k/yr",
    "url": "https://aplyr.ai/jobs/f6512a507459/new-graduate-engineer-software-application-software?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -2233,7 +2247,7 @@
    "section": "swe",
    "posted": "2026-08-19",
    "added": "2026-09-17T07:31:04.000Z",
-   "pay": "$140k–210k/yr",
+   "pay": "$140k–$210k/yr",
    "url": "https://aplyr.ai/jobs/c6969f677b31/new-graduate-engineer-software-security-2627-starlink?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-17"
@@ -2263,7 +2277,7 @@
    "section": "hw",
    "posted": "2026-08-19",
    "added": "2026-08-20T07:15:38.000Z",
-   "pay": "$76k–80k/yr",
+   "pay": "$76k–$80k/yr",
    "url": "https://aplyr.ai/jobs/531cd1706c1e/electrical-engineering-new-graduate-greenwood-village-co?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
   },
@@ -2365,7 +2379,7 @@
    "section": "swe",
    "posted": "2026-08-10",
    "added": "2026-09-17T05:15:32.000Z",
-   "pay": "$120k–165k/yr",
+   "pay": "$120k–$165k/yr",
    "url": "https://aplyr.ai/jobs/7ede2d95e439/new-grads-2027-software-engineer-algorithm?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -2380,7 +2394,7 @@
    "section": "swe",
    "posted": "2026-08-10",
    "added": "2026-09-17T05:15:32.000Z",
-   "pay": "$120k–165k/yr",
+   "pay": "$120k–$165k/yr",
    "url": "https://aplyr.ai/jobs/8247ac14931c/new-grads-2027-software-engineer-perceptioncomputer-vision?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -2395,7 +2409,7 @@
    "section": "hw",
    "posted": "2026-08-07",
    "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$110k–125k/yr",
+   "pay": "$110k–$125k/yr",
    "url": "https://aplyr.ai/jobs/3ae4a15a12ac/electrical-engineer-new-grad-december-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   },
@@ -2410,7 +2424,7 @@
    "section": "swe",
    "posted": "2026-08-07",
    "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$125k–150k/yr",
+   "pay": "$125k–$150k/yr",
    "url": "https://aplyr.ai/jobs/796e66e07e9e/software-engineer-new-grad-december-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
   }
