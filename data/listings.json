@@ -2,20 +2,112 @@
  "version": 1,
  "slug": "new-grad-2027",
  "open": {
-  "micron.com::new college grad hbm design architect": {
-   "id": "8b2b6483f123",
-   "company": "Micron",
-   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "New College Grad - HBM Design Architect",
+  "lockheedmartin.com::electrical engineer fpga design early career": {
+   "id": "60dfa5cae0f5",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electrical Engineer (FPGA Design) - Early Career",
    "locations": [
-    "Richardson, TX"
+    "Orlando, FL"
    ],
    "section": "hw",
    "posted": "2026-11-05",
-   "added": "2026-11-05T18:20:56.000Z",
-   "url": "https://aplyr.ai/jobs/8b2b6483f123/new-college-grad-hbm-design-architect?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "added": "2026-11-06T11:34:01.000Z",
+   "url": "https://aplyr.ai/jobs/60dfa5cae0f5/electrical-engineer-fpga-design-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
-   "firstSeen": "2026-11-05"
+   "firstSeen": "2026-11-06"
+  },
+  "lockheedmartin.com::software engineer flight test early career": {
+   "id": "58bf403ef3df",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer (Flight Test) - Early Career",
+   "locations": [
+    "Marietta, GA"
+   ],
+   "section": "swe",
+   "posted": "2026-11-05",
+   "added": "2026-11-06T11:34:01.000Z",
+   "url": "https://aplyr.ai/jobs/58bf403ef3df/software-engineer-flight-test-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-11-06"
+  },
+  "lockheedmartin.com::flight test instrumentation electrical design engineer early career": {
+   "id": "820d8b5008af",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Flight Test Instrumentation Electrical Design Engineer - Early Career",
+   "locations": [
+    "Marietta, GA"
+   ],
+   "section": "hw",
+   "posted": "2026-11-05",
+   "added": "2026-11-06T11:34:01.000Z",
+   "url": "https://aplyr.ai/jobs/820d8b5008af/flight-test-instrumentation-electrical-design-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-11-06"
+  },
+  "lockheedmartin.com::software engineer asc early career": {
+   "id": "a504f2891c76",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer Asc - Early Career",
+   "locations": [
+    "Fort Worth, TX"
+   ],
+   "section": "swe",
+   "posted": "2026-11-05",
+   "added": "2026-11-06T11:34:01.000Z",
+   "url": "https://aplyr.ai/jobs/a504f2891c76/software-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
+  "spacex.com::new graduate engineer electrical satellites starlink": {
+   "id": "91eabc29f7db",
+   "company": "SpaceX",
+   "companyUrl": "https://aplyr.ai/companies/spacex?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New Graduate Engineer, Electrical - Satellites (Starlink)",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "section": "hw",
+   "posted": "2026-11-05",
+   "added": "2026-11-06T07:31:10.000Z",
+   "pay": "$105k–$175k/yr",
+   "url": "https://aplyr.ai/jobs/91eabc29f7db/new-graduate-engineer-electrical-satellites-starlink?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-11-06"
+  },
+  "lockheedmartin.com::software engineer early career": {
+   "id": "09175851d91e",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer - Early Career",
+   "locations": [
+    "Colorado Springs, CO"
+   ],
+   "section": "swe",
+   "posted": "2026-11-05",
+   "added": "2026-11-06T11:34:01.000Z",
+   "url": "https://aplyr.ai/jobs/09175851d91e/software-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19"
+  },
+  "stubhub.com::software engineer i new grad consumer experience": {
+   "id": "a98877db4f44",
+   "company": "StubHub",
+   "companyUrl": "https://aplyr.ai/companies/stubhub?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer I (New Grad) - Consumer Experience",
+   "locations": [
+    "New York, New York"
+   ],
+   "section": "swe",
+   "posted": "2026-11-05",
+   "added": "2026-11-06T07:31:10.000Z",
+   "pay": "$120k–$150k/yr",
+   "url": "https://aplyr.ai/jobs/a98877db4f44/software-engineer-i-new-grad-consumer-experience?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-11-06"
   },
   "leidos.com::entry level software tester": {
    "id": "3431c04c464e",
@@ -31,6 +123,21 @@
    "url": "https://aplyr.ai/jobs/3431c04c464e/entry-level-software-tester?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-11-05"
+  },
+  "northropgrumman.com::2027 associate systems test engineer systems test engineer huntsville al": {
+   "id": "c98a97e0320b",
+   "company": "Northrop Grumman",
+   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "2027 Associate Systems Test Engineer / Systems Test Engineer - Huntsville AL",
+   "locations": [
+    "United States-Alabama-Huntsville"
+   ],
+   "section": "swe",
+   "posted": "2026-11-05",
+   "added": "2026-11-06T08:01:27.000Z",
+   "url": "https://aplyr.ai/jobs/c98a97e0320b/2027-associate-systems-test-engineer-systems-test-engineer-huntsville-al?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-11-06"
   },
   "attainpartners.com::entry level business analyst": {
    "id": "d90a6738d4f9",
@@ -83,8 +190,7 @@
    "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
    "title": "Systems Integration/Test Engineer Asc - Early Career",
    "locations": [
-    "Littleton, CO",
-    "Kennedy Space Center, FL"
+    "Littleton, CO"
    ],
    "section": "hw",
    "posted": "2026-11-04",
@@ -200,63 +306,6 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-11-04"
   },
-  "lockheedmartin.com::software engineer early career": {
-   "id": "877f9588c7bd",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer - Early Career",
-   "locations": [
-    "Huntsville, AL",
-    "Rockville, MD",
-    "Sunnyvale, CA",
-    "King of Prussia, PA",
-    "Littleton, CO",
-    "Owego, NY",
-    "Marietta, GA",
-    "Herndon, VA"
-   ],
-   "section": "swe",
-   "posted": "2026-11-03",
-   "added": "2026-11-03T11:41:19.000Z",
-   "url": "https://aplyr.ai/jobs/877f9588c7bd/software-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
-  "lockheedmartin.com::software engineer asc early career": {
-   "id": "ad5a49440499",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer Asc- Early Career",
-   "locations": [
-    "Orlando, FL",
-    "King of Prussia, PA",
-    "Herndon, VA",
-    "Fort Worth, TX",
-    "Marietta, GA",
-    "Manassas, VA"
-   ],
-   "section": "swe",
-   "posted": "2026-11-03",
-   "added": "2026-11-03T11:41:19.000Z",
-   "url": "https://aplyr.ai/jobs/ad5a49440499/software-engineer-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
-  },
-  "lockheedmartin.com::entry level test engineer missile sensor systems": {
-   "id": "e9154d03565e",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry-Level Test Engineer - Missile/Sensor Systems",
-   "locations": [
-    "Orlando, FL"
-   ],
-   "section": "swe",
-   "posted": "2026-11-02",
-   "added": "2026-11-03T11:41:19.000Z",
-   "url": "https://aplyr.ai/jobs/e9154d03565e/entry-level-test-engineer-missilesensor-systems?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-11-03"
-  },
   "kgroupcompanies.com::field service technicain entry level": {
    "id": "0d95db9c3db8",
    "company": "K Group",
@@ -271,22 +320,6 @@
    "added": "2026-11-04T09:02:26.000Z",
    "url": "https://aplyr.ai/jobs/0d95db9c3db8/field-service-technicain-entry-level?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-18"
-  },
-  "lockheedmartin.com::radio frequency engineer early career": {
-   "id": "4fe13b0ad47b",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Radio Frequency Engineer - Early Career",
-   "locations": [
-    "Liverpool, NY",
-    "Colorado Springs, CO"
-   ],
-   "section": "hw",
-   "posted": "2026-11-02",
-   "added": "2026-11-03T11:41:19.000Z",
-   "url": "https://aplyr.ai/jobs/4fe13b0ad47b/radio-frequency-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
   },
   "aecom.com::entry level digital solutions business analyst": {
    "id": "eaba28daeb0b",
@@ -304,21 +337,6 @@
    "url": "https://aplyr.ai/jobs/eaba28daeb0b/entry-level-digital-solutions-business-analyst?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-11-04"
-  },
-  "lockheedmartin.com::dev sec engineering early career": {
-   "id": "5ac62de7a6d2",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Dev Sec Engineering - Early Career",
-   "locations": [
-    "Herndon, VA"
-   ],
-   "section": "swe",
-   "posted": "2026-11-02",
-   "added": "2026-11-03T11:41:19.000Z",
-   "url": "https://aplyr.ai/jobs/5ac62de7a6d2/dev-sec-engineering-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-11-03"
   },
   "sqaservices.com::aerospace visual inspector entry level": {
    "id": "d84d1552dc6e",
@@ -356,54 +374,6 @@
    "url": "https://aplyr.ai/jobs/396eb523587c/2027-entry-level-dsp-sdr-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-31"
   },
-  "rtx.com::entry level software developer application support sustainment remote": {
-   "id": "d62c4ec2612d",
-   "company": "RTX/Raytheon",
-   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry-Level Software Developer - Application Support & Sustainment (Remote)",
-   "locations": [
-    "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108"
-   ],
-   "remote": true,
-   "section": "swe",
-   "posted": "2026-10-30",
-   "added": "2026-10-30T19:00:55.000Z",
-   "pay": "$57.2k–$108.8k/yr",
-   "url": "https://aplyr.ai/jobs/d62c4ec2612d/entry-level-software-developer-application-support-sustainment-remote?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-31"
-  },
-  "lockheedmartin.com::asic fpga design engineer early career": {
-   "id": "9ce916ce3dd4",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "ASIC & FPGA Design Engineer- Early Career",
-   "locations": [
-    "Liverpool, NY",
-    "Owego, NY"
-   ],
-   "section": "hw",
-   "posted": "2026-10-29",
-   "added": "2026-10-30T11:35:21.000Z",
-   "url": "https://aplyr.ai/jobs/9ce916ce3dd4/asic-fpga-design-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-28"
-  },
-  "lockheedmartin.com::electronics engineer early career": {
-   "id": "0330f898d508",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electronics Engineer - Early Career",
-   "locations": [
-    "Owego, NY"
-   ],
-   "section": "hw",
-   "posted": "2026-10-29",
-   "added": "2026-10-30T11:35:21.000Z",
-   "url": "https://aplyr.ai/jobs/0330f898d508/electronics-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-30"
-  },
   "appliedmaterials.com::rf electrical engineer new college grad master s santa clara ca": {
    "id": "3ec1a45aa1a8",
    "company": "Applied Materials",
@@ -417,39 +387,6 @@
    "added": "2026-10-29T22:01:11.000Z",
    "pay": "$100k–$136.5k/yr",
    "url": "https://aplyr.ai/jobs/3ec1a45aa1a8/rf-electrical-engineer-new-college-grad-masters-santa-clara-ca?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-31"
-  },
-  "lockheedmartin.com::a ai machine learning engineer early career": {
-   "id": "b07933746a72",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "A/AI Machine Learning Engineer - Early Career",
-   "locations": [
-    "King of Prussia, PA",
-    "Sunnyvale, CA",
-    "Littleton, CO",
-    "Herndon, VA"
-   ],
-   "section": "data",
-   "posted": "2026-10-28",
-   "added": "2026-10-30T11:35:21.000Z",
-   "url": "https://aplyr.ai/jobs/b07933746a72/aai-machine-learning-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-31"
-  },
-  "lockheedmartin.com::hardware systems engineer early career": {
-   "id": "0615a9ada854",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Hardware Systems Engineer - Early Career",
-   "locations": [
-    "Owego, NY"
-   ],
-   "section": "hw",
-   "posted": "2026-10-28",
-   "added": "2026-10-30T11:35:21.000Z",
-   "url": "https://aplyr.ai/jobs/0615a9ada854/hardware-systems-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-31"
   },
@@ -578,22 +515,6 @@
    "url": "https://aplyr.ai/jobs/c2d11cab4bcc/compiler-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-28"
   },
-  "boeing.com::entry level digital electronics circuit unit hardware design engineer": {
-   "id": "8d2c446777e0",
-   "company": "Boeing",
-   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer",
-   "locations": [
-    "USA - El Segundo, CA"
-   ],
-   "section": "hw",
-   "posted": "2026-10-27",
-   "added": "2026-10-28T07:45:49.000Z",
-   "pay": "$76,050–$106,950/yr",
-   "url": "https://aplyr.ai/jobs/8d2c446777e0/entry-level-digital-electronics-circuit-unit-hardware-design-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-28"
-  },
   "boeing.com::entry level software engineer": {
    "id": "1bab785c41d5",
    "company": "Boeing",
@@ -690,69 +611,21 @@
    "noSponsorship": true,
    "firstSeen": "2026-10-23"
   },
-  "lockheedmartin.com::software engineer combat systems devsecops early career": {
-   "id": "b183be80b73a",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer (Combat Systems DevSecOps) - Early Career",
+  "hpe.com::graduate electrical hdwr engineer i": {
+   "id": "1fc2558ffda0",
+   "company": "HPE",
+   "companyUrl": "https://aplyr.ai/companies/hpe?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Graduate Electrical Hdwr Engineer I",
    "locations": [
-    "Mount Laurel, NJ"
+    "Chippewa Falls, Wisconsin"
    ],
-   "section": "swe",
+   "section": "hw",
    "posted": "2026-10-22",
-   "added": "2026-10-23T11:34:44.000Z",
-   "url": "https://aplyr.ai/jobs/b183be80b73a/software-engineer-combat-systems-devsecops-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "added": "2026-10-23T09:30:48.000Z",
+   "pay": "$65.2k–$150.5k/yr",
+   "url": "https://aplyr.ai/jobs/1fc2558ffda0/graduate-electrical-hdwr-engineer-i?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "sponsorsH1B": true,
    "firstSeen": "2026-10-23"
-  },
-  "lockheedmartin.com::database administration asc early career": {
-   "id": "3fcafff3f92a",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Database Administration Asc - Early Career",
-   "locations": [
-    "Herndon, VA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T11:34:44.000Z",
-   "url": "https://aplyr.ai/jobs/3fcafff3f92a/database-administration-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "lockheedmartin.com::a ai machine learning engineering early career": {
-   "id": "efe90bca4350",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "A/AI Machine Learning Engineering - Early Career",
-   "locations": [
-    "Littleton, CO",
-    "Sunnyvale, CA",
-    "King of Prussia, PA"
-   ],
-   "section": "data",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T11:34:44.000Z",
-   "url": "https://aplyr.ai/jobs/efe90bca4350/aai-machine-learning-engineering-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23"
-  },
-  "lockheedmartin.com::a ai machine learning engineering asc early career": {
-   "id": "6b36e58ae3d1",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "A/AI Machine Learning Engineering Asc - Early Career",
-   "locations": [
-    "Littleton, CO",
-    "Sunnyvale, CA",
-    "King of Prussia, PA"
-   ],
-   "section": "data",
-   "posted": "2026-10-22",
-   "added": "2026-10-22T11:43:01.000Z",
-   "url": "https://aplyr.ai/jobs/6b36e58ae3d1/aai-machine-learning-engineering-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-19"
   },
   "motorolasolutions.com::entry level control hardware development engineer": {
    "id": "9d2707ea00f1",
@@ -815,22 +688,6 @@
    "added": "2026-10-21T07:15:50.000Z",
    "pay": "$131.2k–$196.8k/yr",
    "url": "https://aplyr.ai/jobs/75fa24aaa2c6/ai-performance-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-21"
-  },
-  "lockheedmartin.com::electronic packaging mechanical engineer early career westford ma": {
-   "id": "7a9d946411e5",
-   "company": "Lockheed Martin",
-   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electronic Packaging / Mechanical Engineer - Early Career - Westford, MA",
-   "locations": [
-    "Westford, MA",
-    "Andover, MA"
-   ],
-   "section": "hw",
-   "posted": "2026-10-20",
-   "added": "2026-10-21T11:44:32.000Z",
-   "url": "https://aplyr.ai/jobs/7a9d946411e5/electronic-packaging-mechanical-engineer-early-career-westford-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
    "firstSeen": "2026-10-21"
   },
   "ford.com::supply chain program management ai tool creation early career program advanced ev": {
@@ -911,20 +768,20 @@
    "sponsorsH1B": true,
    "firstSeen": "2026-10-19"
   },
-  "together.ai::hardware security engineer new grad 2027": {
-   "id": "1dc32dff6d66",
-   "company": "Together AI",
-   "companyUrl": "https://aplyr.ai/companies/together?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Hardware Security Engineer, New Grad (2027)",
+  "shield.ai::ewis harness design engineer i new grad": {
+   "id": "435752422000",
+   "company": "Shield AI",
+   "companyUrl": "https://aplyr.ai/companies/shield?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "EWIS Harness Design - Engineer I - New Grad",
    "locations": [
-    "San Francisco"
+    "Seattle, Washington"
    ],
    "section": "hw",
    "posted": "2026-10-16",
-   "added": "2026-10-17T09:04:24.000Z",
-   "pay": "$140k–$150k/yr",
-   "url": "https://aplyr.ai/jobs/1dc32dff6d66/hardware-security-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
+   "added": "2026-10-16T05:02:05.000Z",
+   "pay": "$95k–$140k/yr",
+   "url": "https://aplyr.ai/jobs/435752422000/ewis-harness-design-engineer-i-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-11-06"
   },
   "appliedmaterials.com::product management ii new college grad master s santa clara ca": {
    "id": "39f4d9d42327",
@@ -1624,7 +1481,7 @@
    "section": "swe",
    "posted": "2026-09-22",
    "added": "2026-09-24T09:01:29.000Z",
-   "pay": "$75k/yr",
+   "pay": "$63k–$73k/yr",
    "url": "https://aplyr.ai/jobs/a8e361f3af4b/production-programmer-entry-level-sql-developer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "noSponsorship": true,
    "firstSeen": "2026-10-18"
@@ -2384,39 +2241,278 @@
    "pay": "$120k–$165k/yr",
    "url": "https://aplyr.ai/jobs/8247ac14931c/new-grads-2027-software-engineer-perceptioncomputer-vision?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17"
-  },
-  "freeform.co::electrical engineer new grad december 2026": {
-   "id": "3ae4a15a12ac",
-   "company": "Freeform",
-   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Electrical Engineer (New Grad December 2026)",
-   "locations": [
-    "Los Angeles, CA (On-site)"
-   ],
-   "section": "hw",
-   "posted": "2026-08-07",
-   "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$110k–$125k/yr",
-   "url": "https://aplyr.ai/jobs/3ae4a15a12ac/electrical-engineer-new-grad-december-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
-  },
-  "freeform.co::software engineer new grad december 2026": {
-   "id": "796e66e07e9e",
-   "company": "Freeform",
-   "companyUrl": "https://aplyr.ai/companies/freeform?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer (New Grad December 2026)",
-   "locations": [
-    "Los Angeles, CA (On-site)"
-   ],
-   "section": "swe",
-   "posted": "2026-08-07",
-   "added": "2026-09-17T06:01:11.000Z",
-   "pay": "$125k–$150k/yr",
-   "url": "https://aplyr.ai/jobs/796e66e07e9e/software-engineer-new-grad-december-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-17"
   }
  },
  "closed": {
+  "micron.com::new college grad hbm design architect": {
+   "id": "8b2b6483f123",
+   "company": "Micron",
+   "companyUrl": "https://aplyr.ai/companies/micron?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "New College Grad - HBM Design Architect",
+   "locations": [
+    "Richardson, TX"
+   ],
+   "section": "hw",
+   "posted": "2026-11-05",
+   "added": "2026-11-05T18:20:56.000Z",
+   "url": "https://aplyr.ai/jobs/8b2b6483f123/new-college-grad-hbm-design-architect?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-11-05",
+   "closedAt": "2026-11-06"
+  },
+  "lockheedmartin.com::entry level test engineer missile sensor systems": {
+   "id": "e9154d03565e",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-Level Test Engineer - Missile/Sensor Systems",
+   "locations": [
+    "Orlando, FL"
+   ],
+   "section": "swe",
+   "posted": "2026-11-02",
+   "added": "2026-11-03T11:41:19.000Z",
+   "url": "https://aplyr.ai/jobs/e9154d03565e/entry-level-test-engineer-missilesensor-systems?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-11-03",
+   "closedAt": "2026-11-06"
+  },
+  "lockheedmartin.com::radio frequency engineer early career": {
+   "id": "4fe13b0ad47b",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Radio Frequency Engineer - Early Career",
+   "locations": [
+    "Liverpool, NY",
+    "Colorado Springs, CO"
+   ],
+   "section": "hw",
+   "posted": "2026-11-02",
+   "added": "2026-11-03T11:41:19.000Z",
+   "url": "https://aplyr.ai/jobs/4fe13b0ad47b/radio-frequency-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-11-06"
+  },
+  "lockheedmartin.com::dev sec engineering early career": {
+   "id": "5ac62de7a6d2",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Dev Sec Engineering - Early Career",
+   "locations": [
+    "Herndon, VA"
+   ],
+   "section": "swe",
+   "posted": "2026-11-02",
+   "added": "2026-11-03T11:41:19.000Z",
+   "url": "https://aplyr.ai/jobs/5ac62de7a6d2/dev-sec-engineering-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-11-03",
+   "closedAt": "2026-11-06"
+  },
+  "rtx.com::entry level software developer application support sustainment remote": {
+   "id": "d62c4ec2612d",
+   "company": "RTX/Raytheon",
+   "companyUrl": "https://aplyr.ai/companies/rtx?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-Level Software Developer - Application Support & Sustainment (Remote)",
+   "locations": [
+    "US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108"
+   ],
+   "remote": true,
+   "section": "swe",
+   "posted": "2026-10-30",
+   "added": "2026-10-30T19:00:55.000Z",
+   "pay": "$57.2k–$108.8k/yr",
+   "url": "https://aplyr.ai/jobs/d62c4ec2612d/entry-level-software-developer-application-support-sustainment-remote?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-31",
+   "closedAt": "2026-11-06"
+  },
+  "lockheedmartin.com::asic fpga design engineer early career": {
+   "id": "9ce916ce3dd4",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "ASIC & FPGA Design Engineer- Early Career",
+   "locations": [
+    "Liverpool, NY",
+    "Owego, NY"
+   ],
+   "section": "hw",
+   "posted": "2026-10-29",
+   "added": "2026-10-30T11:35:21.000Z",
+   "url": "https://aplyr.ai/jobs/9ce916ce3dd4/asic-fpga-design-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-28",
+   "closedAt": "2026-11-06"
+  },
+  "lockheedmartin.com::electronics engineer early career": {
+   "id": "0330f898d508",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electronics Engineer - Early Career",
+   "locations": [
+    "Owego, NY"
+   ],
+   "section": "hw",
+   "posted": "2026-10-29",
+   "added": "2026-10-30T11:35:21.000Z",
+   "url": "https://aplyr.ai/jobs/0330f898d508/electronics-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-30",
+   "closedAt": "2026-11-06"
+  },
+  "lockheedmartin.com::a ai machine learning engineer early career": {
+   "id": "b07933746a72",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "A/AI Machine Learning Engineer - Early Career",
+   "locations": [
+    "King of Prussia, PA",
+    "Sunnyvale, CA",
+    "Littleton, CO",
+    "Herndon, VA"
+   ],
+   "section": "data",
+   "posted": "2026-10-28",
+   "added": "2026-10-30T11:35:21.000Z",
+   "url": "https://aplyr.ai/jobs/b07933746a72/aai-machine-learning-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-31",
+   "closedAt": "2026-11-06"
+  },
+  "lockheedmartin.com::hardware systems engineer early career": {
+   "id": "0615a9ada854",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Hardware Systems Engineer - Early Career",
+   "locations": [
+    "Owego, NY"
+   ],
+   "section": "hw",
+   "posted": "2026-10-28",
+   "added": "2026-10-30T11:35:21.000Z",
+   "url": "https://aplyr.ai/jobs/0615a9ada854/hardware-systems-engineer-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-31",
+   "closedAt": "2026-11-06"
+  },
+  "boeing.com::entry level digital electronics circuit unit hardware design engineer": {
+   "id": "8d2c446777e0",
+   "company": "Boeing",
+   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Entry-level Digital Electronics Circuit & Unit Hardware Design Engineer",
+   "locations": [
+    "USA - El Segundo, CA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-27",
+   "added": "2026-10-28T07:45:49.000Z",
+   "pay": "$76,050–$106,950/yr",
+   "url": "https://aplyr.ai/jobs/8d2c446777e0/entry-level-digital-electronics-circuit-unit-hardware-design-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "noSponsorship": true,
+   "firstSeen": "2026-10-28",
+   "closedAt": "2026-11-06"
+  },
+  "lockheedmartin.com::software engineer combat systems devsecops early career": {
+   "id": "b183be80b73a",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Software Engineer (Combat Systems DevSecOps) - Early Career",
+   "locations": [
+    "Mount Laurel, NJ"
+   ],
+   "section": "swe",
+   "posted": "2026-10-22",
+   "added": "2026-10-23T11:34:44.000Z",
+   "url": "https://aplyr.ai/jobs/b183be80b73a/software-engineer-combat-systems-devsecops-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-11-06"
+  },
+  "lockheedmartin.com::database administration asc early career": {
+   "id": "3fcafff3f92a",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Database Administration Asc - Early Career",
+   "locations": [
+    "Herndon, VA"
+   ],
+   "section": "swe",
+   "posted": "2026-10-22",
+   "added": "2026-10-23T11:34:44.000Z",
+   "url": "https://aplyr.ai/jobs/3fcafff3f92a/database-administration-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-11-06"
+  },
+  "lockheedmartin.com::a ai machine learning engineering early career": {
+   "id": "efe90bca4350",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "A/AI Machine Learning Engineering - Early Career",
+   "locations": [
+    "Littleton, CO",
+    "Sunnyvale, CA",
+    "King of Prussia, PA"
+   ],
+   "section": "data",
+   "posted": "2026-10-22",
+   "added": "2026-10-23T11:34:44.000Z",
+   "url": "https://aplyr.ai/jobs/efe90bca4350/aai-machine-learning-engineering-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-23",
+   "closedAt": "2026-11-06"
+  },
+  "lockheedmartin.com::a ai machine learning engineering asc early career": {
+   "id": "6b36e58ae3d1",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "A/AI Machine Learning Engineering Asc - Early Career",
+   "locations": [
+    "Littleton, CO",
+    "Sunnyvale, CA",
+    "King of Prussia, PA"
+   ],
+   "section": "data",
+   "posted": "2026-10-22",
+   "added": "2026-10-22T11:43:01.000Z",
+   "url": "https://aplyr.ai/jobs/6b36e58ae3d1/aai-machine-learning-engineering-asc-early-career?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-19",
+   "closedAt": "2026-11-06"
+  },
+  "lockheedmartin.com::electronic packaging mechanical engineer early career westford ma": {
+   "id": "7a9d946411e5",
+   "company": "Lockheed Martin",
+   "companyUrl": "https://aplyr.ai/companies/lockheedmartin?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Electronic Packaging / Mechanical Engineer - Early Career - Westford, MA",
+   "locations": [
+    "Westford, MA",
+    "Andover, MA"
+   ],
+   "section": "hw",
+   "posted": "2026-10-20",
+   "added": "2026-10-21T11:44:32.000Z",
+   "url": "https://aplyr.ai/jobs/7a9d946411e5/electronic-packaging-mechanical-engineer-early-career-westford-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "sponsorsH1B": true,
+   "firstSeen": "2026-10-21",
+   "closedAt": "2026-11-06"
+  },
+  "together.ai::hardware security engineer new grad 2027": {
+   "id": "1dc32dff6d66",
+   "company": "Together AI",
+   "companyUrl": "https://aplyr.ai/companies/together?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
+   "title": "Hardware Security Engineer, New Grad (2027)",
+   "locations": [
+    "San Francisco"
+   ],
+   "section": "hw",
+   "posted": "2026-10-16",
+   "added": "2026-10-17T09:04:24.000Z",
+   "pay": "$140k–$150k/yr",
+   "url": "https://aplyr.ai/jobs/1dc32dff6d66/hardware-security-engineer-new-grad-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
+   "firstSeen": "2026-10-17",
+   "closedAt": "2026-11-06"
+  },
   "carrier.com::digital technology leadership program": {
    "id": "0ce22fe9eed0",
    "company": "Carrier",
@@ -3758,22 +3854,6 @@
    "firstSeen": "2026-10-20",
    "closedAt": "2026-10-25"
   },
-  "hpe.com::graduate electrical hdwr engineer i": {
-   "id": "1fc2558ffda0",
-   "company": "HPE",
-   "companyUrl": "https://aplyr.ai/companies/hpe?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Graduate Electrical Hdwr Engineer I",
-   "locations": [
-    "Chippewa Falls, Wisconsin"
-   ],
-   "section": "hw",
-   "posted": "2026-10-22",
-   "added": "2026-10-23T09:30:48.000Z",
-   "url": "https://aplyr.ai/jobs/1fc2558ffda0/graduate-electrical-hdwr-engineer-i?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-23",
-   "closedAt": "2026-10-24"
-  },
   "affirm.com::analyst early career full stack": {
    "id": "7ea422e77d2f",
    "company": "Affirm",
@@ -4014,173 +4094,6 @@
    "url": "https://aplyr.ai/jobs/063550f9884f/2027-new-graduate-electrical-engineer?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
    "firstSeen": "2026-10-17",
    "closedAt": "2026-10-23"
-  },
-  "nvidia.com::software engineer agent performance modeling new college grad 2026": {
-   "id": "b0dc047ffdf3",
-   "company": "NVIDIA",
-   "companyUrl": "https://aplyr.ai/companies/nvidia?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, Agent Performance Modeling - New College Grad 2026",
-   "locations": [
-    "US, CA, Santa Clara"
-   ],
-   "section": "swe",
-   "posted": "2026-10-21",
-   "added": "2026-10-21T05:16:55.000Z",
-   "url": "https://aplyr.ai/jobs/b0dc047ffdf3/software-engineer-agent-performance-modeling-new-college-grad-2026?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-21",
-   "closedAt": "2026-10-22"
-  },
-  "appliedmaterials.com::algorithm developer masters degree new college grad santa clara": {
-   "id": "9ea62e49ecc9",
-   "company": "Applied Materials",
-   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Algorithm Developer, Masters Degree, New College Grad (Santa Clara)",
-   "locations": [
-    "Santa Clara,CA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-20",
-   "added": "2026-10-20T22:00:57.000Z",
-   "url": "https://aplyr.ai/jobs/9ea62e49ecc9/algorithm-developer-masters-degree-new-college-grad-santa-clara?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-21",
-   "closedAt": "2026-10-22"
-  },
-  "appliedmaterials.com::software engineer bachelors degree new college grad santa clara": {
-   "id": "7f7e4fa8dbce",
-   "company": "Applied Materials",
-   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer, Bachelors Degree, New College Grad (Santa Clara)",
-   "locations": [
-    "Santa Clara,CA"
-   ],
-   "section": "swe",
-   "posted": "2026-10-19",
-   "added": "2026-10-19T22:01:06.000Z",
-   "pay": "$104k–143k/yr",
-   "url": "https://aplyr.ai/jobs/7f7e4fa8dbce/software-engineer-bachelors-degree-new-college-grad-santa-clara?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-20",
-   "closedAt": "2026-10-22"
-  },
-  "appliedmaterials.com::service product manager product line management new college grad master s santa clara ca austin tx": {
-   "id": "ad8459a3a711",
-   "company": "Applied Materials",
-   "companyUrl": "https://aplyr.ai/companies/appliedmaterials?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Service Product Manager/Product Line Management New College Grad- Master's (Santa Clara, CA/Austin, TX)",
-   "locations": [
-    "Santa Clara,CA",
-    "Austin,TX"
-   ],
-   "section": "pm",
-   "posted": "2026-10-19",
-   "added": "2026-10-19T22:01:06.000Z",
-   "pay": "$87k–119k/yr",
-   "url": "https://aplyr.ai/jobs/ad8459a3a711/service-product-managerproduct-line-management-new-college-grad-masters-santa-cl?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-20",
-   "closedAt": "2026-10-22"
-  },
-  "globalfoundries.com::ai ml systems engineer 2027 new college graduate": {
-   "id": "df04a7e4f6a4",
-   "company": "GlobalFoundries",
-   "companyUrl": "https://aplyr.ai/companies/globalfoundries?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "AI/ML Systems Engineer (2027 New College Graduate)",
-   "locations": [
-    "USA - Texas - Richardson"
-   ],
-   "section": "data",
-   "posted": "2026-10-19",
-   "added": "2026-10-19T20:40:17.000Z",
-   "pay": "$86k–148k/yr",
-   "url": "https://aplyr.ai/jobs/df04a7e4f6a4/aiml-systems-engineer-2027-new-college-graduate?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-21",
-   "closedAt": "2026-10-22"
-  },
-  "northropgrumman.com::2027 associate software engineer pathways linthicum ma": {
-   "id": "77da2462c5ae",
-   "company": "Northrop Grumman",
-   "companyUrl": "https://aplyr.ai/companies/northropgrumman?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "2027 Associate/Software Engineer Pathways Linthicum MA",
-   "locations": [
-    "United States-Maryland-Linthicum"
-   ],
-   "section": "swe",
-   "posted": "2026-10-19",
-   "added": "2026-10-19T19:01:20.000Z",
-   "pay": "$76k–138k/yr",
-   "url": "https://aplyr.ai/jobs/77da2462c5ae/2027-associatesoftware-engineer-pathways-linthicum-ma?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "noSponsorship": true,
-   "firstSeen": "2026-10-19",
-   "closedAt": "2026-10-22"
-  },
-  "luminai.com::forward deployed engineer new grad": {
-   "id": "93449553caa7",
-   "company": "Luminai",
-   "companyUrl": "https://aplyr.ai/companies/luminai?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Forward Deployed Engineer - New Grad",
-   "locations": [
-    "SF Bay Area",
-    "New York"
-   ],
-   "section": "swe",
-   "posted": "2026-10-15",
-   "added": "2026-10-17T09:45:21.000Z",
-   "pay": "$150k–180k/yr",
-   "url": "https://aplyr.ai/jobs/93449553caa7/forward-deployed-engineer-new-grad?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "firstSeen": "2026-10-19",
-   "closedAt": "2026-10-22"
-  },
-  "boeing.com::entry level software engineer test verification": {
-   "id": "9b1b6b9ad71d",
-   "company": "Boeing",
-   "companyUrl": "https://aplyr.ai/companies/boeing?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Entry-Level Software Engineer–Test & Verification",
-   "locations": [
-    "USA - Tinker AFB, OK"
-   ],
-   "section": "swe",
-   "posted": "2026-10-12",
-   "added": "2026-10-17T22:24:25.000Z",
-   "url": "https://aplyr.ai/jobs/9b1b6b9ad71d/entry-level-software-engineertest-verification?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-22"
-  },
-  "belvederetrading.com::software engineer entry level 2027": {
-   "id": "b6c9f60b192a",
-   "company": "Belvedere Trading",
-   "companyUrl": "https://aplyr.ai/companies/belvederetrading?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Software Engineer - Entry Level 2027",
-   "locations": [
-    "Chicago, Illinois"
-   ],
-   "section": "swe",
-   "posted": "2026-08-04",
-   "added": "2026-09-17T05:15:32.000Z",
-   "pay": "$140k/yr",
-   "url": "https://aplyr.ai/jobs/b6c9f60b192a/software-engineer-entry-level-2027?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-17",
-   "closedAt": "2026-10-22"
-  },
-  "janestreet.com::hardware engineer fpga asic": {
-   "id": "c84bf5d26097",
-   "company": "Jane Street",
-   "companyUrl": "https://aplyr.ai/companies/janestreet?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=company",
-   "title": "Hardware Engineer (FPGA/ASIC)",
-   "locations": [
-    "New York, New York"
-   ],
-   "section": "hw",
-   "posted": "2026-07-24",
-   "added": "2026-09-17T06:30:57.000Z",
-   "url": "https://aplyr.ai/jobs/c84bf5d26097/hardware-engineer-fpgaasic?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-2027&utm_content=apply",
-   "sponsorsH1B": true,
-   "firstSeen": "2026-10-18",
-   "closedAt": "2026-10-22"
   }
  }
 }
